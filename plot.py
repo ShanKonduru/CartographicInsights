@@ -10,7 +10,8 @@ gdf = gpd.read_file(shapefile_path)
 # Dummy sales data (replace this with your actual sales data)
 sales_data = {
     'State': ['New York', 'California', 'Texas'],
-    'SalesPerson': ['John', 'Alice', 'Bob']
+    'SalesPerson': ['John', 'Alice', 'Bob'],
+    'SalesValue': ['$10K', '$20K', '$13K']  # Add SalesValue column
 }
 
 # Merge sales data with shapefile data
@@ -30,20 +31,19 @@ def on_dropdown_change(sales_person):
     # Iterate through filtered data and add markers to the map
     for index, row in filtered_data.iterrows():
         state = row['name']
+        sales_value = row['SalesValue']  # Get sales value
 
         # Add a marker to the MarkerCluster
         folium.Marker(
             location=[row.geometry.centroid.y, row.geometry.centroid.x],
-            popup=f"State: {state}<br>Sales Person: {sales_person}",
-            icon=folium.Icon(color='blue')
+            popup=folium.Popup(f"State:<strong>{state}</strong><br>Sales Person:<strong>{sales_person}</strong><br>Sales Value:<strong>{sales_value}</strong>", max_width=300),  # Adjust max_width as needed            icon=folium.Icon(color='blue')
         ).add_to(marker_cluster)
 
 # Get unique salesperson names
 sales_persons = merged_data['SalesPerson'].unique()
 
-# Iterate over each unique salesperson
+# Register the callback function with the dropdown widget for each unique salesperson
 for sales_person_name in sales_persons:
-    # Register the callback function with the dropdown widget
     on_dropdown_change(sales_person_name)
 
 # Save the map to an HTML file
