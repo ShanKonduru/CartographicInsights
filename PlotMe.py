@@ -23,15 +23,22 @@ class PlotMe:
 
     def add_markers_filtered(self, **kwargs):
         filtered_data = self.merged_data.copy()
+        popup_text = ""
         for key, value in kwargs.items():
             filtered_data = filtered_data[filtered_data[key] == value]
-            
+            popup_text += "<br>" + key + ": <strong>" + value + "</strong>"
+        
+        print(popup_text)
+
+        print(filtered_data.columns)
+        print(filtered_data.head())
+
         for index, row in filtered_data.iterrows():
             state = row['name']
             sales_value = row['SalesValue']
             folium.Marker(
                 location=[row.geometry.centroid.y, row.geometry.centroid.x],
-                popup=folium.Popup(f"State:<strong>{state}</strong><br>Sales Person:<strong>{kwargs['SalesPerson']}</strong><br>Sales Value:<strong>{sales_value}</strong>", max_width=300),
+                popup=folium.Popup(f""+ popup_text +"<br>Sales Value:<strong>{sales_value}</strong>", max_width=300),
                 icon=folium.Icon(color='blue')
             ).add_to(self.marker_cluster)
 

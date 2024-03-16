@@ -11,7 +11,7 @@ Season Generation:
 =IF(OR(I2="Jan", I2="Feb", I2="Dec"), "Winter", IF(OR(I2="Mar", I2="Apr", I2="May"), "Spring", IF(OR(I2="Jun", I2="Jul", I2="Aug"), "Summer", IF(OR(I2="Sep", I2="Oct", I2="Nov"), "Autumn", ""))))
 
 
-Direction Generation:
+Region Direction Generation:
 --------------------
 =CHOOSE(RANDBETWEEN(1,8), "East", "West", "North", "South", "North-East", "South-East", "South-West", "North-West")
 
@@ -20,7 +20,7 @@ Sales Persons Name:
 =CHOOSE(RANDBETWEEN(1,20), "Mohammed Khan","Maria Garcia","Liu Wei","Priya Patel","Jamal Al-Farsi","Anna Nowak","Carlos Rodriguez","Yuri Petrov","Fatima Mohamed","Ahmed Hassan","Nguyen Minh","Isabella Rossi","Juan Lopez","Yuki Tanaka","Leila Abadi","David Kim","Aisha Abubakar","Marcelo Silva","Ingrid Svensson","Miguel Fernandez")
 
 
-USA Stat Generation:
+USA State Generation:
 -------------------
 =CHOOSE(RANDBETWEEN(1,57), "AL", "AK", "AZ", "AR", "AS", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "MP", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "TT", "UT", "VT", "VA", "VI", "WA", "WV", "WI", "WY")
 
