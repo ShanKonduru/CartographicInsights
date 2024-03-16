@@ -1,0 +1,37 @@
+Country Name Generation
+-----------------------
+	=CHOOSE(RANDBETWEEN(1,4), "USA", "CANADA", "INDIA", "UK")
+
+Month Name Generation based on G2 Cell
+--------------------------------------
+	=CHOOSE(=MONTH(G2), "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+
+Season Generation:
+------------------
+=IF(OR(I2="Jan", I2="Feb", I2="Dec"), "Winter", IF(OR(I2="Mar", I2="Apr", I2="May"), "Spring", IF(OR(I2="Jun", I2="Jul", I2="Aug"), "Summer", IF(OR(I2="Sep", I2="Oct", I2="Nov"), "Autumn", ""))))
+
+
+Direction Generation:
+--------------------
+=CHOOSE(RANDBETWEEN(1,8), "East", "West", "North", "South", "North-East", "South-East", "South-West", "North-West")
+
+Sales Persons Name:
+------------------
+=CHOOSE(RANDBETWEEN(1,20), "Mohammed Khan","Maria Garcia","Liu Wei","Priya Patel","Jamal Al-Farsi","Anna Nowak","Carlos Rodriguez","Yuri Petrov","Fatima Mohamed","Ahmed Hassan","Nguyen Minh","Isabella Rossi","Juan Lopez","Yuki Tanaka","Leila Abadi","David Kim","Aisha Abubakar","Marcelo Silva","Ingrid Svensson","Miguel Fernandez")
+
+
+USA Stat Generation:
+-------------------
+=CHOOSE(RANDBETWEEN(1,57), "AL", "AK", "AZ", "AR", "AS", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "MP", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "TT", "UT", "VT", "VA", "VI", "WA", "WV", "WI", "WY")
+
+Sales Manager Name:
+-------------------
+=CHOOSE(RANDBETWEEN(1,5), "Sophia Li","Mohammad Rahman","Elena Costa","Tariq Khan","Mei Chen")
+
+Sale Amount:
+-----------
+=RANDBETWEEN(1, 25)*RANDBETWEEN(11000, 1000000)+RANDBETWEEN(11000, 1000000)
+
+Date of Sale:
+------------
+=RANDBETWEEN(date(2010, 1, 1), Date(2020, 12, 31))
