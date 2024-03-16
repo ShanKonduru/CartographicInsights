@@ -11,7 +11,7 @@ gdf = gpd.read_file(shapefile_path)
 sales_data = {
     'State': ['New York', 'California', 'Texas'],
     'SalesPerson': ['John', 'Alice', 'Bob'],
-    'SalesValue': ['$10K', '$20K', '$13K']  # Add SalesValue column
+    'SalesValue': ['$10K', '$20K', '$13K']
 }
 
 # Merge sales data with shapefile data
