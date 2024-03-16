@@ -1,4 +1,4 @@
-﻿Contry,State,Region,SalesPerson,SalesManager,Sales,DateOfSale,YearOfSale,MonthOfSale,Season
+﻿Country,State,Region,SalesPerson,SalesManager,SalesValue,DateOfSale,YearOfSale,MonthOfSale,Season
 USA,AS,West,Aisha Abubakar,Mohammad Rahman,"780,148.00","Friday, August 7, 2015",2015,Aug,Summer
 USA,AL,North,David Kim,Mei Chen,"18,370,581.00","Thursday, December 12, 2013",2013,Dec,Winter
 USA,PR,South-West,Aisha Abubakar,Mohammad Rahman,"21,175,053.00","Wednesday, October 16, 2013",2013,Oct,Autumn

@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_00428f1121c4617404f96d07ced40f35 {
+                #map_9188e2ba832925a2205e401fbb562882 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -42,14 +42,14 @@
 <body>
     
     
-            <div class="folium-map" id="map_00428f1121c4617404f96d07ced40f35" ></div>
+            <div class="folium-map" id="map_9188e2ba832925a2205e401fbb562882" ></div>
         
 </body>
 <script>
     
     
-            var map_00428f1121c4617404f96d07ced40f35 = L.map(
-                "map_00428f1121c4617404f96d07ced40f35",
+            var map_9188e2ba832925a2205e401fbb562882 = L.map(
+                "map_9188e2ba832925a2205e401fbb562882",
                 {
                     center: [37.0902, -95.7129],
                     crs: L.CRS.EPSG3857,
@@ -63,102 +63,21 @@
 
         
     
-            var tile_layer_a8fe1d51299544a9133ca6371dedb0f0 = L.tileLayer(
+            var tile_layer_e8df282dd32fe539762cd128317c448c = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             );
         
     
-            tile_layer_a8fe1d51299544a9133ca6371dedb0f0.addTo(map_00428f1121c4617404f96d07ced40f35);
+            tile_layer_e8df282dd32fe539762cd128317c448c.addTo(map_9188e2ba832925a2205e401fbb562882);
         
     
-            var marker_cluster_8928d7641302bff336bb89260bc8a23b = L.markerClusterGroup(
+            var marker_cluster_cabb3c2e2aea9e59b6e0d4a5045ff86a = L.markerClusterGroup(
                 {}
             );
         
     
-            var marker_d52e2c6afbc163bc341979eea988b0d3 = L.marker(
-                [37.25514453351569, -119.6405439614745],
-                {}
-            ).addTo(marker_cluster_8928d7641302bff336bb89260bc8a23b);
-        
-    
-            var icon_61c7dd247606e158389dc88f5e177a06 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
-            );
-            marker_d52e2c6afbc163bc341979eea988b0d3.setIcon(icon_61c7dd247606e158389dc88f5e177a06);
-        
-    
-        var popup_963a93b910f3c921538f9a287729b00d = L.popup({"maxWidth": 300});
-
-        
-            
-                var html_77830c8f3c07adbe643972b83f917060 = $(`<div id="html_77830c8f3c07adbe643972b83f917060" style="width: 100.0%; height: 100.0%;">State:<strong>California</strong><br>Sales Person:<strong>Alice</strong><br>Sales Value:<strong>$20K</strong></div>`)[0];
-                popup_963a93b910f3c921538f9a287729b00d.setContent(html_77830c8f3c07adbe643972b83f917060);
-            
-        
-
-        marker_d52e2c6afbc163bc341979eea988b0d3.bindPopup(popup_963a93b910f3c921538f9a287729b00d)
-        ;
-
-        
-    
-    
-            var marker_be1059fb3a407ab21410b91c46ddfac9 = L.marker(
-                [31.45550825618541, -99.32867566096549],
-                {}
-            ).addTo(marker_cluster_8928d7641302bff336bb89260bc8a23b);
-        
-    
-            var icon_34c2846b6f15fa8c721dd749b053e6c2 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
-            );
-            marker_be1059fb3a407ab21410b91c46ddfac9.setIcon(icon_34c2846b6f15fa8c721dd749b053e6c2);
-        
-    
-        var popup_1ab85ab8b011dc9b7df250f6d77219e5 = L.popup({"maxWidth": 300});
-
-        
-            
-                var html_3c792668e776d1b361e3209a64849308 = $(`<div id="html_3c792668e776d1b361e3209a64849308" style="width: 100.0%; height: 100.0%;">State:<strong>Texas</strong><br>Sales Person:<strong>Bob</strong><br>Sales Value:<strong>$13K</strong></div>`)[0];
-                popup_1ab85ab8b011dc9b7df250f6d77219e5.setContent(html_3c792668e776d1b361e3209a64849308);
-            
-        
-
-        marker_be1059fb3a407ab21410b91c46ddfac9.bindPopup(popup_1ab85ab8b011dc9b7df250f6d77219e5)
-        ;
-
-        
-    
-    
-            var marker_268548199badfabcf5e92828d713ec43 = L.marker(
-                [42.963587294234074, -75.66005909594998],
-                {}
-            ).addTo(marker_cluster_8928d7641302bff336bb89260bc8a23b);
-        
-    
-            var icon_4cc62baea05b1b3deb1d24cc10f7e1f3 = L.AwesomeMarkers.icon(
-                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
-            );
-            marker_268548199badfabcf5e92828d713ec43.setIcon(icon_4cc62baea05b1b3deb1d24cc10f7e1f3);
-        
-    
-        var popup_d047b4deaa416e8dfcbf50def05f9b76 = L.popup({"maxWidth": 300});
-
-        
-            
-                var html_d5cb134f2986c0d3314f73f0eb785f85 = $(`<div id="html_d5cb134f2986c0d3314f73f0eb785f85" style="width: 100.0%; height: 100.0%;">State:<strong>New York</strong><br>Sales Person:<strong>John</strong><br>Sales Value:<strong>$10K</strong></div>`)[0];
-                popup_d047b4deaa416e8dfcbf50def05f9b76.setContent(html_d5cb134f2986c0d3314f73f0eb785f85);
-            
-        
-
-        marker_268548199badfabcf5e92828d713ec43.bindPopup(popup_d047b4deaa416e8dfcbf50def05f9b76)
-        ;
-
-        
-    
-    
-            marker_cluster_8928d7641302bff336bb89260bc8a23b.addTo(map_00428f1121c4617404f96d07ced40f35);
+            marker_cluster_cabb3c2e2aea9e59b6e0d4a5045ff86a.addTo(map_9188e2ba832925a2205e401fbb562882);
         
 </script>
 </html>
