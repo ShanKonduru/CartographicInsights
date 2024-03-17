@@ -47,7 +47,7 @@ class PlotMe:
         popup_text = ""
         for key, value in kwargs.items():
             filtered_data = filtered_data[filtered_data[key] == value]
-            popup_text += "<br>" + key + ": <strong>" + value + "</strong>"
+            popup_text += "<br>" + key + ": <strong>" + str(value) + "</strong>"
         
         self.logger.debug('Popup message:')
         self.logger.debug(popup_text)

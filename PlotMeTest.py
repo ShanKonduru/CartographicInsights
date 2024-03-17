@@ -22,7 +22,8 @@ sales_data = {
     'DateOfSale' : sales_data_df['DateOfSale'].to_list(),
     'YearOfSale' : sales_data_df['YearOfSale'].to_list(),
     'MonthOfSale' : sales_data_df['MonthOfSale'].to_list(),
-    'Season' : sales_data_df['Season'].to_list()
+    'Season' : sales_data_df['Season'].to_list(),
+    'TimeZone' : sales_data_df['TimeZone'].to_list()
 }
 
 logger.debug(sales_data)
@@ -35,5 +36,13 @@ sales_map = PlotMe("ne_110m_admin_1_states_provinces.shp", sales_data_df, sales_
 # logger.info("Generated MAP for total sales")
 
 # to Generate MAP for specific Filter
-sales_map.generate_filtered_sales_map(State="Utah", Season="Spring")
-logger.info("Generated MAP for specific Filters")
+# sales_map.generate_filtered_sales_map(State="Utah", Season="Spring")
+# logger.info("Generated MAP for specific Filters")
+
+# to Generate MAP for specific Filter - Spring Season
+# sales_map.generate_filtered_sales_map(Season="Spring")
+# logger.info("Generated MAP for specific Filters Spring Season")
+
+# to Generate MAP for specific Filter - Timezone based
+sales_map.generate_filtered_sales_map(TimeZone='Eastern Standard Time (EST)', YearOfSale=2015 )
+logger.info("Generated MAP for specific Filters Timezone")

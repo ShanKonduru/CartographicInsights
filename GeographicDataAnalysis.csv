@@ -1,501 +1,501 @@
-﻿Country,State,StateName,Region,SalesPerson,SalesManager,SalesValue,DateOfSale,YearOfSale,MonthOfSale,Season
-USA,American Samoa,AS,West,Aisha Abubakar,Mohammad Rahman,"780,148.00","Friday, August 7, 2015",2015,Aug,Summer
-USA,Alabama,AL,North,David Kim,Mei Chen,"18,370,581.00","Thursday, December 12, 2013",2013,Dec,Winter
-USA,Puerto Rico,PR,South-West,Aisha Abubakar,Mohammad Rahman,"21,175,053.00","Wednesday, October 16, 2013",2013,Oct,Autumn
-USA,Wisconsin,WI,South-West,Anna Nowak,Sophia Li,"8,206,440.00","Friday, January 27, 2017",2017,Jan,Winter
-USA,Vermont,VT,North,Yuri Petrov,Elena Costa,"884,734.00","Friday, April 30, 2010",2010,Apr,Spring
-USA,North Dakota,ND,South-East,Fatima Mohamed,Mohammad Rahman,"4,265,708.00","Tuesday, December 12, 2017",2017,Dec,Winter
-USA,Iowa,IA,East,David Kim,Sophia Li,"9,505,078.00","Tuesday, April 28, 2015",2015,Apr,Spring
-USA,Texas,TX,North,Carlos Rodriguez,Mei Chen,"5,353,482.00","Saturday, July 31, 2010",2010,Jul,Summer
-USA,Utah,UT,North-West,Priya Patel,Elena Costa,"1,641,432.00","Monday, December 25, 2017",2017,Dec,Winter
-USA,New York,NY,South,Ingrid Svensson,Mohammad Rahman,"11,308,246.00","Monday, September 2, 2019",2019,Sep,Autumn
-USA,New Mexico,NM,North,David Kim,Elena Costa,"1,177,008.00","Monday, August 17, 2020",2020,Aug,Summer
-USA,Delaware,DE,North-West,Miguel Fernandez,Mohammad Rahman,"2,462,567.00","Saturday, June 22, 2013",2013,Jun,Summer
-USA,Maryland,MD,West,Priya Patel,Mei Chen,"6,780,427.00","Wednesday, April 6, 2016",2016,Apr,Spring
-USA,Texas,TX,North,Priya Patel,Elena Costa,"1,757,539.00","Saturday, March 5, 2016",2016,Mar,Spring
-USA,New Hampshire,NH,North-East,Ahmed Hassan,Tariq Khan,"1,053,433.00","Tuesday, July 7, 2015",2015,Jul,Summer
-USA,Arizona,AZ,South-West,Maria Garcia,Tariq Khan,"15,099,898.00","Sunday, June 25, 2017",2017,Jun,Summer
-USA,Virginia,VA,North,Yuki Tanaka,Sophia Li,"18,989,511.00","Friday, March 12, 2010",2010,Mar,Spring
-USA,Wisconsin,WI,South-East,Miguel Fernandez,Mohammad Rahman,"7,306,689.00","Wednesday, August 14, 2013",2013,Aug,Summer
-USA,Massachusetts,MA,North,David Kim,Elena Costa,"3,052,837.00","Thursday, August 9, 2018",2018,Aug,Summer
-USA,Arizona,AZ,East,Fatima Mohamed,Mei Chen,"991,927.00","Monday, August 5, 2019",2019,Aug,Summer
-USA,Wisconsin,WI,East,Isabella Rossi,Mohammad Rahman,"2,799,143.00","Wednesday, November 25, 2020",2020,Nov,Autumn
-USA,South Dakota,SD,South-West,Yuri Petrov,Sophia Li,"1,416,060.00","Friday, January 5, 2018",2018,Jan,Winter
-USA,Utah,UT,South-West,Ahmed Hassan,Mei Chen,"2,068,504.00","Friday, June 8, 2012",2012,Jun,Summer
-USA,Montana,MT,North-West,Jamal Al-Farsi,Sophia Li,"4,910,521.00","Saturday, December 3, 2011",2011,Dec,Winter
-USA,Rhode Island,RI,North-East,Maria Garcia,Elena Costa,"391,938.00","Saturday, July 2, 2011",2011,Jul,Summer
-USA,Kansas,KS,South-East,Marcelo Silva,Mohammad Rahman,"19,509,800.00","Friday, July 11, 2014",2014,Jul,Summer
-USA,South Dakota,SD,South,Isabella Rossi,Mei Chen,"1,263,532.00","Wednesday, September 28, 2016",2016,Sep,Autumn
-USA,North Dakota,ND,South-East,Priya Patel,Tariq Khan,"14,869,571.00","Wednesday, September 21, 2011",2011,Sep,Autumn
-USA,Northern Mariana Islands,MP,South,Marcelo Silva,Sophia Li,"2,627,959.00","Saturday, February 13, 2010",2010,Feb,Winter
-USA,Virginia,VA,North,David Kim,Mei Chen,"2,092,930.00","Saturday, April 12, 2014",2014,Apr,Spring
-USA,Virginia,VA,West,Isabella Rossi,Sophia Li,"4,146,176.00","Tuesday, May 19, 2015",2015,May,Spring
-USA,Mississippi,MS,South-West,Yuki Tanaka,Tariq Khan,"9,703,772.00","Saturday, April 11, 2020",2020,Apr,Spring
-USA,Kentucky,KY,South-East,Jamal Al-Farsi,Mohammad Rahman,"6,241,425.00","Sunday, July 8, 2018",2018,Jul,Summer
-USA,Montana,MT,North-West,Ahmed Hassan,Sophia Li,"957,877.00","Wednesday, August 27, 2014",2014,Aug,Summer
-USA,Alaska,AK,North-West,Miguel Fernandez,Elena Costa,"16,784,767.00","Saturday, March 17, 2012",2012,Mar,Spring
-USA,Washington,WA,South,David Kim,Sophia Li,"15,736,019.00","Tuesday, October 11, 2016",2016,Oct,Autumn
-USA,Michigan,MI,South-West,Nguyen Minh,Tariq Khan,"9,899,287.00","Friday, April 8, 2011",2011,Apr,Spring
-USA,North Carolina,NC,West,Leila Abadi,Mei Chen,"373,265.00","Monday, May 17, 2010",2010,May,Spring
-USA,Puerto Rico,PR,East,Jamal Al-Farsi,Elena Costa,"1,150,809.00","Saturday, September 23, 2017",2017,Sep,Autumn
-USA,North Carolina,NC,West,Isabella Rossi,Mohammad Rahman,"4,153,082.00","Sunday, February 23, 2020",2020,Feb,Winter
-USA,New Hampshire,NH,East,Anna Nowak,Mei Chen,"7,645,017.00","Friday, November 20, 2020",2020,Nov,Autumn
-USA,New Hampshire,NH,North-East,Aisha Abubakar,Sophia Li,"2,414,336.00","Tuesday, November 6, 2018",2018,Nov,Autumn
-USA,Pennsylvania,PA,North-East,Yuki Tanaka,Sophia Li,"4,982,288.00","Wednesday, May 26, 2010",2010,May,Spring
-USA,Arizona,AZ,West,Yuri Petrov,Sophia Li,"640,918.00","Friday, May 17, 2019",2019,May,Spring
-USA,Utah,UT,South-East,Fatima Mohamed,Mei Chen,"16,630,657.00","Thursday, April 29, 2010",2010,Apr,Spring
-USA,Colorado,CO,South-East,Carlos Rodriguez,Sophia Li,"12,808,014.00","Thursday, October 10, 2013",2013,Oct,Autumn
-USA,Montana,MT,North-East,Priya Patel,Tariq Khan,"944,892.00","Saturday, January 31, 2015",2015,Jan,Winter
-USA,Guam,GU,East,Liu Wei,Elena Costa,"8,063,297.00","Thursday, June 27, 2013",2013,Jun,Summer
-USA,South Carolina,SC,South-East,Isabella Rossi,Sophia Li,"11,153,313.00","Tuesday, May 13, 2014",2014,May,Spring
-USA,Mississippi,MS,South-West,Isabella Rossi,Tariq Khan,"2,940,012.00","Tuesday, June 6, 2017",2017,Jun,Summer
-USA,New Jersey,NJ,North-West,Juan Lopez,Elena Costa,"2,573,972.00","Friday, March 29, 2019",2019,Mar,Spring
-USA,West Virginia,WV,West,Juan Lopez,Sophia Li,"12,011,420.00","Saturday, May 11, 2013",2013,May,Spring
-USA,Iowa,IA,West,Marcelo Silva,Sophia Li,"11,212,648.00","Friday, August 24, 2018",2018,Aug,Summer
-USA,Georgia,GA,North-East,Marcelo Silva,Mei Chen,"5,584,724.00","Wednesday, April 29, 2015",2015,Apr,Spring
-USA,Alabama,AL,East,Miguel Fernandez,Mohammad Rahman,"8,190,991.00","Monday, January 9, 2012",2012,Jan,Winter
-USA,Alaska,AK,North-West,Marcelo Silva,Sophia Li,"1,247,836.00","Sunday, September 11, 2011",2011,Sep,Autumn
-USA,Ohio,OH,South-East,Aisha Abubakar,Mei Chen,"5,966,440.00","Wednesday, August 29, 2018",2018,Aug,Summer
-USA,New Jersey,NJ,East,Leila Abadi,Mohammad Rahman,"13,498,496.00","Monday, September 21, 2020",2020,Sep,Autumn
-USA,South Carolina,SC,South,Anna Nowak,Sophia Li,"15,662,418.00","Tuesday, December 12, 2017",2017,Dec,Winter
-USA,Texas,TX,South-East,Aisha Abubakar,Mohammad Rahman,"3,783,317.00","Monday, April 23, 2018",2018,Apr,Spring
-USA,Connecticut,CT,South-East,Maria Garcia,Mei Chen,"17,797,013.00","Wednesday, April 18, 2018",2018,Apr,Spring
-USA,Mississippi,MS,North,Juan Lopez,Tariq Khan,"20,319,313.00","Wednesday, September 24, 2014",2014,Sep,Autumn
-USA,Northern Mariana Islands,MP,East,Marcelo Silva,Elena Costa,"7,750,858.00","Monday, July 13, 2015",2015,Jul,Summer
-USA,Missouri,MO,West,Yuri Petrov,Tariq Khan,"14,705,115.00","Saturday, April 30, 2011",2011,Apr,Spring
-USA,Louisiana,LA,East,Miguel Fernandez,Elena Costa,"2,543,878.00","Wednesday, July 8, 2015",2015,Jul,Summer
-USA,Ohio,OH,South,Nguyen Minh,Mei Chen,"2,557,500.00","Saturday, September 14, 2013",2013,Sep,Autumn
-USA,American Samoa,AS,South-East,Miguel Fernandez,Elena Costa,"9,079,227.00","Sunday, April 12, 2015",2015,Apr,Spring
-USA,Alaska,AK,West,Fatima Mohamed,Tariq Khan,"5,266,847.00","Thursday, September 6, 2018",2018,Sep,Autumn
-USA,Oklahoma,OK,South-West,Marcelo Silva,Elena Costa,"3,343,667.00","Saturday, May 21, 2016",2016,May,Spring
-USA,Nevada,NV,South,Anna Nowak,Tariq Khan,"10,065,364.00","Friday, September 23, 2011",2011,Sep,Autumn
-USA,Idaho,ID,North-West,Miguel Fernandez,Elena Costa,"5,173,719.00","Wednesday, July 17, 2019",2019,Jul,Summer
-USA,Massachusetts,MA,South,Liu Wei,Mei Chen,"2,460,136.00","Saturday, April 4, 2020",2020,Apr,Spring
-USA,Utah,UT,North-West,Mohammed Khan,Mei Chen,"14,750,318.00","Saturday, February 13, 2016",2016,Feb,Winter
-USA,Wyoming,WY,North,Leila Abadi,Elena Costa,"5,118,676.00","Tuesday, October 6, 2015",2015,Oct,Autumn
-USA,Maine,ME,North-East,Ahmed Hassan,Elena Costa,"7,207,101.00","Saturday, August 1, 2020",2020,Aug,Summer
-USA,Alaska,AK,North,David Kim,Mohammad Rahman,"19,507,152.00","Sunday, November 1, 2015",2015,Nov,Autumn
-USA,Trust Territories,TT,North,Priya Patel,Mei Chen,"6,858,528.00","Wednesday, November 28, 2018",2018,Nov,Autumn
-USA,Michigan,MI,East,Miguel Fernandez,Sophia Li,"2,920,726.00","Friday, February 4, 2011",2011,Feb,Winter
-USA,Rhode Island,RI,South-West,Priya Patel,Mei Chen,"5,091,345.00","Thursday, June 28, 2018",2018,Jun,Summer
-USA,Florida,FL,South,Yuki Tanaka,Tariq Khan,"16,625,965.00","Wednesday, December 2, 2020",2020,Dec,Winter
-USA,Montana,MT,North-West,Nguyen Minh,Mohammad Rahman,"16,399,230.00","Friday, January 10, 2014",2014,Jan,Winter
-USA,Pennsylvania,PA,East,Liu Wei,Tariq Khan,"1,025,645.00","Wednesday, October 25, 2017",2017,Oct,Autumn
-USA,Michigan,MI,South-East,Liu Wei,Mei Chen,"15,603,846.00","Saturday, April 25, 2015",2015,Apr,Spring
-USA,Delaware,DE,South-West,Miguel Fernandez,Sophia Li,"1,716,059.00","Wednesday, October 24, 2012",2012,Oct,Autumn
-USA,Rhode Island,RI,South-West,Nguyen Minh,Elena Costa,"1,414,226.00","Tuesday, March 13, 2018",2018,Mar,Spring
-USA,Oregon,OR,North-East,Mohammed Khan,Mohammad Rahman,"3,697,370.00","Wednesday, July 20, 2011",2011,Jul,Summer
-USA,Alabama,AL,South,Priya Patel,Mohammad Rahman,"1,706,298.00","Wednesday, August 1, 2018",2018,Aug,Summer
-USA,Arizona,AZ,East,Maria Garcia,Tariq Khan,"9,017,957.00","Thursday, December 29, 2011",2011,Dec,Winter
-USA,Maine,ME,North,Ingrid Svensson,Mohammad Rahman,"6,113,091.00","Monday, December 16, 2013",2013,Dec,Winter
-USA,Arizona,AZ,North,Nguyen Minh,Elena Costa,"3,958,877.00","Saturday, August 20, 2011",2011,Aug,Summer
-USA,Montana,MT,South-West,Carlos Rodriguez,Elena Costa,"6,212,052.00","Friday, March 11, 2016",2016,Mar,Spring
-USA,Arizona,AZ,South,Fatima Mohamed,Sophia Li,"1,139,924.00","Sunday, December 23, 2012",2012,Dec,Winter
-USA,Wisconsin,WI,South-East,Nguyen Minh,Mei Chen,"1,430,067.00","Saturday, May 21, 2016",2016,May,Spring
-USA,Wyoming,WY,South-West,Ingrid Svensson,Mei Chen,"9,451,027.00","Saturday, March 25, 2017",2017,Mar,Spring
-USA,Idaho,ID,South-West,Leila Abadi,Sophia Li,"12,362,954.00","Friday, April 12, 2019",2019,Apr,Spring
-USA,District of Columbia,DC,South,Marcelo Silva,Sophia Li,"12,787,446.00","Saturday, February 13, 2010",2010,Feb,Winter
-USA,Oregon,OR,South,Ingrid Svensson,Sophia Li,"2,951,812.00","Thursday, June 25, 2015",2015,Jun,Summer
-USA,Michigan,MI,West,Maria Garcia,Elena Costa,"9,448,896.00","Tuesday, April 23, 2019",2019,Apr,Spring
-USA,Florida,FL,North-East,Yuri Petrov,Elena Costa,"7,446,281.00","Sunday, October 11, 2020",2020,Oct,Autumn
-USA,Vermont,VT,North,Aisha Abubakar,Tariq Khan,"1,648,621.00","Tuesday, January 11, 2011",2011,Jan,Winter
-USA,Illinois,IL,North-West,Nguyen Minh,Mei Chen,"19,082,232.00","Wednesday, November 10, 2010",2010,Nov,Autumn
-USA,Trust Territories,TT,South-West,Leila Abadi,Elena Costa,"527,289.00","Saturday, October 16, 2010",2010,Oct,Autumn
-USA,Utah,UT,West,Carlos Rodriguez,Sophia Li,"1,625,380.00","Wednesday, March 27, 2013",2013,Mar,Spring
-USA,Northern Mariana Islands,MP,East,Mohammed Khan,Sophia Li,"10,614,613.00","Sunday, March 17, 2013",2013,Mar,Spring
-USA,American Samoa,AS,North-West,Carlos Rodriguez,Mei Chen,"1,182,888.00","Thursday, July 13, 2017",2017,Jul,Summer
-USA,New Mexico,NM,South-West,Ingrid Svensson,Tariq Khan,"936,029.00","Saturday, June 27, 2015",2015,Jun,Summer
-USA,Kansas,KS,East,Isabella Rossi,Mohammad Rahman,"18,872,556.00","Monday, April 4, 2011",2011,Apr,Spring
-USA,Vermont,VT,North,Miguel Fernandez,Sophia Li,"13,277,356.00","Saturday, December 25, 2010",2010,Dec,Winter
-USA,American Samoa,AS,West,Isabella Rossi,Sophia Li,"1,664,758.00","Thursday, February 23, 2012",2012,Feb,Winter
-USA,American Samoa,AS,North-West,Aisha Abubakar,Tariq Khan,"19,838,926.00","Wednesday, July 9, 2014",2014,Jul,Summer
-USA,Alaska,AK,South-East,Carlos Rodriguez,Tariq Khan,"2,647,892.00","Saturday, December 10, 2016",2016,Dec,Winter
-USA,Alaska,AK,South-West,Anna Nowak,Sophia Li,"5,228,252.00","Monday, December 12, 2011",2011,Dec,Winter
-USA,Kentucky,KY,South,Miguel Fernandez,Sophia Li,"21,839,707.00","Monday, January 11, 2016",2016,Jan,Winter
-USA,New Jersey,NJ,East,David Kim,Elena Costa,"12,311,410.00","Sunday, March 11, 2018",2018,Mar,Spring
-USA,Kansas,KS,North-West,Jamal Al-Farsi,Tariq Khan,"9,413,573.00","Tuesday, November 20, 2018",2018,Nov,Autumn
-USA,Michigan,MI,North-East,Fatima Mohamed,Mohammad Rahman,"3,398,733.00","Sunday, August 11, 2013",2013,Aug,Summer
-USA,Arizona,AZ,South-West,Carlos Rodriguez,Tariq Khan,"10,781,868.00","Friday, September 3, 2010",2010,Sep,Autumn
-USA,Virgin Islands,VI,South-West,Nguyen Minh,Sophia Li,"9,926,464.00","Friday, March 9, 2012",2012,Mar,Spring
-USA,Maine,ME,West,Carlos Rodriguez,Tariq Khan,"13,601,873.00","Tuesday, October 11, 2011",2011,Oct,Autumn
-USA,West Virginia,WV,South-West,Leila Abadi,Elena Costa,"995,712.00","Saturday, September 15, 2018",2018,Sep,Autumn
-USA,Indiana,IN,South-West,Anna Nowak,Elena Costa,"3,841,787.00","Friday, November 22, 2013",2013,Nov,Autumn
-USA,Maryland,MD,South-West,Ahmed Hassan,Mei Chen,"5,949,380.00","Wednesday, February 8, 2017",2017,Feb,Winter
-USA,Oklahoma,OK,North-West,Ahmed Hassan,Sophia Li,"14,368,647.00","Sunday, September 2, 2018",2018,Sep,Autumn
-USA,New Jersey,NJ,East,Priya Patel,Mohammad Rahman,"5,071,407.00","Friday, September 13, 2019",2019,Sep,Autumn
-USA,Pennsylvania,PA,East,Carlos Rodriguez,Sophia Li,"6,444,566.00","Sunday, June 7, 2020",2020,Jun,Summer
-USA,Iowa,IA,North-West,Yuri Petrov,Elena Costa,"3,530,471.00","Friday, June 5, 2015",2015,Jun,Summer
-USA,Kentucky,KY,North,Anna Nowak,Mei Chen,"1,294,731.00","Sunday, April 5, 2015",2015,Apr,Spring
-USA,Missouri,MO,North-East,Juan Lopez,Sophia Li,"6,633,350.00","Saturday, September 26, 2015",2015,Sep,Autumn
-USA,Guam,GU,South-East,Mohammed Khan,Elena Costa,"5,511,781.00","Saturday, February 27, 2010",2010,Feb,Winter
-USA,Alaska,AK,South,Nguyen Minh,Elena Costa,"927,196.00","Sunday, April 14, 2019",2019,Apr,Spring
-USA,Michigan,MI,South,Liu Wei,Sophia Li,"2,096,244.00","Tuesday, July 11, 2017",2017,Jul,Summer
-USA,Montana,MT,North-East,Anna Nowak,Elena Costa,"18,254,664.00","Sunday, April 3, 2011",2011,Apr,Spring
-USA,Arizona,AZ,North,Mohammed Khan,Sophia Li,"11,494,754.00","Wednesday, January 11, 2012",2012,Jan,Winter
-USA,West Virginia,WV,North-West,Mohammed Khan,Sophia Li,"3,904,790.00","Thursday, February 11, 2010",2010,Feb,Winter
-USA,Delaware,DE,South-West,Ahmed Hassan,Mohammad Rahman,"616,639.00","Friday, February 7, 2014",2014,Feb,Winter
-USA,Pennsylvania,PA,South-West,Yuki Tanaka,Sophia Li,"3,778,578.00","Tuesday, August 21, 2012",2012,Aug,Summer
-USA,Massachusetts,MA,South,Yuri Petrov,Sophia Li,"13,472,555.00","Tuesday, March 10, 2015",2015,Mar,Spring
-USA,Minnesota,MN,South-East,Nguyen Minh,Tariq Khan,"2,449,088.00","Thursday, May 22, 2014",2014,May,Spring
-USA,Nebraska,NE,South,Yuki Tanaka,Tariq Khan,"1,971,030.00","Saturday, June 20, 2015",2015,Jun,Summer
-USA,Alaska,AK,North-East,Carlos Rodriguez,Sophia Li,"13,321,952.00","Monday, May 26, 2014",2014,May,Spring
-USA,Kansas,KS,West,Mohammed Khan,Mei Chen,"2,323,179.00","Friday, January 4, 2013",2013,Jan,Winter
-USA,Nevada,NV,West,David Kim,Mei Chen,"2,267,975.00","Sunday, October 3, 2010",2010,Oct,Autumn
-USA,Alabama,AL,South-East,Priya Patel,Sophia Li,"12,771,831.00","Saturday, December 22, 2018",2018,Dec,Winter
-USA,Idaho,ID,North-East,Priya Patel,Mei Chen,"8,076,050.00","Tuesday, August 28, 2012",2012,Aug,Summer
-USA,Massachusetts,MA,South,Yuki Tanaka,Elena Costa,"6,578,298.00","Thursday, April 12, 2012",2012,Apr,Spring
-USA,Louisiana,LA,East,David Kim,Mei Chen,"1,050,262.00","Wednesday, May 26, 2010",2010,May,Spring
-USA,Minnesota,MN,South-West,Isabella Rossi,Elena Costa,"3,586,742.00","Monday, October 12, 2015",2015,Oct,Autumn
-USA,Rhode Island,RI,North-West,Leila Abadi,Mei Chen,"9,100,139.00","Friday, October 3, 2014",2014,Oct,Autumn
-USA,South Carolina,SC,West,Ingrid Svensson,Mei Chen,"3,380,511.00","Saturday, November 6, 2010",2010,Nov,Autumn
-USA,Oklahoma,OK,East,Yuri Petrov,Mohammad Rahman,"2,342,647.00","Sunday, November 28, 2010",2010,Nov,Autumn
-USA,Minnesota,MN,North,David Kim,Elena Costa,"7,370,459.00","Wednesday, August 3, 2011",2011,Aug,Summer
-USA,Nevada,NV,North,Aisha Abubakar,Elena Costa,"3,085,335.00","Friday, December 19, 2014",2014,Dec,Winter
-USA,Arkansas,AR,South,Ingrid Svensson,Mohammad Rahman,"7,419,696.00","Thursday, March 17, 2016",2016,Mar,Spring
-USA,North Carolina,NC,West,Fatima Mohamed,Mohammad Rahman,"11,105,737.00","Monday, April 3, 2017",2017,Apr,Spring
-USA,South Carolina,SC,North-East,Priya Patel,Tariq Khan,"10,491,855.00","Friday, September 27, 2013",2013,Sep,Autumn
-USA,New York,NY,East,Priya Patel,Mohammad Rahman,"881,831.00","Wednesday, March 20, 2013",2013,Mar,Spring
-USA,Northern Mariana Islands,MP,North,Priya Patel,Elena Costa,"1,754,908.00","Friday, August 9, 2013",2013,Aug,Summer
-USA,Illinois,IL,North,Mohammed Khan,Sophia Li,"6,941,193.00","Friday, February 21, 2020",2020,Feb,Winter
-USA,Virgin Islands,VI,East,Anna Nowak,Tariq Khan,"8,138,538.00","Saturday, February 13, 2010",2010,Feb,Winter
-USA,Montana,MT,North-East,Nguyen Minh,Mei Chen,"14,123,859.00","Thursday, November 7, 2013",2013,Nov,Autumn
-USA,Oregon,OR,South-West,Ahmed Hassan,Mei Chen,"18,160,709.00","Sunday, June 10, 2012",2012,Jun,Summer
-USA,Maryland,MD,North,Yuri Petrov,Mei Chen,"2,671,417.00","Monday, December 21, 2020",2020,Dec,Winter
-USA,Ohio,OH,South,Yuri Petrov,Sophia Li,"6,406,052.00","Friday, March 7, 2014",2014,Mar,Spring
-USA,Virginia,VA,South-East,Priya Patel,Elena Costa,"11,209,790.00","Sunday, January 11, 2015",2015,Jan,Winter
-USA,Idaho,ID,South-West,Anna Nowak,Elena Costa,"1,013,404.00","Sunday, October 27, 2013",2013,Oct,Autumn
-USA,Wyoming,WY,South,Leila Abadi,Mei Chen,"6,774,882.00","Tuesday, February 21, 2012",2012,Feb,Winter
-USA,Guam,GU,North,Jamal Al-Farsi,Sophia Li,"2,649,913.00","Sunday, January 29, 2012",2012,Jan,Winter
-USA,Ohio,OH,South-East,Nguyen Minh,Sophia Li,"12,811,026.00","Thursday, June 25, 2015",2015,Jun,Summer
-USA,Pennsylvania,PA,North-East,Yuki Tanaka,Tariq Khan,"1,061,860.00","Saturday, March 3, 2018",2018,Mar,Spring
-USA,District of Columbia,DC,East,Carlos Rodriguez,Tariq Khan,"19,425,344.00","Saturday, February 11, 2012",2012,Feb,Winter
-USA,Louisiana,LA,North-West,Carlos Rodriguez,Mei Chen,"2,668,219.00","Sunday, June 24, 2018",2018,Jun,Summer
-USA,Oklahoma,OK,South,Maria Garcia,Mohammad Rahman,"6,856,113.00","Monday, June 17, 2019",2019,Jun,Summer
-USA,Maryland,MD,East,Jamal Al-Farsi,Elena Costa,"345,068.00","Monday, March 13, 2017",2017,Mar,Spring
-USA,Northern Mariana Islands,MP,South-East,Priya Patel,Sophia Li,"13,487,991.00","Friday, May 24, 2013",2013,May,Spring
-USA,Oregon,OR,North-East,Juan Lopez,Mei Chen,"8,153,257.00","Monday, March 14, 2016",2016,Mar,Spring
-USA,Iowa,IA,North,Priya Patel,Tariq Khan,"8,839,571.00","Wednesday, June 30, 2010",2010,Jun,Summer
-USA,Mississippi,MS,South,Mohammed Khan,Mohammad Rahman,"994,475.00","Sunday, June 2, 2013",2013,Jun,Summer
-USA,Nevada,NV,North-East,Aisha Abubakar,Sophia Li,"793,235.00","Thursday, June 6, 2013",2013,Jun,Summer
-USA,Pennsylvania,PA,North-West,Yuki Tanaka,Mohammad Rahman,"8,051,592.00","Tuesday, April 19, 2016",2016,Apr,Spring
-USA,Trust Territories,TT,West,Leila Abadi,Mohammad Rahman,"3,848,498.00","Saturday, June 8, 2013",2013,Jun,Summer
-USA,Tennessee,TN,South-West,Liu Wei,Mohammad Rahman,"1,628,127.00","Thursday, March 22, 2018",2018,Mar,Spring
-USA,Rhode Island,RI,North-West,Maria Garcia,Tariq Khan,"1,519,969.00","Wednesday, March 8, 2017",2017,Mar,Spring
-USA,Wyoming,WY,South-West,Maria Garcia,Mohammad Rahman,"1,284,977.00","Tuesday, October 29, 2013",2013,Oct,Autumn
-USA,District of Columbia,DC,South-East,Ingrid Svensson,Elena Costa,"10,756,983.00","Sunday, January 1, 2017",2017,Jan,Winter
-USA,Maine,ME,South-East,Priya Patel,Mei Chen,"20,218,392.00","Friday, August 21, 2015",2015,Aug,Summer
-USA,District of Columbia,DC,West,David Kim,Elena Costa,"8,244,063.00","Saturday, March 9, 2013",2013,Mar,Spring
-USA,West Virginia,WV,North-West,Miguel Fernandez,Sophia Li,"20,414,751.00","Sunday, February 18, 2018",2018,Feb,Winter
-USA,New York,NY,South,Juan Lopez,Mohammad Rahman,"2,976,016.00","Thursday, July 26, 2012",2012,Jul,Summer
-USA,Illinois,IL,South-West,Anna Nowak,Elena Costa,"2,358,173.00","Sunday, May 30, 2010",2010,May,Spring
-USA,Connecticut,CT,North-West,Yuki Tanaka,Elena Costa,"2,929,054.00","Monday, September 12, 2011",2011,Sep,Autumn
-USA,Idaho,ID,South-West,Yuri Petrov,Mohammad Rahman,"13,309,862.00","Friday, November 22, 2019",2019,Nov,Autumn
-USA,Idaho,ID,South-West,Carlos Rodriguez,Sophia Li,"2,759,448.00","Thursday, August 30, 2018",2018,Aug,Summer
-USA,Minnesota,MN,South-West,Marcelo Silva,Tariq Khan,"2,092,494.00","Thursday, October 7, 2010",2010,Oct,Autumn
-USA,American Samoa,AS,East,Nguyen Minh,Mei Chen,"1,028,317.00","Wednesday, March 18, 2020",2020,Mar,Spring
-USA,Virginia,VA,West,Ingrid Svensson,Tariq Khan,"8,882,872.00","Sunday, February 28, 2010",2010,Feb,Winter
-USA,Hawaii,HI,East,Yuri Petrov,Mei Chen,"7,508,600.00","Monday, February 15, 2010",2010,Feb,Winter
-USA,American Samoa,AS,East,Maria Garcia,Sophia Li,"2,079,915.00","Sunday, January 8, 2012",2012,Jan,Winter
-USA,Michigan,MI,South-West,Isabella Rossi,Mohammad Rahman,"5,970,805.00","Monday, December 10, 2012",2012,Dec,Winter
-USA,California,CA,South-West,Leila Abadi,Sophia Li,"495,412.00","Friday, May 17, 2019",2019,May,Spring
-USA,South Dakota,SD,South-East,Marcelo Silva,Sophia Li,"1,644,675.00","Friday, June 13, 2014",2014,Jun,Summer
-USA,South Carolina,SC,North,Yuki Tanaka,Sophia Li,"795,387.00","Friday, April 8, 2016",2016,Apr,Spring
-USA,Ohio,OH,North-East,Anna Nowak,Tariq Khan,"1,043,743.00","Sunday, December 1, 2019",2019,Dec,Winter
-USA,Montana,MT,South-East,Juan Lopez,Mei Chen,"15,507,052.00","Thursday, October 12, 2017",2017,Oct,Autumn
-USA,Missouri,MO,South-East,Jamal Al-Farsi,Tariq Khan,"7,722,303.00","Thursday, July 28, 2016",2016,Jul,Summer
-USA,Northern Mariana Islands,MP,West,Juan Lopez,Mohammad Rahman,"2,654,890.00","Wednesday, February 6, 2013",2013,Feb,Winter
-USA,New Mexico,NM,South,Isabella Rossi,Mohammad Rahman,"1,513,652.00","Friday, March 5, 2010",2010,Mar,Spring
-USA,Arizona,AZ,East,Marcelo Silva,Mohammad Rahman,"1,068,193.00","Sunday, January 15, 2017",2017,Jan,Winter
-USA,Ohio,OH,North,Yuri Petrov,Sophia Li,"2,167,383.00","Thursday, March 23, 2017",2017,Mar,Spring
-USA,New Hampshire,NH,South-East,Liu Wei,Mohammad Rahman,"23,759,199.00","Tuesday, February 12, 2019",2019,Feb,Winter
-USA,Utah,UT,East,Ingrid Svensson,Mei Chen,"19,358,339.00","Thursday, September 3, 2020",2020,Sep,Autumn
-USA,Northern Mariana Islands,MP,East,David Kim,Sophia Li,"13,346,687.00","Monday, December 31, 2018",2018,Dec,Winter
-USA,South Carolina,SC,West,Leila Abadi,Elena Costa,"755,548.00","Tuesday, September 9, 2014",2014,Sep,Autumn
-USA,Northern Mariana Islands,MP,West,Leila Abadi,Tariq Khan,"3,480,629.00","Friday, July 13, 2018",2018,Jul,Summer
-USA,Minnesota,MN,South-West,Yuki Tanaka,Elena Costa,"6,176,510.00","Sunday, February 12, 2012",2012,Feb,Winter
-USA,Tennessee,TN,West,Anna Nowak,Elena Costa,"3,963,604.00","Thursday, December 16, 2010",2010,Dec,Winter
-USA,Virginia,VA,North-East,Yuki Tanaka,Tariq Khan,"1,296,612.00","Saturday, July 23, 2016",2016,Jul,Summer
-USA,Northern Mariana Islands,MP,West,David Kim,Tariq Khan,"7,562,803.00","Sunday, December 24, 2017",2017,Dec,Winter
-USA,Rhode Island,RI,West,David Kim,Tariq Khan,"1,113,073.00","Sunday, December 25, 2016",2016,Dec,Winter
-USA,Texas,TX,North,Leila Abadi,Mei Chen,"8,448,687.00","Saturday, May 17, 2014",2014,May,Spring
-USA,American Samoa,AS,West,Jamal Al-Farsi,Mohammad Rahman,"954,743.00","Thursday, January 14, 2010",2010,Jan,Winter
-USA,Arkansas,AR,East,Maria Garcia,Elena Costa,"25,086,721.00","Tuesday, June 2, 2020",2020,Jun,Summer
-USA,Oregon,OR,West,Liu Wei,Sophia Li,"1,132,779.00","Thursday, June 19, 2014",2014,Jun,Summer
-USA,Trust Territories,TT,South-East,Yuri Petrov,Mohammad Rahman,"17,166,014.00","Sunday, July 28, 2013",2013,Jul,Summer
-USA,Kansas,KS,East,Ahmed Hassan,Elena Costa,"7,112,270.00","Wednesday, September 19, 2018",2018,Sep,Autumn
-USA,Nevada,NV,South-East,Yuki Tanaka,Elena Costa,"1,075,105.00","Friday, December 13, 2013",2013,Dec,Winter
-USA,Alabama,AL,South,Yuri Petrov,Tariq Khan,"921,087.00","Sunday, March 4, 2012",2012,Mar,Spring
-USA,Vermont,VT,North-West,Miguel Fernandez,Tariq Khan,"3,884,482.00","Sunday, December 13, 2020",2020,Dec,Winter
-USA,Florida,FL,South-East,Aisha Abubakar,Elena Costa,"5,507,711.00","Friday, October 17, 2014",2014,Oct,Autumn
-USA,Iowa,IA,North-East,Anna Nowak,Mohammad Rahman,"2,557,287.00","Friday, December 13, 2019",2019,Dec,Winter
-USA,West Virginia,WV,South,Nguyen Minh,Mohammad Rahman,"16,493,632.00","Monday, June 7, 2010",2010,Jun,Summer
-USA,Tennessee,TN,South-West,Marcelo Silva,Sophia Li,"12,831,010.00","Sunday, December 6, 2020",2020,Dec,Winter
-USA,Utah,UT,North-East,Mohammed Khan,Mohammad Rahman,"18,002,412.00","Saturday, November 4, 2017",2017,Nov,Autumn
-USA,Nevada,NV,North-West,Priya Patel,Mei Chen,"8,619,484.00","Sunday, December 27, 2015",2015,Dec,Winter
-USA,Kentucky,KY,South-East,Fatima Mohamed,Tariq Khan,"6,246,194.00","Saturday, May 28, 2016",2016,May,Spring
-USA,Connecticut,CT,South,Yuki Tanaka,Mei Chen,"12,156,645.00","Monday, January 2, 2012",2012,Jan,Winter
-USA,West Virginia,WV,North,Juan Lopez,Elena Costa,"3,308,600.00","Thursday, May 2, 2013",2013,May,Spring
-USA,American Samoa,AS,South,Yuri Petrov,Sophia Li,"8,024,553.00","Monday, December 28, 2015",2015,Dec,Winter
-USA,Vermont,VT,North,Nguyen Minh,Elena Costa,"9,338,057.00","Thursday, August 4, 2011",2011,Aug,Summer
-USA,West Virginia,WV,South-West,Fatima Mohamed,Mohammad Rahman,"3,861,221.00","Sunday, March 11, 2012",2012,Mar,Spring
-USA,Nevada,NV,South,Yuri Petrov,Mohammad Rahman,"19,415,096.00","Sunday, May 26, 2013",2013,May,Spring
-USA,North Dakota,ND,South-West,Aisha Abubakar,Elena Costa,"5,352,434.00","Wednesday, June 26, 2013",2013,Jun,Summer
-USA,South Dakota,SD,South-East,Fatima Mohamed,Tariq Khan,"2,622,760.00","Saturday, November 30, 2019",2019,Nov,Autumn
-USA,Vermont,VT,South-East,Yuki Tanaka,Sophia Li,"12,834,785.00","Wednesday, November 27, 2013",2013,Nov,Autumn
-USA,Rhode Island,RI,East,Aisha Abubakar,Mohammad Rahman,"4,856,916.00","Friday, June 25, 2010",2010,Jun,Summer
-USA,Nevada,NV,South-East,Marcelo Silva,Elena Costa,"11,748,317.00","Monday, October 14, 2013",2013,Oct,Autumn
-USA,South Dakota,SD,North-West,Yuri Petrov,Elena Costa,"15,785,645.00","Tuesday, February 26, 2013",2013,Feb,Winter
-USA,Puerto Rico,PR,West,Jamal Al-Farsi,Tariq Khan,"2,138,867.00","Thursday, June 28, 2012",2012,Jun,Summer
-USA,Kansas,KS,East,Fatima Mohamed,Mei Chen,"12,525,683.00","Saturday, January 26, 2019",2019,Jan,Winter
-USA,Montana,MT,West,Jamal Al-Farsi,Tariq Khan,"3,609,675.00","Friday, March 1, 2019",2019,Mar,Spring
-USA,Louisiana,LA,South-East,Liu Wei,Sophia Li,"13,566,033.00","Friday, July 24, 2015",2015,Jul,Summer
-USA,Florida,FL,South,Yuki Tanaka,Elena Costa,"6,391,145.00","Thursday, December 16, 2010",2010,Dec,Winter
-USA,Michigan,MI,North-West,Jamal Al-Farsi,Mohammad Rahman,"6,551,887.00","Wednesday, October 3, 2012",2012,Oct,Autumn
-USA,New Hampshire,NH,South-East,Anna Nowak,Mohammad Rahman,"13,294,423.00","Friday, August 25, 2017",2017,Aug,Summer
-USA,District of Columbia,DC,South-East,Ingrid Svensson,Mei Chen,"11,661,877.00","Monday, April 28, 2014",2014,Apr,Spring
-USA,Mississippi,MS,North-West,Isabella Rossi,Elena Costa,"9,374,603.00","Sunday, July 26, 2015",2015,Jul,Summer
-USA,Washington,WA,North,Miguel Fernandez,Mei Chen,"9,343,512.00","Thursday, April 26, 2018",2018,Apr,Spring
-USA,California,CA,South-East,Leila Abadi,Mei Chen,"19,536,883.00","Friday, July 26, 2019",2019,Jul,Summer
-USA,Kansas,KS,South-East,Carlos Rodriguez,Mohammad Rahman,"7,295,132.00","Saturday, October 28, 2017",2017,Oct,Autumn
-USA,Texas,TX,North,Ingrid Svensson,Elena Costa,"3,298,287.00","Monday, November 1, 2010",2010,Nov,Autumn
-USA,Guam,GU,North-West,Ingrid Svensson,Tariq Khan,"9,911,216.00","Friday, May 10, 2013",2013,May,Spring
-USA,New Jersey,NJ,South-West,Miguel Fernandez,Mei Chen,"18,307,142.00","Sunday, February 3, 2019",2019,Feb,Winter
-USA,Florida,FL,South,Anna Nowak,Tariq Khan,"2,135,440.00","Friday, October 31, 2014",2014,Oct,Autumn
-USA,Wisconsin,WI,South,Mohammed Khan,Sophia Li,"17,070,495.00","Monday, July 22, 2019",2019,Jul,Summer
-USA,Virgin Islands,VI,North-West,Jamal Al-Farsi,Elena Costa,"6,894,294.00","Wednesday, March 30, 2016",2016,Mar,Spring
-USA,Texas,TX,East,Aisha Abubakar,Sophia Li,"1,654,189.00","Saturday, July 30, 2016",2016,Jul,Summer
-USA,Tennessee,TN,East,Liu Wei,Sophia Li,"4,734,256.00","Saturday, October 3, 2020",2020,Oct,Autumn
-USA,Trust Territories,TT,North,Maria Garcia,Sophia Li,"12,293,804.00","Wednesday, July 11, 2012",2012,Jul,Summer
-USA,Virgin Islands,VI,North-East,Priya Patel,Mohammad Rahman,"9,850,035.00","Sunday, February 14, 2010",2010,Feb,Winter
-USA,Guam,GU,South-West,Jamal Al-Farsi,Mohammad Rahman,"13,206,091.00","Sunday, September 10, 2017",2017,Sep,Autumn
-USA,District of Columbia,DC,South-East,Yuri Petrov,Sophia Li,"14,048,910.00","Saturday, December 24, 2016",2016,Dec,Winter
-USA,Nebraska,NE,South,Ingrid Svensson,Tariq Khan,"3,923,812.00","Tuesday, September 27, 2016",2016,Sep,Autumn
-USA,New York,NY,West,Carlos Rodriguez,Mohammad Rahman,"2,934,104.00","Monday, February 15, 2016",2016,Feb,Winter
-USA,New Mexico,NM,South-East,Miguel Fernandez,Tariq Khan,"1,020,953.00","Wednesday, September 30, 2015",2015,Sep,Autumn
-USA,Idaho,ID,North-West,Marcelo Silva,Mohammad Rahman,"4,721,774.00","Saturday, January 11, 2014",2014,Jan,Winter
-USA,Alaska,AK,South-West,Isabella Rossi,Tariq Khan,"4,313,127.00","Sunday, August 2, 2020",2020,Aug,Summer
-USA,North Carolina,NC,North-West,Ahmed Hassan,Sophia Li,"18,898,938.00","Wednesday, August 26, 2015",2015,Aug,Summer
-USA,Delaware,DE,North,Priya Patel,Mohammad Rahman,"1,598,451.00","Friday, March 18, 2011",2011,Mar,Spring
-USA,Oklahoma,OK,East,David Kim,Mei Chen,"3,705,276.00","Saturday, May 16, 2020",2020,May,Spring
-USA,Kansas,KS,East,Yuki Tanaka,Mohammad Rahman,"11,190,517.00","Thursday, November 21, 2013",2013,Nov,Autumn
-USA,Louisiana,LA,South-East,Mohammed Khan,Mei Chen,"11,325,928.00","Sunday, September 25, 2016",2016,Sep,Autumn
-USA,Vermont,VT,South,Nguyen Minh,Tariq Khan,"3,590,574.00","Wednesday, November 8, 2017",2017,Nov,Autumn
-USA,Maine,ME,South-West,Isabella Rossi,Tariq Khan,"6,677,318.00","Friday, January 1, 2010",2010,Jan,Winter
-USA,Texas,TX,North-East,Yuri Petrov,Mei Chen,"16,355,962.00","Saturday, September 20, 2014",2014,Sep,Autumn
-USA,Wyoming,WY,East,Priya Patel,Tariq Khan,"5,015,068.00","Monday, October 14, 2019",2019,Oct,Autumn
-USA,Guam,GU,West,Maria Garcia,Sophia Li,"1,103,498.00","Saturday, November 28, 2015",2015,Nov,Autumn
-USA,Oregon,OR,North-West,Yuki Tanaka,Mohammad Rahman,"7,725,365.00","Thursday, October 24, 2019",2019,Oct,Autumn
-USA,California,CA,East,Liu Wei,Tariq Khan,"6,581,320.00","Monday, May 19, 2014",2014,May,Spring
-USA,Alaska,AK,North-West,Jamal Al-Farsi,Sophia Li,"2,178,168.00","Sunday, May 19, 2019",2019,May,Spring
-USA,Alabama,AL,South-East,Carlos Rodriguez,Elena Costa,"15,572,050.00","Sunday, September 28, 2014",2014,Sep,Autumn
-USA,South Carolina,SC,North-West,Ingrid Svensson,Tariq Khan,"16,037,148.00","Wednesday, October 26, 2016",2016,Oct,Autumn
-USA,Tennessee,TN,South-East,Anna Nowak,Elena Costa,"1,792,592.00","Sunday, November 30, 2014",2014,Nov,Autumn
-USA,Iowa,IA,South-West,Aisha Abubakar,Sophia Li,"12,980,288.00","Monday, April 16, 2018",2018,Apr,Spring
-USA,New Mexico,NM,North-East,David Kim,Mei Chen,"22,585,224.00","Thursday, August 23, 2018",2018,Aug,Summer
-USA,Montana,MT,South-West,Liu Wei,Elena Costa,"7,828,276.00","Saturday, May 15, 2010",2010,May,Spring
-USA,Montana,MT,South-East,Maria Garcia,Sophia Li,"1,722,691.00","Wednesday, June 30, 2010",2010,Jun,Summer
-USA,Puerto Rico,PR,North-West,Leila Abadi,Tariq Khan,"13,804,622.00","Tuesday, January 1, 2019",2019,Jan,Winter
-USA,South Carolina,SC,South-West,Yuki Tanaka,Tariq Khan,"20,140,036.00","Monday, January 22, 2018",2018,Jan,Winter
-USA,Rhode Island,RI,South-East,Ingrid Svensson,Sophia Li,"9,133,402.00","Monday, November 23, 2015",2015,Nov,Autumn
-USA,Tennessee,TN,South,Leila Abadi,Mei Chen,"853,791.00","Friday, March 23, 2012",2012,Mar,Spring
-USA,California,CA,North-East,Miguel Fernandez,Elena Costa,"2,680,968.00","Thursday, June 27, 2013",2013,Jun,Summer
-USA,Massachusetts,MA,South-West,Anna Nowak,Mei Chen,"18,693,223.00","Wednesday, October 3, 2018",2018,Oct,Autumn
-USA,South Dakota,SD,East,Liu Wei,Elena Costa,"7,570,798.00","Wednesday, September 19, 2012",2012,Sep,Autumn
-USA,Puerto Rico,PR,North,Leila Abadi,Tariq Khan,"3,627,514.00","Sunday, February 2, 2020",2020,Feb,Winter
-USA,Indiana,IN,South-West,Marcelo Silva,Sophia Li,"18,567,203.00","Wednesday, December 5, 2018",2018,Dec,Winter
-USA,New Mexico,NM,South-East,Priya Patel,Mei Chen,"1,654,755.00","Saturday, May 4, 2019",2019,May,Spring
-USA,Arkansas,AR,South-East,Maria Garcia,Mei Chen,"8,227,564.00","Saturday, December 31, 2011",2011,Dec,Winter
-USA,Virginia,VA,North,Fatima Mohamed,Mohammad Rahman,"1,443,778.00","Sunday, June 2, 2019",2019,Jun,Summer
-USA,Virgin Islands,VI,South-West,Leila Abadi,Sophia Li,"18,172,946.00","Tuesday, December 15, 2015",2015,Dec,Winter
-USA,Massachusetts,MA,South,Isabella Rossi,Sophia Li,"18,989,613.00","Saturday, November 26, 2016",2016,Nov,Autumn
-USA,Oregon,OR,South,Marcelo Silva,Tariq Khan,"12,828,006.00","Sunday, August 7, 2016",2016,Aug,Summer
-USA,West Virginia,WV,North-East,Fatima Mohamed,Mohammad Rahman,"16,904,032.00","Friday, April 22, 2011",2011,Apr,Spring
-USA,Puerto Rico,PR,North-West,Mohammed Khan,Sophia Li,"1,883,733.00","Saturday, March 14, 2015",2015,Mar,Spring
-USA,Kentucky,KY,North-East,Carlos Rodriguez,Tariq Khan,"4,815,450.00","Saturday, September 22, 2018",2018,Sep,Autumn
-USA,Kentucky,KY,West,Marcelo Silva,Sophia Li,"9,650,230.00","Saturday, February 22, 2020",2020,Feb,Winter
-USA,Vermont,VT,North,Carlos Rodriguez,Sophia Li,"1,350,388.00","Sunday, March 6, 2016",2016,Mar,Spring
-USA,North Dakota,ND,North-East,Maria Garcia,Tariq Khan,"11,648,844.00","Friday, October 20, 2017",2017,Oct,Autumn
-USA,New Hampshire,NH,North,Ahmed Hassan,Mei Chen,"2,724,643.00","Sunday, September 20, 2020",2020,Sep,Autumn
-USA,Kentucky,KY,North,Anna Nowak,Mohammad Rahman,"10,685,132.00","Friday, March 29, 2013",2013,Mar,Spring
-USA,Colorado,CO,South-West,Miguel Fernandez,Elena Costa,"5,560,607.00","Thursday, November 5, 2020",2020,Nov,Autumn
-USA,Vermont,VT,South,Anna Nowak,Sophia Li,"10,911,752.00","Wednesday, March 26, 2014",2014,Mar,Spring
-USA,Nevada,NV,North-East,Mohammed Khan,Mohammad Rahman,"1,966,039.00","Saturday, October 17, 2020",2020,Oct,Autumn
-USA,New Mexico,NM,East,Priya Patel,Mei Chen,"20,812,859.00","Monday, January 27, 2014",2014,Jan,Winter
-USA,Kansas,KS,East,Maria Garcia,Tariq Khan,"8,376,054.00","Friday, January 25, 2019",2019,Jan,Winter
-USA,Georgia,GA,North-East,Anna Nowak,Tariq Khan,"8,494,857.00","Friday, April 22, 2011",2011,Apr,Spring
-USA,New York,NY,North-West,Maria Garcia,Mei Chen,"6,974,355.00","Friday, October 28, 2011",2011,Oct,Autumn
-USA,Arizona,AZ,North-West,Jamal Al-Farsi,Elena Costa,"16,047,857.00","Sunday, September 8, 2019",2019,Sep,Autumn
-USA,New Jersey,NJ,South,Fatima Mohamed,Tariq Khan,"16,700,935.00","Saturday, November 17, 2018",2018,Nov,Autumn
-USA,Kentucky,KY,South-East,Priya Patel,Tariq Khan,"12,674,184.00","Sunday, March 15, 2015",2015,Mar,Spring
-USA,Maine,ME,South,Aisha Abubakar,Elena Costa,"1,615,364.00","Saturday, September 3, 2016",2016,Sep,Autumn
-USA,Guam,GU,South-West,Jamal Al-Farsi,Mohammad Rahman,"13,666,426.00","Saturday, July 9, 2011",2011,Jul,Summer
-USA,Florida,FL,West,Nguyen Minh,Mohammad Rahman,"2,171,292.00","Friday, August 7, 2020",2020,Aug,Summer
-USA,Vermont,VT,East,Maria Garcia,Sophia Li,"12,757,145.00","Friday, July 11, 2014",2014,Jul,Summer
-USA,Utah,UT,North-West,Mohammed Khan,Elena Costa,"6,376,070.00","Saturday, May 7, 2016",2016,May,Spring
-USA,Wyoming,WY,North-West,Jamal Al-Farsi,Sophia Li,"1,081,709.00","Wednesday, April 21, 2010",2010,Apr,Spring
-USA,Kentucky,KY,East,Juan Lopez,Tariq Khan,"2,297,756.00","Monday, November 28, 2011",2011,Nov,Autumn
-USA,Oregon,OR,South-West,Mohammed Khan,Elena Costa,"2,630,484.00","Tuesday, October 20, 2015",2015,Oct,Autumn
-USA,Nebraska,NE,South,Jamal Al-Farsi,Mohammad Rahman,"10,829,433.00","Friday, October 31, 2014",2014,Oct,Autumn
-USA,Alaska,AK,South,Miguel Fernandez,Tariq Khan,"5,287,143.00","Saturday, November 2, 2019",2019,Nov,Autumn
-USA,North Dakota,ND,North-West,Maria Garcia,Elena Costa,"8,555,490.00","Saturday, October 17, 2015",2015,Oct,Autumn
-USA,Kentucky,KY,South-West,Jamal Al-Farsi,Elena Costa,"1,139,623.00","Tuesday, May 13, 2014",2014,May,Spring
-USA,Guam,GU,South,Isabella Rossi,Mohammad Rahman,"14,567,387.00","Tuesday, May 27, 2014",2014,May,Spring
-USA,Kansas,KS,North-East,Maria Garcia,Sophia Li,"5,577,778.00","Saturday, September 28, 2013",2013,Sep,Autumn
-USA,Nebraska,NE,South-West,Ingrid Svensson,Mohammad Rahman,"1,803,804.00","Tuesday, October 14, 2014",2014,Oct,Autumn
-USA,Wyoming,WY,South-West,David Kim,Tariq Khan,"14,600,145.00","Tuesday, November 19, 2019",2019,Nov,Autumn
-USA,Montana,MT,South,Miguel Fernandez,Mohammad Rahman,"2,699,060.00","Saturday, February 20, 2010",2010,Feb,Winter
-USA,North Dakota,ND,South-West,Yuki Tanaka,Sophia Li,"1,305,406.00","Wednesday, March 27, 2013",2013,Mar,Spring
-USA,Puerto Rico,PR,East,Marcelo Silva,Elena Costa,"4,759,460.00","Sunday, November 29, 2015",2015,Nov,Autumn
-USA,Oklahoma,OK,North-East,Yuri Petrov,Mohammad Rahman,"14,540,316.00","Monday, December 30, 2013",2013,Dec,Winter
-USA,Puerto Rico,PR,North-East,Jamal Al-Farsi,Tariq Khan,"2,162,200.00","Friday, October 13, 2017",2017,Oct,Autumn
-USA,California,CA,North,Isabella Rossi,Sophia Li,"5,587,271.00","Thursday, August 14, 2014",2014,Aug,Summer
-USA,American Samoa,AS,West,Juan Lopez,Elena Costa,"4,059,220.00","Friday, December 12, 2014",2014,Dec,Winter
-USA,Ohio,OH,South,Carlos Rodriguez,Sophia Li,"11,623,967.00","Sunday, February 2, 2020",2020,Feb,Winter
-USA,Maryland,MD,South,Ingrid Svensson,Tariq Khan,"7,889,330.00","Sunday, December 4, 2011",2011,Dec,Winter
-USA,Wyoming,WY,South,Yuri Petrov,Mohammad Rahman,"12,174,954.00","Saturday, February 6, 2010",2010,Feb,Winter
-USA,Arizona,AZ,South,Yuki Tanaka,Mohammad Rahman,"919,633.00","Sunday, March 18, 2018",2018,Mar,Spring
-USA,Pennsylvania,PA,South,Ahmed Hassan,Mohammad Rahman,"1,374,431.00","Wednesday, December 26, 2012",2012,Dec,Winter
-USA,Nevada,NV,South,Juan Lopez,Sophia Li,"882,522.00","Monday, March 28, 2016",2016,Mar,Spring
-USA,North Carolina,NC,West,Carlos Rodriguez,Sophia Li,"1,752,184.00","Saturday, October 19, 2013",2013,Oct,Autumn
-USA,Indiana,IN,West,Priya Patel,Elena Costa,"107,603.00","Wednesday, October 26, 2011",2011,Oct,Autumn
-USA,Puerto Rico,PR,North,Marcelo Silva,Sophia Li,"7,434,796.00","Friday, April 27, 2012",2012,Apr,Spring
-USA,Arkansas,AR,South-West,Fatima Mohamed,Elena Costa,"10,425,462.00","Wednesday, February 27, 2019",2019,Feb,Winter
-USA,Iowa,IA,North-East,Miguel Fernandez,Mohammad Rahman,"17,995,979.00","Monday, October 12, 2015",2015,Oct,Autumn
-USA,Kentucky,KY,North-East,Yuri Petrov,Elena Costa,"2,528,161.00","Tuesday, February 28, 2012",2012,Feb,Winter
-USA,Idaho,ID,East,Maria Garcia,Tariq Khan,"11,032,175.00","Thursday, March 17, 2011",2011,Mar,Spring
-USA,Nevada,NV,West,Nguyen Minh,Sophia Li,"14,819,748.00","Tuesday, March 29, 2011",2011,Mar,Spring
-USA,Colorado,CO,North-West,Liu Wei,Elena Costa,"3,363,198.00","Friday, December 12, 2014",2014,Dec,Winter
-USA,Connecticut,CT,North-East,Isabella Rossi,Mohammad Rahman,"6,495,001.00","Friday, November 22, 2013",2013,Nov,Autumn
-USA,Ohio,OH,South,Yuri Petrov,Mohammad Rahman,"4,321,936.00","Friday, October 30, 2020",2020,Oct,Autumn
-USA,Washington,WA,East,Ahmed Hassan,Mohammad Rahman,"21,175,270.00","Saturday, February 16, 2019",2019,Feb,Winter
-USA,Michigan,MI,North-West,Anna Nowak,Mei Chen,"10,769,444.00","Sunday, August 12, 2012",2012,Aug,Summer
-USA,Wisconsin,WI,South-West,Leila Abadi,Sophia Li,"765,444.00","Tuesday, August 20, 2013",2013,Aug,Summer
-USA,Mississippi,MS,South-East,Miguel Fernandez,Mei Chen,"5,844,215.00","Sunday, September 27, 2020",2020,Sep,Autumn
-USA,American Samoa,AS,North-West,Marcelo Silva,Elena Costa,"662,287.00","Monday, September 12, 2016",2016,Sep,Autumn
-USA,Alaska,AK,North-West,Mohammed Khan,Tariq Khan,"19,728,426.00","Friday, July 16, 2010",2010,Jul,Summer
-USA,North Dakota,ND,West,Yuki Tanaka,Sophia Li,"14,973,837.00","Sunday, January 3, 2016",2016,Jan,Winter
-USA,Minnesota,MN,North-West,Ahmed Hassan,Tariq Khan,"11,738,335.00","Sunday, May 26, 2019",2019,May,Spring
-USA,New Mexico,NM,North,Priya Patel,Tariq Khan,"3,581,964.00","Thursday, December 10, 2020",2020,Dec,Winter
-USA,Virgin Islands,VI,South-East,Carlos Rodriguez,Mohammad Rahman,"1,902,771.00","Wednesday, May 29, 2019",2019,May,Spring
-USA,Iowa,IA,North,Marcelo Silva,Elena Costa,"9,000,466.00","Wednesday, May 19, 2010",2010,May,Spring
-USA,Alaska,AK,North-West,Marcelo Silva,Mohammad Rahman,"3,838,577.00","Thursday, October 4, 2012",2012,Oct,Autumn
-USA,New York,NY,East,Miguel Fernandez,Tariq Khan,"268,761.00","Wednesday, March 28, 2018",2018,Mar,Spring
-USA,Northern Mariana Islands,MP,South-West,Jamal Al-Farsi,Mohammad Rahman,"3,189,826.00","Tuesday, October 17, 2017",2017,Oct,Autumn
-USA,Washington,WA,South-East,Aisha Abubakar,Tariq Khan,"2,696,779.00","Saturday, June 16, 2012",2012,Jun,Summer
-USA,New Mexico,NM,North-West,Priya Patel,Tariq Khan,"4,714,151.00","Monday, July 7, 2014",2014,Jul,Summer
-USA,Washington,WA,South-West,Ingrid Svensson,Sophia Li,"16,981,550.00","Sunday, May 7, 2017",2017,May,Spring
-USA,Kansas,KS,West,Maria Garcia,Tariq Khan,"7,778,215.00","Wednesday, May 29, 2013",2013,May,Spring
-USA,South Carolina,SC,North,David Kim,Mohammad Rahman,"4,713,628.00","Tuesday, October 22, 2019",2019,Oct,Autumn
-USA,District of Columbia,DC,South,Marcelo Silva,Tariq Khan,"597,549.00","Monday, May 14, 2012",2012,May,Spring
-USA,Connecticut,CT,North,Leila Abadi,Elena Costa,"4,670,178.00","Thursday, May 9, 2013",2013,May,Spring
-USA,American Samoa,AS,East,Jamal Al-Farsi,Mohammad Rahman,"15,594,645.00","Tuesday, June 12, 2012",2012,Jun,Summer
-USA,Wisconsin,WI,South-West,Maria Garcia,Tariq Khan,"5,816,669.00","Saturday, March 1, 2014",2014,Mar,Spring
-USA,Colorado,CO,North,Maria Garcia,Mohammad Rahman,"4,143,833.00","Friday, March 7, 2014",2014,Mar,Spring
-USA,Michigan,MI,North-West,Liu Wei,Mohammad Rahman,"2,952,244.00","Saturday, November 2, 2019",2019,Nov,Autumn
-USA,Massachusetts,MA,North,Yuki Tanaka,Tariq Khan,"4,848,432.00","Thursday, September 1, 2016",2016,Sep,Autumn
-USA,Oklahoma,OK,East,Marcelo Silva,Sophia Li,"17,121,817.00","Tuesday, November 10, 2015",2015,Nov,Autumn
-USA,West Virginia,WV,North,Priya Patel,Mei Chen,"13,822,273.00","Thursday, January 23, 2020",2020,Jan,Winter
-USA,American Samoa,AS,North-East,Mohammed Khan,Elena Costa,"4,280,069.00","Sunday, May 19, 2019",2019,May,Spring
-USA,Puerto Rico,PR,South-West,Priya Patel,Elena Costa,"11,427,439.00","Thursday, June 3, 2010",2010,Jun,Summer
-USA,Illinois,IL,South-East,Miguel Fernandez,Elena Costa,"7,990,780.00","Friday, February 10, 2017",2017,Feb,Winter
-USA,Connecticut,CT,North,David Kim,Elena Costa,"2,704,196.00","Thursday, February 27, 2020",2020,Feb,Winter
-USA,Missouri,MO,South-West,Juan Lopez,Mei Chen,"16,975,404.00","Friday, December 20, 2019",2019,Dec,Winter
-USA,Vermont,VT,West,Carlos Rodriguez,Tariq Khan,"7,775,953.00","Monday, December 24, 2012",2012,Dec,Winter
-USA,North Carolina,NC,North,Ingrid Svensson,Mohammad Rahman,"8,537,320.00","Saturday, April 27, 2019",2019,Apr,Spring
-USA,Louisiana,LA,North-East,Mohammed Khan,Sophia Li,"2,457,057.00","Thursday, June 19, 2014",2014,Jun,Summer
-USA,District of Columbia,DC,North-East,Ahmed Hassan,Mohammad Rahman,"6,807,340.00","Monday, June 30, 2014",2014,Jun,Summer
-USA,Maryland,MD,East,Carlos Rodriguez,Mei Chen,"648,454.00","Thursday, July 14, 2016",2016,Jul,Summer
-USA,Kentucky,KY,West,Juan Lopez,Mohammad Rahman,"8,328,105.00","Saturday, August 6, 2016",2016,Aug,Summer
-USA,Nevada,NV,South-West,Carlos Rodriguez,Tariq Khan,"8,286,213.00","Friday, December 7, 2012",2012,Dec,Winter
-USA,Tennessee,TN,North-West,Fatima Mohamed,Sophia Li,"10,105,425.00","Friday, December 1, 2017",2017,Dec,Winter
-USA,Virgin Islands,VI,North-East,Juan Lopez,Mohammad Rahman,"8,882,174.00","Tuesday, March 21, 2017",2017,Mar,Spring
-USA,Vermont,VT,South,David Kim,Mei Chen,"3,989,034.00","Saturday, August 23, 2014",2014,Aug,Summer
-USA,New Jersey,NJ,North-West,Jamal Al-Farsi,Elena Costa,"14,712,985.00","Thursday, May 26, 2016",2016,May,Spring
-USA,Delaware,DE,South-East,Leila Abadi,Sophia Li,"2,752,995.00","Saturday, October 10, 2020",2020,Oct,Autumn
-USA,New York,NY,West,Leila Abadi,Mei Chen,"14,165,246.00","Monday, May 23, 2011",2011,May,Spring
-USA,New York,NY,East,Ingrid Svensson,Mei Chen,"7,740,884.00","Friday, November 22, 2019",2019,Nov,Autumn
-USA,Hawaii,HI,South-West,Aisha Abubakar,Mei Chen,"11,924,503.00","Thursday, October 18, 2012",2012,Oct,Autumn
-USA,Pennsylvania,PA,West,Ahmed Hassan,Sophia Li,"11,615,281.00","Monday, April 27, 2020",2020,Apr,Spring
-USA,Virgin Islands,VI,North-East,Ahmed Hassan,Tariq Khan,"14,551,967.00","Thursday, July 29, 2010",2010,Jul,Summer
-USA,Alaska,AK,West,Leila Abadi,Tariq Khan,"4,441,030.00","Monday, September 21, 2020",2020,Sep,Autumn
-USA,Illinois,IL,South-East,Maria Garcia,Elena Costa,"1,026,913.00","Sunday, October 28, 2018",2018,Oct,Autumn
-USA,Nebraska,NE,East,David Kim,Sophia Li,"6,368,619.00","Thursday, June 29, 2017",2017,Jun,Summer
-USA,Utah,UT,North-West,Mohammed Khan,Sophia Li,"9,525,835.00","Friday, April 3, 2015",2015,Apr,Spring
-USA,Hawaii,HI,North-West,Anna Nowak,Elena Costa,"1,225,093.00","Tuesday, October 30, 2018",2018,Oct,Autumn
-USA,Maine,ME,West,Yuri Petrov,Sophia Li,"3,400,356.00","Saturday, June 2, 2012",2012,Jun,Summer
-USA,Guam,GU,South-East,Yuri Petrov,Tariq Khan,"7,713,508.00","Friday, October 2, 2020",2020,Oct,Autumn
-USA,South Carolina,SC,North-West,Jamal Al-Farsi,Sophia Li,"16,803,339.00","Friday, October 19, 2012",2012,Oct,Autumn
-USA,Colorado,CO,South,Nguyen Minh,Elena Costa,"20,694,941.00","Thursday, January 1, 2015",2015,Jan,Winter
-USA,Hawaii,HI,North-West,Yuki Tanaka,Mohammad Rahman,"2,890,800.00","Monday, September 7, 2015",2015,Sep,Autumn
-USA,Oklahoma,OK,South-East,Mohammed Khan,Mei Chen,"666,663.00","Tuesday, November 8, 2016",2016,Nov,Autumn
-USA,Utah,UT,North,Carlos Rodriguez,Tariq Khan,"760,146.00","Wednesday, May 8, 2013",2013,May,Spring
-USA,Iowa,IA,North,Carlos Rodriguez,Tariq Khan,"10,646,944.00","Saturday, February 25, 2012",2012,Feb,Winter
-USA,Idaho,ID,South-East,Jamal Al-Farsi,Mohammad Rahman,"4,395,203.00","Tuesday, August 16, 2011",2011,Aug,Summer
-USA,New Mexico,NM,North-East,Ingrid Svensson,Elena Costa,"9,048,573.00","Tuesday, February 21, 2017",2017,Feb,Winter
-USA,Georgia,GA,South-West,Miguel Fernandez,Sophia Li,"5,594,733.00","Thursday, November 12, 2020",2020,Nov,Autumn
-USA,Delaware,DE,North-West,Nguyen Minh,Tariq Khan,"11,173,567.00","Friday, December 11, 2015",2015,Dec,Winter
-USA,Utah,UT,West,David Kim,Sophia Li,"16,932,071.00","Saturday, June 5, 2010",2010,Jun,Summer
-USA,Hawaii,HI,West,Ahmed Hassan,Mohammad Rahman,"1,426,834.00","Wednesday, October 25, 2017",2017,Oct,Autumn
-USA,Virginia,VA,West,Ahmed Hassan,Sophia Li,"22,645,753.00","Monday, November 5, 2012",2012,Nov,Autumn
-USA,Oregon,OR,East,Ahmed Hassan,Tariq Khan,"11,200,783.00","Saturday, September 28, 2013",2013,Sep,Autumn
-USA,New Hampshire,NH,South-West,Leila Abadi,Tariq Khan,"8,982,653.00","Thursday, October 21, 2010",2010,Oct,Autumn
-USA,Connecticut,CT,North-West,Jamal Al-Farsi,Mohammad Rahman,"182,488.00","Monday, May 4, 2020",2020,May,Spring
-USA,Iowa,IA,South-East,Anna Nowak,Elena Costa,"4,136,622.00","Monday, September 7, 2015",2015,Sep,Autumn
-USA,Indiana,IN,East,Ahmed Hassan,Mei Chen,"10,268,071.00","Thursday, September 28, 2017",2017,Sep,Autumn
-USA,Michigan,MI,West,Ingrid Svensson,Mohammad Rahman,"6,756,954.00","Monday, May 20, 2013",2013,May,Spring
-USA,Florida,FL,North,Priya Patel,Tariq Khan,"510,476.00","Friday, August 1, 2014",2014,Aug,Summer
-USA,Maine,ME,South,David Kim,Tariq Khan,"4,911,162.00","Saturday, September 8, 2018",2018,Sep,Autumn
-USA,New Mexico,NM,North,Juan Lopez,Mohammad Rahman,"4,505,138.00","Saturday, October 3, 2015",2015,Oct,Autumn
-USA,Nebraska,NE,North-West,Mohammed Khan,Mohammad Rahman,"8,956,812.00","Wednesday, March 18, 2020",2020,Mar,Spring
-USA,Arizona,AZ,South-West,Aisha Abubakar,Tariq Khan,"1,677,476.00","Saturday, August 11, 2018",2018,Aug,Summer
-USA,Ohio,OH,North-West,Fatima Mohamed,Tariq Khan,"9,081,425.00","Friday, April 12, 2019",2019,Apr,Spring
-USA,New Hampshire,NH,East,Ahmed Hassan,Sophia Li,"6,655,633.00","Tuesday, December 10, 2013",2013,Dec,Winter
-USA,Oklahoma,OK,North-East,Nguyen Minh,Tariq Khan,"580,532.00","Monday, April 27, 2015",2015,Apr,Spring
-USA,Minnesota,MN,North,Ingrid Svensson,Mohammad Rahman,"6,618,793.00","Friday, October 1, 2010",2010,Oct,Autumn
-USA,Guam,GU,West,Nguyen Minh,Mohammad Rahman,"2,728,443.00","Sunday, February 20, 2011",2011,Feb,Winter
-USA,Oklahoma,OK,East,Nguyen Minh,Mohammad Rahman,"11,891,421.00","Tuesday, July 14, 2020",2020,Jul,Summer
-USA,Idaho,ID,South-East,Liu Wei,Mohammad Rahman,"19,382,871.00","Saturday, July 26, 2014",2014,Jul,Summer
-USA,Virginia,VA,North-East,Maria Garcia,Elena Costa,"3,391,302.00","Wednesday, May 8, 2019",2019,May,Spring
-USA,Trust Territories,TT,South,Anna Nowak,Mei Chen,"9,394,606.00","Saturday, March 2, 2019",2019,Mar,Spring
-USA,Maryland,MD,South-West,Aisha Abubakar,Mei Chen,"3,907,477.00","Friday, January 14, 2011",2011,Jan,Winter
-USA,Connecticut,CT,West,Anna Nowak,Mei Chen,"20,588,244.00","Tuesday, October 20, 2020",2020,Oct,Autumn
-USA,Vermont,VT,South,Maria Garcia,Mohammad Rahman,"7,283,970.00","Sunday, April 26, 2015",2015,Apr,Spring
-USA,Vermont,VT,West,Priya Patel,Tariq Khan,"777,523.00","Saturday, January 27, 2018",2018,Jan,Winter
-USA,Wisconsin,WI,East,Liu Wei,Sophia Li,"11,204,021.00","Wednesday, March 14, 2018",2018,Mar,Spring
-USA,Montana,MT,South-West,Yuki Tanaka,Mohammad Rahman,"978,506.00","Tuesday, May 8, 2012",2012,May,Spring
-USA,Rhode Island,RI,North,Fatima Mohamed,Elena Costa,"1,265,185.00","Thursday, April 7, 2011",2011,Apr,Spring
-USA,California,CA,South,Aisha Abubakar,Sophia Li,"4,790,052.00","Friday, June 4, 2010",2010,Jun,Summer
-USA,Kentucky,KY,West,Jamal Al-Farsi,Mei Chen,"2,352,785.00","Wednesday, February 18, 2015",2015,Feb,Winter
-USA,Colorado,CO,South-West,Maria Garcia,Elena Costa,"11,091,184.00","Wednesday, July 13, 2011",2011,Jul,Summer
-USA,Indiana,IN,North-East,Juan Lopez,Mohammad Rahman,"2,580,310.00","Thursday, August 26, 2010",2010,Aug,Summer
-USA,Montana,MT,West,Yuki Tanaka,Mei Chen,"5,494,690.00","Sunday, August 28, 2016",2016,Aug,Summer
-USA,Colorado,CO,South-West,Jamal Al-Farsi,Elena Costa,"1,188,098.00","Sunday, November 11, 2018",2018,Nov,Autumn
-USA,Kansas,KS,East,Anna Nowak,Mohammad Rahman,"3,102,846.00","Saturday, March 9, 2019",2019,Mar,Spring
-USA,Idaho,ID,East,Jamal Al-Farsi,Tariq Khan,"2,286,525.00","Monday, July 2, 2012",2012,Jul,Summer
-USA,Connecticut,CT,North-East,Marcelo Silva,Mei Chen,"4,988,982.00","Sunday, July 21, 2013",2013,Jul,Summer
-USA,New Hampshire,NH,North,Ahmed Hassan,Mohammad Rahman,"10,218,499.00","Thursday, May 2, 2013",2013,May,Spring
-USA,Wisconsin,WI,South,Yuki Tanaka,Mei Chen,"6,954,839.00","Saturday, October 27, 2018",2018,Oct,Autumn
-USA,South Carolina,SC,South-East,Isabella Rossi,Elena Costa,"17,073,136.00","Sunday, January 26, 2020",2020,Jan,Winter
-USA,Ohio,OH,North-East,Isabella Rossi,Mei Chen,"10,306,192.00","Monday, November 16, 2015",2015,Nov,Autumn
-USA,Kentucky,KY,East,Nguyen Minh,Mei Chen,"765,696.00","Thursday, September 27, 2012",2012,Sep,Autumn
-USA,Wisconsin,WI,South,Leila Abadi,Mei Chen,"1,606,161.00","Friday, November 13, 2015",2015,Nov,Autumn
-USA,Kentucky,KY,West,Mohammed Khan,Tariq Khan,"1,643,689.00","Wednesday, December 18, 2019",2019,Dec,Winter
-USA,American Samoa,AS,North-West,David Kim,Mei Chen,"5,537,629.00","Thursday, December 31, 2015",2015,Dec,Winter
-USA,Georgia,GA,South,Marcelo Silva,Sophia Li,"10,624,622.00","Wednesday, May 25, 2016",2016,May,Spring
-USA,Maine,ME,West,Maria Garcia,Tariq Khan,"1,413,328.00","Tuesday, November 7, 2017",2017,Nov,Autumn
-USA,California,CA,South-West,Yuri Petrov,Tariq Khan,"9,672,379.00","Thursday, September 25, 2014",2014,Sep,Autumn
-USA,Illinois,IL,North-West,Miguel Fernandez,Sophia Li,"1,293,469.00","Thursday, December 3, 2020",2020,Dec,Winter
-USA,Ohio,OH,North,Maria Garcia,Tariq Khan,"10,748,415.00","Tuesday, May 26, 2020",2020,May,Spring
-USA,Maine,ME,South,Nguyen Minh,Elena Costa,"14,388,719.00","Thursday, March 6, 2014",2014,Mar,Spring
-USA,Kentucky,KY,North-West,Isabella Rossi,Mei Chen,"7,786,029.00","Wednesday, August 22, 2012",2012,Aug,Summer
-USA,Washington,WA,North,Yuki Tanaka,Mohammad Rahman,"2,087,485.00","Sunday, May 26, 2013",2013,May,Spring
-USA,North Dakota,ND,South-East,Ahmed Hassan,Mohammad Rahman,"5,902,823.00","Monday, March 19, 2012",2012,Mar,Spring
-USA,Iowa,IA,East,Priya Patel,Mohammad Rahman,"18,254,608.00","Wednesday, July 21, 2010",2010,Jul,Summer
-USA,Minnesota,MN,West,Nguyen Minh,Sophia Li,"7,552,642.00","Sunday, October 7, 2012",2012,Oct,Autumn
-USA,California,CA,South,Miguel Fernandez,Tariq Khan,"2,956,579.00","Sunday, July 16, 2017",2017,Jul,Summer
-USA,Connecticut,CT,South-East,Miguel Fernandez,Elena Costa,"7,653,264.00","Tuesday, October 14, 2014",2014,Oct,Autumn
-USA,Trust Territories,TT,North-East,Juan Lopez,Sophia Li,"6,795,026.00","Friday, June 18, 2010",2010,Jun,Summer
-USA,Georgia,GA,South,Carlos Rodriguez,Mohammad Rahman,"2,257,485.00","Saturday, February 15, 2014",2014,Feb,Winter
-USA,Kentucky,KY,North-East,Miguel Fernandez,Tariq Khan,"4,278,509.00","Tuesday, August 21, 2012",2012,Aug,Summer
-USA,Texas,TX,North-East,Ahmed Hassan,Mohammad Rahman,"16,354,636.00","Thursday, June 23, 2016",2016,Jun,Summer
-USA,Kentucky,KY,North-West,Ingrid Svensson,Mohammad Rahman,"5,287,630.00","Sunday, June 13, 2010",2010,Jun,Summer
+﻿Country,State,StateName,TimeZone,Region,SalesPerson,SalesManager,SalesValue,DateOfSale,YearOfSale,MonthOfSale,Season
+USA,American Samoa,AS,Chamorro Standard Time (ChST),West,Aisha Abubakar,Mohammad Rahman,"780,148.00","Friday, August 7, 2015",2015,Aug,Summer
+USA,Alabama,AL,Central Standard Time (CST),North,David Kim,Mei Chen,"18,370,581.00","Thursday, December 12, 2013",2013,Dec,Winter
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),South-West,Aisha Abubakar,Mohammad Rahman,"21,175,053.00","Wednesday, October 16, 2013",2013,Oct,Autumn
+USA,Wisconsin,WI,Eastern Standard Time (EST),South-West,Anna Nowak,Sophia Li,"8,206,440.00","Friday, January 27, 2017",2017,Jan,Winter
+USA,Vermont,VT,Eastern Standard Time (EST),North,Yuri Petrov,Elena Costa,"884,734.00","Friday, April 30, 2010",2010,Apr,Spring
+USA,North Dakota,ND,Central Standard Time (CST),South-East,Fatima Mohamed,Mohammad Rahman,"4,265,708.00","Tuesday, December 12, 2017",2017,Dec,Winter
+USA,Iowa,IA,Central Standard Time (CST),East,David Kim,Sophia Li,"9,505,078.00","Tuesday, April 28, 2015",2015,Apr,Spring
+USA,Texas,TX,Central Standard Time (CST),North,Carlos Rodriguez,Mei Chen,"5,353,482.00","Saturday, July 31, 2010",2010,Jul,Summer
+USA,Utah,UT,Mountain Standard Time (MST),North-West,Priya Patel,Elena Costa,"1,641,432.00","Monday, December 25, 2017",2017,Dec,Winter
+USA,New York,NY,Eastern Standard Time (EST),South,Ingrid Svensson,Mohammad Rahman,"11,308,246.00","Monday, September 2, 2019",2019,Sep,Autumn
+USA,New Mexico,NM,Mountain Standard Time (MST),North,David Kim,Elena Costa,"1,177,008.00","Monday, August 17, 2020",2020,Aug,Summer
+USA,Delaware,DE,Eastern Standard Time (EST),North-West,Miguel Fernandez,Mohammad Rahman,"2,462,567.00","Saturday, June 22, 2013",2013,Jun,Summer
+USA,Maryland,MD,Eastern Standard Time (EST),West,Priya Patel,Mei Chen,"6,780,427.00","Wednesday, April 6, 2016",2016,Apr,Spring
+USA,Texas,TX,Central Standard Time (CST),North,Priya Patel,Elena Costa,"1,757,539.00","Saturday, March 5, 2016",2016,Mar,Spring
+USA,New Hampshire,NH,Eastern Standard Time (EST),North-East,Ahmed Hassan,Tariq Khan,"1,053,433.00","Tuesday, July 7, 2015",2015,Jul,Summer
+USA,Arizona,AZ,Mountain Standard Time (MST),South-West,Maria Garcia,Tariq Khan,"15,099,898.00","Sunday, June 25, 2017",2017,Jun,Summer
+USA,Virginia,VA,Eastern Standard Time (EST),North,Yuki Tanaka,Sophia Li,"18,989,511.00","Friday, March 12, 2010",2010,Mar,Spring
+USA,Wisconsin,WI,Eastern Standard Time (EST),South-East,Miguel Fernandez,Mohammad Rahman,"7,306,689.00","Wednesday, August 14, 2013",2013,Aug,Summer
+USA,Massachusetts,MA,Eastern Standard Time (EST),North,David Kim,Elena Costa,"3,052,837.00","Thursday, August 9, 2018",2018,Aug,Summer
+USA,Arizona,AZ,Mountain Standard Time (MST),East,Fatima Mohamed,Mei Chen,"991,927.00","Monday, August 5, 2019",2019,Aug,Summer
+USA,Wisconsin,WI,Eastern Standard Time (EST),East,Isabella Rossi,Mohammad Rahman,"2,799,143.00","Wednesday, November 25, 2020",2020,Nov,Autumn
+USA,South Dakota,SD,Central Standard Time (CST),South-West,Yuri Petrov,Sophia Li,"1,416,060.00","Friday, January 5, 2018",2018,Jan,Winter
+USA,Utah,UT,Mountain Standard Time (MST),South-West,Ahmed Hassan,Mei Chen,"2,068,504.00","Friday, June 8, 2012",2012,Jun,Summer
+USA,Montana,MT,Pacific Standard Time (PST),North-West,Jamal Al-Farsi,Sophia Li,"4,910,521.00","Saturday, December 3, 2011",2011,Dec,Winter
+USA,Rhode Island,RI,Eastern Standard Time (EST),North-East,Maria Garcia,Elena Costa,"391,938.00","Saturday, July 2, 2011",2011,Jul,Summer
+USA,Kansas,KS,Central Standard Time (CST),South-East,Marcelo Silva,Mohammad Rahman,"19,509,800.00","Friday, July 11, 2014",2014,Jul,Summer
+USA,South Dakota,SD,Central Standard Time (CST),South,Isabella Rossi,Mei Chen,"1,263,532.00","Wednesday, September 28, 2016",2016,Sep,Autumn
+USA,North Dakota,ND,Central Standard Time (CST),South-East,Priya Patel,Tariq Khan,"14,869,571.00","Wednesday, September 21, 2011",2011,Sep,Autumn
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),South,Marcelo Silva,Sophia Li,"2,627,959.00","Saturday, February 13, 2010",2010,Feb,Winter
+USA,Virginia,VA,Eastern Standard Time (EST),North,David Kim,Mei Chen,"2,092,930.00","Saturday, April 12, 2014",2014,Apr,Spring
+USA,Virginia,VA,Eastern Standard Time (EST),West,Isabella Rossi,Sophia Li,"4,146,176.00","Tuesday, May 19, 2015",2015,May,Spring
+USA,Mississippi,MS,Central Standard Time (CST),South-West,Yuki Tanaka,Tariq Khan,"9,703,772.00","Saturday, April 11, 2020",2020,Apr,Spring
+USA,Kentucky,KY,Eastern Standard Time (EST),South-East,Jamal Al-Farsi,Mohammad Rahman,"6,241,425.00","Sunday, July 8, 2018",2018,Jul,Summer
+USA,Montana,MT,Pacific Standard Time (PST),North-West,Ahmed Hassan,Sophia Li,"957,877.00","Wednesday, August 27, 2014",2014,Aug,Summer
+USA,Alaska,AK,Alaska Standard Time (AKST),North-West,Miguel Fernandez,Elena Costa,"16,784,767.00","Saturday, March 17, 2012",2012,Mar,Spring
+USA,Washington,WA,Pacific Standard Time (PST),South,David Kim,Sophia Li,"15,736,019.00","Tuesday, October 11, 2016",2016,Oct,Autumn
+USA,Michigan,MI,Eastern Standard Time (EST),South-West,Nguyen Minh,Tariq Khan,"9,899,287.00","Friday, April 8, 2011",2011,Apr,Spring
+USA,North Carolina,NC,Eastern Standard Time (EST),West,Leila Abadi,Mei Chen,"373,265.00","Monday, May 17, 2010",2010,May,Spring
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),East,Jamal Al-Farsi,Elena Costa,"1,150,809.00","Saturday, September 23, 2017",2017,Sep,Autumn
+USA,North Carolina,NC,Eastern Standard Time (EST),West,Isabella Rossi,Mohammad Rahman,"4,153,082.00","Sunday, February 23, 2020",2020,Feb,Winter
+USA,New Hampshire,NH,Eastern Standard Time (EST),East,Anna Nowak,Mei Chen,"7,645,017.00","Friday, November 20, 2020",2020,Nov,Autumn
+USA,New Hampshire,NH,Eastern Standard Time (EST),North-East,Aisha Abubakar,Sophia Li,"2,414,336.00","Tuesday, November 6, 2018",2018,Nov,Autumn
+USA,Pennsylvania,PA,Eastern Standard Time (EST),North-East,Yuki Tanaka,Sophia Li,"4,982,288.00","Wednesday, May 26, 2010",2010,May,Spring
+USA,Arizona,AZ,Mountain Standard Time (MST),West,Yuri Petrov,Sophia Li,"640,918.00","Friday, May 17, 2019",2019,May,Spring
+USA,Utah,UT,Mountain Standard Time (MST),South-East,Fatima Mohamed,Mei Chen,"16,630,657.00","Thursday, April 29, 2010",2010,Apr,Spring
+USA,Colorado,CO,Central Standard Time (CST),South-East,Carlos Rodriguez,Sophia Li,"12,808,014.00","Thursday, October 10, 2013",2013,Oct,Autumn
+USA,Montana,MT,Pacific Standard Time (PST),North-East,Priya Patel,Tariq Khan,"944,892.00","Saturday, January 31, 2015",2015,Jan,Winter
+USA,Guam,GU,Chamorro Standard Time (ChST),East,Liu Wei,Elena Costa,"8,063,297.00","Thursday, June 27, 2013",2013,Jun,Summer
+USA,South Carolina,SC,Eastern Standard Time (EST),South-East,Isabella Rossi,Sophia Li,"11,153,313.00","Tuesday, May 13, 2014",2014,May,Spring
+USA,Mississippi,MS,Central Standard Time (CST),South-West,Isabella Rossi,Tariq Khan,"2,940,012.00","Tuesday, June 6, 2017",2017,Jun,Summer
+USA,New Jersey,NJ,Eastern Standard Time (EST),North-West,Juan Lopez,Elena Costa,"2,573,972.00","Friday, March 29, 2019",2019,Mar,Spring
+USA,West Virginia,WV,Eastern Standard Time (EST),West,Juan Lopez,Sophia Li,"12,011,420.00","Saturday, May 11, 2013",2013,May,Spring
+USA,Iowa,IA,Central Standard Time (CST),West,Marcelo Silva,Sophia Li,"11,212,648.00","Friday, August 24, 2018",2018,Aug,Summer
+USA,Georgia,GA,Eastern Standard Time (EST),North-East,Marcelo Silva,Mei Chen,"5,584,724.00","Wednesday, April 29, 2015",2015,Apr,Spring
+USA,Alabama,AL,Central Standard Time (CST),East,Miguel Fernandez,Mohammad Rahman,"8,190,991.00","Monday, January 9, 2012",2012,Jan,Winter
+USA,Alaska,AK,Alaska Standard Time (AKST),North-West,Marcelo Silva,Sophia Li,"1,247,836.00","Sunday, September 11, 2011",2011,Sep,Autumn
+USA,Ohio,OH,Eastern Standard Time (EST),South-East,Aisha Abubakar,Mei Chen,"5,966,440.00","Wednesday, August 29, 2018",2018,Aug,Summer
+USA,New Jersey,NJ,Eastern Standard Time (EST),East,Leila Abadi,Mohammad Rahman,"13,498,496.00","Monday, September 21, 2020",2020,Sep,Autumn
+USA,South Carolina,SC,Eastern Standard Time (EST),South,Anna Nowak,Sophia Li,"15,662,418.00","Tuesday, December 12, 2017",2017,Dec,Winter
+USA,Texas,TX,Central Standard Time (CST),South-East,Aisha Abubakar,Mohammad Rahman,"3,783,317.00","Monday, April 23, 2018",2018,Apr,Spring
+USA,Connecticut,CT,Eastern Standard Time (EST),South-East,Maria Garcia,Mei Chen,"17,797,013.00","Wednesday, April 18, 2018",2018,Apr,Spring
+USA,Mississippi,MS,Central Standard Time (CST),North,Juan Lopez,Tariq Khan,"20,319,313.00","Wednesday, September 24, 2014",2014,Sep,Autumn
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),East,Marcelo Silva,Elena Costa,"7,750,858.00","Monday, July 13, 2015",2015,Jul,Summer
+USA,Missouri,MO,Central Standard Time (CST),West,Yuri Petrov,Tariq Khan,"14,705,115.00","Saturday, April 30, 2011",2011,Apr,Spring
+USA,Louisiana,LA,Central Standard Time (CST),East,Miguel Fernandez,Elena Costa,"2,543,878.00","Wednesday, July 8, 2015",2015,Jul,Summer
+USA,Ohio,OH,Eastern Standard Time (EST),South,Nguyen Minh,Mei Chen,"2,557,500.00","Saturday, September 14, 2013",2013,Sep,Autumn
+USA,American Samoa,AS,Chamorro Standard Time (ChST),South-East,Miguel Fernandez,Elena Costa,"9,079,227.00","Sunday, April 12, 2015",2015,Apr,Spring
+USA,Alaska,AK,Alaska Standard Time (AKST),West,Fatima Mohamed,Tariq Khan,"5,266,847.00","Thursday, September 6, 2018",2018,Sep,Autumn
+USA,Oklahoma,OK,Central Standard Time (CST),South-West,Marcelo Silva,Elena Costa,"3,343,667.00","Saturday, May 21, 2016",2016,May,Spring
+USA,Nevada,NV,Pacific Standard Time (PST),South,Anna Nowak,Tariq Khan,"10,065,364.00","Friday, September 23, 2011",2011,Sep,Autumn
+USA,Idaho,ID,Pacific Standard Time (PST),North-West,Miguel Fernandez,Elena Costa,"5,173,719.00","Wednesday, July 17, 2019",2019,Jul,Summer
+USA,Massachusetts,MA,Eastern Standard Time (EST),South,Liu Wei,Mei Chen,"2,460,136.00","Saturday, April 4, 2020",2020,Apr,Spring
+USA,Utah,UT,Mountain Standard Time (MST),North-West,Mohammed Khan,Mei Chen,"14,750,318.00","Saturday, February 13, 2016",2016,Feb,Winter
+USA,Wyoming,WY,Mountain Standard Time (MST),North,Leila Abadi,Elena Costa,"5,118,676.00","Tuesday, October 6, 2015",2015,Oct,Autumn
+USA,Maine,ME,Eastern Standard Time (EST),North-East,Ahmed Hassan,Elena Costa,"7,207,101.00","Saturday, August 1, 2020",2020,Aug,Summer
+USA,Alaska,AK,Alaska Standard Time (AKST),North,David Kim,Mohammad Rahman,"19,507,152.00","Sunday, November 1, 2015",2015,Nov,Autumn
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),North,Priya Patel,Mei Chen,"6,858,528.00","Wednesday, November 28, 2018",2018,Nov,Autumn
+USA,Michigan,MI,Eastern Standard Time (EST),East,Miguel Fernandez,Sophia Li,"2,920,726.00","Friday, February 4, 2011",2011,Feb,Winter
+USA,Rhode Island,RI,Eastern Standard Time (EST),South-West,Priya Patel,Mei Chen,"5,091,345.00","Thursday, June 28, 2018",2018,Jun,Summer
+USA,Florida,FL,Eastern Standard Time (EST),South,Yuki Tanaka,Tariq Khan,"16,625,965.00","Wednesday, December 2, 2020",2020,Dec,Winter
+USA,Montana,MT,Pacific Standard Time (PST),North-West,Nguyen Minh,Mohammad Rahman,"16,399,230.00","Friday, January 10, 2014",2014,Jan,Winter
+USA,Pennsylvania,PA,Eastern Standard Time (EST),East,Liu Wei,Tariq Khan,"1,025,645.00","Wednesday, October 25, 2017",2017,Oct,Autumn
+USA,Michigan,MI,Eastern Standard Time (EST),South-East,Liu Wei,Mei Chen,"15,603,846.00","Saturday, April 25, 2015",2015,Apr,Spring
+USA,Delaware,DE,Eastern Standard Time (EST),South-West,Miguel Fernandez,Sophia Li,"1,716,059.00","Wednesday, October 24, 2012",2012,Oct,Autumn
+USA,Rhode Island,RI,Eastern Standard Time (EST),South-West,Nguyen Minh,Elena Costa,"1,414,226.00","Tuesday, March 13, 2018",2018,Mar,Spring
+USA,Oregon,OR,Pacific Standard Time (PST),North-East,Mohammed Khan,Mohammad Rahman,"3,697,370.00","Wednesday, July 20, 2011",2011,Jul,Summer
+USA,Alabama,AL,Central Standard Time (CST),South,Priya Patel,Mohammad Rahman,"1,706,298.00","Wednesday, August 1, 2018",2018,Aug,Summer
+USA,Arizona,AZ,Mountain Standard Time (MST),East,Maria Garcia,Tariq Khan,"9,017,957.00","Thursday, December 29, 2011",2011,Dec,Winter
+USA,Maine,ME,Eastern Standard Time (EST),North,Ingrid Svensson,Mohammad Rahman,"6,113,091.00","Monday, December 16, 2013",2013,Dec,Winter
+USA,Arizona,AZ,Mountain Standard Time (MST),North,Nguyen Minh,Elena Costa,"3,958,877.00","Saturday, August 20, 2011",2011,Aug,Summer
+USA,Montana,MT,Pacific Standard Time (PST),South-West,Carlos Rodriguez,Elena Costa,"6,212,052.00","Friday, March 11, 2016",2016,Mar,Spring
+USA,Arizona,AZ,Mountain Standard Time (MST),South,Fatima Mohamed,Sophia Li,"1,139,924.00","Sunday, December 23, 2012",2012,Dec,Winter
+USA,Wisconsin,WI,Eastern Standard Time (EST),South-East,Nguyen Minh,Mei Chen,"1,430,067.00","Saturday, May 21, 2016",2016,May,Spring
+USA,Wyoming,WY,Mountain Standard Time (MST),South-West,Ingrid Svensson,Mei Chen,"9,451,027.00","Saturday, March 25, 2017",2017,Mar,Spring
+USA,Idaho,ID,Pacific Standard Time (PST),South-West,Leila Abadi,Sophia Li,"12,362,954.00","Friday, April 12, 2019",2019,Apr,Spring
+USA,District of Columbia,DC,Eastern Standard Time (EST),South,Marcelo Silva,Sophia Li,"12,787,446.00","Saturday, February 13, 2010",2010,Feb,Winter
+USA,Oregon,OR,Pacific Standard Time (PST),South,Ingrid Svensson,Sophia Li,"2,951,812.00","Thursday, June 25, 2015",2015,Jun,Summer
+USA,Michigan,MI,Eastern Standard Time (EST),West,Maria Garcia,Elena Costa,"9,448,896.00","Tuesday, April 23, 2019",2019,Apr,Spring
+USA,Florida,FL,Eastern Standard Time (EST),North-East,Yuri Petrov,Elena Costa,"7,446,281.00","Sunday, October 11, 2020",2020,Oct,Autumn
+USA,Vermont,VT,Eastern Standard Time (EST),North,Aisha Abubakar,Tariq Khan,"1,648,621.00","Tuesday, January 11, 2011",2011,Jan,Winter
+USA,Illinois,IL,Eastern Standard Time (EST),North-West,Nguyen Minh,Mei Chen,"19,082,232.00","Wednesday, November 10, 2010",2010,Nov,Autumn
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),South-West,Leila Abadi,Elena Costa,"527,289.00","Saturday, October 16, 2010",2010,Oct,Autumn
+USA,Utah,UT,Mountain Standard Time (MST),West,Carlos Rodriguez,Sophia Li,"1,625,380.00","Wednesday, March 27, 2013",2013,Mar,Spring
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),East,Mohammed Khan,Sophia Li,"10,614,613.00","Sunday, March 17, 2013",2013,Mar,Spring
+USA,American Samoa,AS,Chamorro Standard Time (ChST),North-West,Carlos Rodriguez,Mei Chen,"1,182,888.00","Thursday, July 13, 2017",2017,Jul,Summer
+USA,New Mexico,NM,Mountain Standard Time (MST),South-West,Ingrid Svensson,Tariq Khan,"936,029.00","Saturday, June 27, 2015",2015,Jun,Summer
+USA,Kansas,KS,Central Standard Time (CST),East,Isabella Rossi,Mohammad Rahman,"18,872,556.00","Monday, April 4, 2011",2011,Apr,Spring
+USA,Vermont,VT,Eastern Standard Time (EST),North,Miguel Fernandez,Sophia Li,"13,277,356.00","Saturday, December 25, 2010",2010,Dec,Winter
+USA,American Samoa,AS,Chamorro Standard Time (ChST),West,Isabella Rossi,Sophia Li,"1,664,758.00","Thursday, February 23, 2012",2012,Feb,Winter
+USA,American Samoa,AS,Chamorro Standard Time (ChST),North-West,Aisha Abubakar,Tariq Khan,"19,838,926.00","Wednesday, July 9, 2014",2014,Jul,Summer
+USA,Alaska,AK,Alaska Standard Time (AKST),South-East,Carlos Rodriguez,Tariq Khan,"2,647,892.00","Saturday, December 10, 2016",2016,Dec,Winter
+USA,Alaska,AK,Alaska Standard Time (AKST),South-West,Anna Nowak,Sophia Li,"5,228,252.00","Monday, December 12, 2011",2011,Dec,Winter
+USA,Kentucky,KY,Eastern Standard Time (EST),South,Miguel Fernandez,Sophia Li,"21,839,707.00","Monday, January 11, 2016",2016,Jan,Winter
+USA,New Jersey,NJ,Eastern Standard Time (EST),East,David Kim,Elena Costa,"12,311,410.00","Sunday, March 11, 2018",2018,Mar,Spring
+USA,Kansas,KS,Central Standard Time (CST),North-West,Jamal Al-Farsi,Tariq Khan,"9,413,573.00","Tuesday, November 20, 2018",2018,Nov,Autumn
+USA,Michigan,MI,Eastern Standard Time (EST),North-East,Fatima Mohamed,Mohammad Rahman,"3,398,733.00","Sunday, August 11, 2013",2013,Aug,Summer
+USA,Arizona,AZ,Mountain Standard Time (MST),South-West,Carlos Rodriguez,Tariq Khan,"10,781,868.00","Friday, September 3, 2010",2010,Sep,Autumn
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),South-West,Nguyen Minh,Sophia Li,"9,926,464.00","Friday, March 9, 2012",2012,Mar,Spring
+USA,Maine,ME,Eastern Standard Time (EST),West,Carlos Rodriguez,Tariq Khan,"13,601,873.00","Tuesday, October 11, 2011",2011,Oct,Autumn
+USA,West Virginia,WV,Eastern Standard Time (EST),South-West,Leila Abadi,Elena Costa,"995,712.00","Saturday, September 15, 2018",2018,Sep,Autumn
+USA,Indiana,IN,Eastern Standard Time (EST),South-West,Anna Nowak,Elena Costa,"3,841,787.00","Friday, November 22, 2013",2013,Nov,Autumn
+USA,Maryland,MD,Eastern Standard Time (EST),South-West,Ahmed Hassan,Mei Chen,"5,949,380.00","Wednesday, February 8, 2017",2017,Feb,Winter
+USA,Oklahoma,OK,Central Standard Time (CST),North-West,Ahmed Hassan,Sophia Li,"14,368,647.00","Sunday, September 2, 2018",2018,Sep,Autumn
+USA,New Jersey,NJ,Eastern Standard Time (EST),East,Priya Patel,Mohammad Rahman,"5,071,407.00","Friday, September 13, 2019",2019,Sep,Autumn
+USA,Pennsylvania,PA,Eastern Standard Time (EST),East,Carlos Rodriguez,Sophia Li,"6,444,566.00","Sunday, June 7, 2020",2020,Jun,Summer
+USA,Iowa,IA,Central Standard Time (CST),North-West,Yuri Petrov,Elena Costa,"3,530,471.00","Friday, June 5, 2015",2015,Jun,Summer
+USA,Kentucky,KY,Eastern Standard Time (EST),North,Anna Nowak,Mei Chen,"1,294,731.00","Sunday, April 5, 2015",2015,Apr,Spring
+USA,Missouri,MO,Central Standard Time (CST),North-East,Juan Lopez,Sophia Li,"6,633,350.00","Saturday, September 26, 2015",2015,Sep,Autumn
+USA,Guam,GU,Chamorro Standard Time (ChST),South-East,Mohammed Khan,Elena Costa,"5,511,781.00","Saturday, February 27, 2010",2010,Feb,Winter
+USA,Alaska,AK,Alaska Standard Time (AKST),South,Nguyen Minh,Elena Costa,"927,196.00","Sunday, April 14, 2019",2019,Apr,Spring
+USA,Michigan,MI,Eastern Standard Time (EST),South,Liu Wei,Sophia Li,"2,096,244.00","Tuesday, July 11, 2017",2017,Jul,Summer
+USA,Montana,MT,Pacific Standard Time (PST),North-East,Anna Nowak,Elena Costa,"18,254,664.00","Sunday, April 3, 2011",2011,Apr,Spring
+USA,Arizona,AZ,Mountain Standard Time (MST),North,Mohammed Khan,Sophia Li,"11,494,754.00","Wednesday, January 11, 2012",2012,Jan,Winter
+USA,West Virginia,WV,Eastern Standard Time (EST),North-West,Mohammed Khan,Sophia Li,"3,904,790.00","Thursday, February 11, 2010",2010,Feb,Winter
+USA,Delaware,DE,Eastern Standard Time (EST),South-West,Ahmed Hassan,Mohammad Rahman,"616,639.00","Friday, February 7, 2014",2014,Feb,Winter
+USA,Pennsylvania,PA,Eastern Standard Time (EST),South-West,Yuki Tanaka,Sophia Li,"3,778,578.00","Tuesday, August 21, 2012",2012,Aug,Summer
+USA,Massachusetts,MA,Eastern Standard Time (EST),South,Yuri Petrov,Sophia Li,"13,472,555.00","Tuesday, March 10, 2015",2015,Mar,Spring
+USA,Minnesota,MN,Central Standard Time (CST),South-East,Nguyen Minh,Tariq Khan,"2,449,088.00","Thursday, May 22, 2014",2014,May,Spring
+USA,Nebraska,NE,Central Standard Time (CST),South,Yuki Tanaka,Tariq Khan,"1,971,030.00","Saturday, June 20, 2015",2015,Jun,Summer
+USA,Alaska,AK,Alaska Standard Time (AKST),North-East,Carlos Rodriguez,Sophia Li,"13,321,952.00","Monday, May 26, 2014",2014,May,Spring
+USA,Kansas,KS,Central Standard Time (CST),West,Mohammed Khan,Mei Chen,"2,323,179.00","Friday, January 4, 2013",2013,Jan,Winter
+USA,Nevada,NV,Pacific Standard Time (PST),West,David Kim,Mei Chen,"2,267,975.00","Sunday, October 3, 2010",2010,Oct,Autumn
+USA,Alabama,AL,Central Standard Time (CST),South-East,Priya Patel,Sophia Li,"12,771,831.00","Saturday, December 22, 2018",2018,Dec,Winter
+USA,Idaho,ID,Pacific Standard Time (PST),North-East,Priya Patel,Mei Chen,"8,076,050.00","Tuesday, August 28, 2012",2012,Aug,Summer
+USA,Massachusetts,MA,Eastern Standard Time (EST),South,Yuki Tanaka,Elena Costa,"6,578,298.00","Thursday, April 12, 2012",2012,Apr,Spring
+USA,Louisiana,LA,Central Standard Time (CST),East,David Kim,Mei Chen,"1,050,262.00","Wednesday, May 26, 2010",2010,May,Spring
+USA,Minnesota,MN,Central Standard Time (CST),South-West,Isabella Rossi,Elena Costa,"3,586,742.00","Monday, October 12, 2015",2015,Oct,Autumn
+USA,Rhode Island,RI,Eastern Standard Time (EST),North-West,Leila Abadi,Mei Chen,"9,100,139.00","Friday, October 3, 2014",2014,Oct,Autumn
+USA,South Carolina,SC,Eastern Standard Time (EST),West,Ingrid Svensson,Mei Chen,"3,380,511.00","Saturday, November 6, 2010",2010,Nov,Autumn
+USA,Oklahoma,OK,Central Standard Time (CST),East,Yuri Petrov,Mohammad Rahman,"2,342,647.00","Sunday, November 28, 2010",2010,Nov,Autumn
+USA,Minnesota,MN,Central Standard Time (CST),North,David Kim,Elena Costa,"7,370,459.00","Wednesday, August 3, 2011",2011,Aug,Summer
+USA,Nevada,NV,Pacific Standard Time (PST),North,Aisha Abubakar,Elena Costa,"3,085,335.00","Friday, December 19, 2014",2014,Dec,Winter
+USA,Arkansas,AR,Central Standard Time (CST),South,Ingrid Svensson,Mohammad Rahman,"7,419,696.00","Thursday, March 17, 2016",2016,Mar,Spring
+USA,North Carolina,NC,Eastern Standard Time (EST),West,Fatima Mohamed,Mohammad Rahman,"11,105,737.00","Monday, April 3, 2017",2017,Apr,Spring
+USA,South Carolina,SC,Eastern Standard Time (EST),North-East,Priya Patel,Tariq Khan,"10,491,855.00","Friday, September 27, 2013",2013,Sep,Autumn
+USA,New York,NY,Eastern Standard Time (EST),East,Priya Patel,Mohammad Rahman,"881,831.00","Wednesday, March 20, 2013",2013,Mar,Spring
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),North,Priya Patel,Elena Costa,"1,754,908.00","Friday, August 9, 2013",2013,Aug,Summer
+USA,Illinois,IL,Eastern Standard Time (EST),North,Mohammed Khan,Sophia Li,"6,941,193.00","Friday, February 21, 2020",2020,Feb,Winter
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),East,Anna Nowak,Tariq Khan,"8,138,538.00","Saturday, February 13, 2010",2010,Feb,Winter
+USA,Montana,MT,Pacific Standard Time (PST),North-East,Nguyen Minh,Mei Chen,"14,123,859.00","Thursday, November 7, 2013",2013,Nov,Autumn
+USA,Oregon,OR,Pacific Standard Time (PST),South-West,Ahmed Hassan,Mei Chen,"18,160,709.00","Sunday, June 10, 2012",2012,Jun,Summer
+USA,Maryland,MD,Eastern Standard Time (EST),North,Yuri Petrov,Mei Chen,"2,671,417.00","Monday, December 21, 2020",2020,Dec,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),South,Yuri Petrov,Sophia Li,"6,406,052.00","Friday, March 7, 2014",2014,Mar,Spring
+USA,Virginia,VA,Eastern Standard Time (EST),South-East,Priya Patel,Elena Costa,"11,209,790.00","Sunday, January 11, 2015",2015,Jan,Winter
+USA,Idaho,ID,Pacific Standard Time (PST),South-West,Anna Nowak,Elena Costa,"1,013,404.00","Sunday, October 27, 2013",2013,Oct,Autumn
+USA,Wyoming,WY,Mountain Standard Time (MST),South,Leila Abadi,Mei Chen,"6,774,882.00","Tuesday, February 21, 2012",2012,Feb,Winter
+USA,Guam,GU,Chamorro Standard Time (ChST),North,Jamal Al-Farsi,Sophia Li,"2,649,913.00","Sunday, January 29, 2012",2012,Jan,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),South-East,Nguyen Minh,Sophia Li,"12,811,026.00","Thursday, June 25, 2015",2015,Jun,Summer
+USA,Pennsylvania,PA,Eastern Standard Time (EST),North-East,Yuki Tanaka,Tariq Khan,"1,061,860.00","Saturday, March 3, 2018",2018,Mar,Spring
+USA,District of Columbia,DC,Eastern Standard Time (EST),East,Carlos Rodriguez,Tariq Khan,"19,425,344.00","Saturday, February 11, 2012",2012,Feb,Winter
+USA,Louisiana,LA,Central Standard Time (CST),North-West,Carlos Rodriguez,Mei Chen,"2,668,219.00","Sunday, June 24, 2018",2018,Jun,Summer
+USA,Oklahoma,OK,Central Standard Time (CST),South,Maria Garcia,Mohammad Rahman,"6,856,113.00","Monday, June 17, 2019",2019,Jun,Summer
+USA,Maryland,MD,Eastern Standard Time (EST),East,Jamal Al-Farsi,Elena Costa,"345,068.00","Monday, March 13, 2017",2017,Mar,Spring
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),South-East,Priya Patel,Sophia Li,"13,487,991.00","Friday, May 24, 2013",2013,May,Spring
+USA,Oregon,OR,Pacific Standard Time (PST),North-East,Juan Lopez,Mei Chen,"8,153,257.00","Monday, March 14, 2016",2016,Mar,Spring
+USA,Iowa,IA,Central Standard Time (CST),North,Priya Patel,Tariq Khan,"8,839,571.00","Wednesday, June 30, 2010",2010,Jun,Summer
+USA,Mississippi,MS,Central Standard Time (CST),South,Mohammed Khan,Mohammad Rahman,"994,475.00","Sunday, June 2, 2013",2013,Jun,Summer
+USA,Nevada,NV,Pacific Standard Time (PST),North-East,Aisha Abubakar,Sophia Li,"793,235.00","Thursday, June 6, 2013",2013,Jun,Summer
+USA,Pennsylvania,PA,Eastern Standard Time (EST),North-West,Yuki Tanaka,Mohammad Rahman,"8,051,592.00","Tuesday, April 19, 2016",2016,Apr,Spring
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),West,Leila Abadi,Mohammad Rahman,"3,848,498.00","Saturday, June 8, 2013",2013,Jun,Summer
+USA,Tennessee,TN,Eastern Standard Time (EST),South-West,Liu Wei,Mohammad Rahman,"1,628,127.00","Thursday, March 22, 2018",2018,Mar,Spring
+USA,Rhode Island,RI,Eastern Standard Time (EST),North-West,Maria Garcia,Tariq Khan,"1,519,969.00","Wednesday, March 8, 2017",2017,Mar,Spring
+USA,Wyoming,WY,Mountain Standard Time (MST),South-West,Maria Garcia,Mohammad Rahman,"1,284,977.00","Tuesday, October 29, 2013",2013,Oct,Autumn
+USA,District of Columbia,DC,Eastern Standard Time (EST),South-East,Ingrid Svensson,Elena Costa,"10,756,983.00","Sunday, January 1, 2017",2017,Jan,Winter
+USA,Maine,ME,Eastern Standard Time (EST),South-East,Priya Patel,Mei Chen,"20,218,392.00","Friday, August 21, 2015",2015,Aug,Summer
+USA,District of Columbia,DC,Eastern Standard Time (EST),West,David Kim,Elena Costa,"8,244,063.00","Saturday, March 9, 2013",2013,Mar,Spring
+USA,West Virginia,WV,Eastern Standard Time (EST),North-West,Miguel Fernandez,Sophia Li,"20,414,751.00","Sunday, February 18, 2018",2018,Feb,Winter
+USA,New York,NY,Eastern Standard Time (EST),South,Juan Lopez,Mohammad Rahman,"2,976,016.00","Thursday, July 26, 2012",2012,Jul,Summer
+USA,Illinois,IL,Eastern Standard Time (EST),South-West,Anna Nowak,Elena Costa,"2,358,173.00","Sunday, May 30, 2010",2010,May,Spring
+USA,Connecticut,CT,Eastern Standard Time (EST),North-West,Yuki Tanaka,Elena Costa,"2,929,054.00","Monday, September 12, 2011",2011,Sep,Autumn
+USA,Idaho,ID,Pacific Standard Time (PST),South-West,Yuri Petrov,Mohammad Rahman,"13,309,862.00","Friday, November 22, 2019",2019,Nov,Autumn
+USA,Idaho,ID,Pacific Standard Time (PST),South-West,Carlos Rodriguez,Sophia Li,"2,759,448.00","Thursday, August 30, 2018",2018,Aug,Summer
+USA,Minnesota,MN,Central Standard Time (CST),South-West,Marcelo Silva,Tariq Khan,"2,092,494.00","Thursday, October 7, 2010",2010,Oct,Autumn
+USA,American Samoa,AS,Chamorro Standard Time (ChST),East,Nguyen Minh,Mei Chen,"1,028,317.00","Wednesday, March 18, 2020",2020,Mar,Spring
+USA,Virginia,VA,Eastern Standard Time (EST),West,Ingrid Svensson,Tariq Khan,"8,882,872.00","Sunday, February 28, 2010",2010,Feb,Winter
+USA,Hawaii,HI,Hawaii-Aleutian Standard Time (HAST),East,Yuri Petrov,Mei Chen,"7,508,600.00","Monday, February 15, 2010",2010,Feb,Winter
+USA,American Samoa,AS,Chamorro Standard Time (ChST),East,Maria Garcia,Sophia Li,"2,079,915.00","Sunday, January 8, 2012",2012,Jan,Winter
+USA,Michigan,MI,Eastern Standard Time (EST),South-West,Isabella Rossi,Mohammad Rahman,"5,970,805.00","Monday, December 10, 2012",2012,Dec,Winter
+USA,California,CA,Pacific Standard Time (PST),South-West,Leila Abadi,Sophia Li,"495,412.00","Friday, May 17, 2019",2019,May,Spring
+USA,South Dakota,SD,Central Standard Time (CST),South-East,Marcelo Silva,Sophia Li,"1,644,675.00","Friday, June 13, 2014",2014,Jun,Summer
+USA,South Carolina,SC,Eastern Standard Time (EST),North,Yuki Tanaka,Sophia Li,"795,387.00","Friday, April 8, 2016",2016,Apr,Spring
+USA,Ohio,OH,Eastern Standard Time (EST),North-East,Anna Nowak,Tariq Khan,"1,043,743.00","Sunday, December 1, 2019",2019,Dec,Winter
+USA,Montana,MT,Pacific Standard Time (PST),South-East,Juan Lopez,Mei Chen,"15,507,052.00","Thursday, October 12, 2017",2017,Oct,Autumn
+USA,Missouri,MO,Central Standard Time (CST),South-East,Jamal Al-Farsi,Tariq Khan,"7,722,303.00","Thursday, July 28, 2016",2016,Jul,Summer
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),West,Juan Lopez,Mohammad Rahman,"2,654,890.00","Wednesday, February 6, 2013",2013,Feb,Winter
+USA,New Mexico,NM,Mountain Standard Time (MST),South,Isabella Rossi,Mohammad Rahman,"1,513,652.00","Friday, March 5, 2010",2010,Mar,Spring
+USA,Arizona,AZ,Mountain Standard Time (MST),East,Marcelo Silva,Mohammad Rahman,"1,068,193.00","Sunday, January 15, 2017",2017,Jan,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),North,Yuri Petrov,Sophia Li,"2,167,383.00","Thursday, March 23, 2017",2017,Mar,Spring
+USA,New Hampshire,NH,Eastern Standard Time (EST),South-East,Liu Wei,Mohammad Rahman,"23,759,199.00","Tuesday, February 12, 2019",2019,Feb,Winter
+USA,Utah,UT,Mountain Standard Time (MST),East,Ingrid Svensson,Mei Chen,"19,358,339.00","Thursday, September 3, 2020",2020,Sep,Autumn
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),East,David Kim,Sophia Li,"13,346,687.00","Monday, December 31, 2018",2018,Dec,Winter
+USA,South Carolina,SC,Eastern Standard Time (EST),West,Leila Abadi,Elena Costa,"755,548.00","Tuesday, September 9, 2014",2014,Sep,Autumn
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),West,Leila Abadi,Tariq Khan,"3,480,629.00","Friday, July 13, 2018",2018,Jul,Summer
+USA,Minnesota,MN,Central Standard Time (CST),South-West,Yuki Tanaka,Elena Costa,"6,176,510.00","Sunday, February 12, 2012",2012,Feb,Winter
+USA,Tennessee,TN,Eastern Standard Time (EST),West,Anna Nowak,Elena Costa,"3,963,604.00","Thursday, December 16, 2010",2010,Dec,Winter
+USA,Virginia,VA,Eastern Standard Time (EST),North-East,Yuki Tanaka,Tariq Khan,"1,296,612.00","Saturday, July 23, 2016",2016,Jul,Summer
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),West,David Kim,Tariq Khan,"7,562,803.00","Sunday, December 24, 2017",2017,Dec,Winter
+USA,Rhode Island,RI,Eastern Standard Time (EST),West,David Kim,Tariq Khan,"1,113,073.00","Sunday, December 25, 2016",2016,Dec,Winter
+USA,Texas,TX,Central Standard Time (CST),North,Leila Abadi,Mei Chen,"8,448,687.00","Saturday, May 17, 2014",2014,May,Spring
+USA,American Samoa,AS,Chamorro Standard Time (ChST),West,Jamal Al-Farsi,Mohammad Rahman,"954,743.00","Thursday, January 14, 2010",2010,Jan,Winter
+USA,Arkansas,AR,Central Standard Time (CST),East,Maria Garcia,Elena Costa,"25,086,721.00","Tuesday, June 2, 2020",2020,Jun,Summer
+USA,Oregon,OR,Pacific Standard Time (PST),West,Liu Wei,Sophia Li,"1,132,779.00","Thursday, June 19, 2014",2014,Jun,Summer
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),South-East,Yuri Petrov,Mohammad Rahman,"17,166,014.00","Sunday, July 28, 2013",2013,Jul,Summer
+USA,Kansas,KS,Central Standard Time (CST),East,Ahmed Hassan,Elena Costa,"7,112,270.00","Wednesday, September 19, 2018",2018,Sep,Autumn
+USA,Nevada,NV,Pacific Standard Time (PST),South-East,Yuki Tanaka,Elena Costa,"1,075,105.00","Friday, December 13, 2013",2013,Dec,Winter
+USA,Alabama,AL,Central Standard Time (CST),South,Yuri Petrov,Tariq Khan,"921,087.00","Sunday, March 4, 2012",2012,Mar,Spring
+USA,Vermont,VT,Eastern Standard Time (EST),North-West,Miguel Fernandez,Tariq Khan,"3,884,482.00","Sunday, December 13, 2020",2020,Dec,Winter
+USA,Florida,FL,Eastern Standard Time (EST),South-East,Aisha Abubakar,Elena Costa,"5,507,711.00","Friday, October 17, 2014",2014,Oct,Autumn
+USA,Iowa,IA,Central Standard Time (CST),North-East,Anna Nowak,Mohammad Rahman,"2,557,287.00","Friday, December 13, 2019",2019,Dec,Winter
+USA,West Virginia,WV,Eastern Standard Time (EST),South,Nguyen Minh,Mohammad Rahman,"16,493,632.00","Monday, June 7, 2010",2010,Jun,Summer
+USA,Tennessee,TN,Eastern Standard Time (EST),South-West,Marcelo Silva,Sophia Li,"12,831,010.00","Sunday, December 6, 2020",2020,Dec,Winter
+USA,Utah,UT,Mountain Standard Time (MST),North-East,Mohammed Khan,Mohammad Rahman,"18,002,412.00","Saturday, November 4, 2017",2017,Nov,Autumn
+USA,Nevada,NV,Pacific Standard Time (PST),North-West,Priya Patel,Mei Chen,"8,619,484.00","Sunday, December 27, 2015",2015,Dec,Winter
+USA,Kentucky,KY,Eastern Standard Time (EST),South-East,Fatima Mohamed,Tariq Khan,"6,246,194.00","Saturday, May 28, 2016",2016,May,Spring
+USA,Connecticut,CT,Eastern Standard Time (EST),South,Yuki Tanaka,Mei Chen,"12,156,645.00","Monday, January 2, 2012",2012,Jan,Winter
+USA,West Virginia,WV,Eastern Standard Time (EST),North,Juan Lopez,Elena Costa,"3,308,600.00","Thursday, May 2, 2013",2013,May,Spring
+USA,American Samoa,AS,Chamorro Standard Time (ChST),South,Yuri Petrov,Sophia Li,"8,024,553.00","Monday, December 28, 2015",2015,Dec,Winter
+USA,Vermont,VT,Eastern Standard Time (EST),North,Nguyen Minh,Elena Costa,"9,338,057.00","Thursday, August 4, 2011",2011,Aug,Summer
+USA,West Virginia,WV,Eastern Standard Time (EST),South-West,Fatima Mohamed,Mohammad Rahman,"3,861,221.00","Sunday, March 11, 2012",2012,Mar,Spring
+USA,Nevada,NV,Pacific Standard Time (PST),South,Yuri Petrov,Mohammad Rahman,"19,415,096.00","Sunday, May 26, 2013",2013,May,Spring
+USA,North Dakota,ND,Central Standard Time (CST),South-West,Aisha Abubakar,Elena Costa,"5,352,434.00","Wednesday, June 26, 2013",2013,Jun,Summer
+USA,South Dakota,SD,Central Standard Time (CST),South-East,Fatima Mohamed,Tariq Khan,"2,622,760.00","Saturday, November 30, 2019",2019,Nov,Autumn
+USA,Vermont,VT,Eastern Standard Time (EST),South-East,Yuki Tanaka,Sophia Li,"12,834,785.00","Wednesday, November 27, 2013",2013,Nov,Autumn
+USA,Rhode Island,RI,Eastern Standard Time (EST),East,Aisha Abubakar,Mohammad Rahman,"4,856,916.00","Friday, June 25, 2010",2010,Jun,Summer
+USA,Nevada,NV,Pacific Standard Time (PST),South-East,Marcelo Silva,Elena Costa,"11,748,317.00","Monday, October 14, 2013",2013,Oct,Autumn
+USA,South Dakota,SD,Central Standard Time (CST),North-West,Yuri Petrov,Elena Costa,"15,785,645.00","Tuesday, February 26, 2013",2013,Feb,Winter
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),West,Jamal Al-Farsi,Tariq Khan,"2,138,867.00","Thursday, June 28, 2012",2012,Jun,Summer
+USA,Kansas,KS,Central Standard Time (CST),East,Fatima Mohamed,Mei Chen,"12,525,683.00","Saturday, January 26, 2019",2019,Jan,Winter
+USA,Montana,MT,Pacific Standard Time (PST),West,Jamal Al-Farsi,Tariq Khan,"3,609,675.00","Friday, March 1, 2019",2019,Mar,Spring
+USA,Louisiana,LA,Central Standard Time (CST),South-East,Liu Wei,Sophia Li,"13,566,033.00","Friday, July 24, 2015",2015,Jul,Summer
+USA,Florida,FL,Eastern Standard Time (EST),South,Yuki Tanaka,Elena Costa,"6,391,145.00","Thursday, December 16, 2010",2010,Dec,Winter
+USA,Michigan,MI,Eastern Standard Time (EST),North-West,Jamal Al-Farsi,Mohammad Rahman,"6,551,887.00","Wednesday, October 3, 2012",2012,Oct,Autumn
+USA,New Hampshire,NH,Eastern Standard Time (EST),South-East,Anna Nowak,Mohammad Rahman,"13,294,423.00","Friday, August 25, 2017",2017,Aug,Summer
+USA,District of Columbia,DC,Eastern Standard Time (EST),South-East,Ingrid Svensson,Mei Chen,"11,661,877.00","Monday, April 28, 2014",2014,Apr,Spring
+USA,Mississippi,MS,Central Standard Time (CST),North-West,Isabella Rossi,Elena Costa,"9,374,603.00","Sunday, July 26, 2015",2015,Jul,Summer
+USA,Washington,WA,Pacific Standard Time (PST),North,Miguel Fernandez,Mei Chen,"9,343,512.00","Thursday, April 26, 2018",2018,Apr,Spring
+USA,California,CA,Pacific Standard Time (PST),South-East,Leila Abadi,Mei Chen,"19,536,883.00","Friday, July 26, 2019",2019,Jul,Summer
+USA,Kansas,KS,Central Standard Time (CST),South-East,Carlos Rodriguez,Mohammad Rahman,"7,295,132.00","Saturday, October 28, 2017",2017,Oct,Autumn
+USA,Texas,TX,Central Standard Time (CST),North,Ingrid Svensson,Elena Costa,"3,298,287.00","Monday, November 1, 2010",2010,Nov,Autumn
+USA,Guam,GU,Chamorro Standard Time (ChST),North-West,Ingrid Svensson,Tariq Khan,"9,911,216.00","Friday, May 10, 2013",2013,May,Spring
+USA,New Jersey,NJ,Eastern Standard Time (EST),South-West,Miguel Fernandez,Mei Chen,"18,307,142.00","Sunday, February 3, 2019",2019,Feb,Winter
+USA,Florida,FL,Eastern Standard Time (EST),South,Anna Nowak,Tariq Khan,"2,135,440.00","Friday, October 31, 2014",2014,Oct,Autumn
+USA,Wisconsin,WI,Eastern Standard Time (EST),South,Mohammed Khan,Sophia Li,"17,070,495.00","Monday, July 22, 2019",2019,Jul,Summer
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),North-West,Jamal Al-Farsi,Elena Costa,"6,894,294.00","Wednesday, March 30, 2016",2016,Mar,Spring
+USA,Texas,TX,Central Standard Time (CST),East,Aisha Abubakar,Sophia Li,"1,654,189.00","Saturday, July 30, 2016",2016,Jul,Summer
+USA,Tennessee,TN,Eastern Standard Time (EST),East,Liu Wei,Sophia Li,"4,734,256.00","Saturday, October 3, 2020",2020,Oct,Autumn
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),North,Maria Garcia,Sophia Li,"12,293,804.00","Wednesday, July 11, 2012",2012,Jul,Summer
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),North-East,Priya Patel,Mohammad Rahman,"9,850,035.00","Sunday, February 14, 2010",2010,Feb,Winter
+USA,Guam,GU,Chamorro Standard Time (ChST),South-West,Jamal Al-Farsi,Mohammad Rahman,"13,206,091.00","Sunday, September 10, 2017",2017,Sep,Autumn
+USA,District of Columbia,DC,Eastern Standard Time (EST),South-East,Yuri Petrov,Sophia Li,"14,048,910.00","Saturday, December 24, 2016",2016,Dec,Winter
+USA,Nebraska,NE,Central Standard Time (CST),South,Ingrid Svensson,Tariq Khan,"3,923,812.00","Tuesday, September 27, 2016",2016,Sep,Autumn
+USA,New York,NY,Eastern Standard Time (EST),West,Carlos Rodriguez,Mohammad Rahman,"2,934,104.00","Monday, February 15, 2016",2016,Feb,Winter
+USA,New Mexico,NM,Mountain Standard Time (MST),South-East,Miguel Fernandez,Tariq Khan,"1,020,953.00","Wednesday, September 30, 2015",2015,Sep,Autumn
+USA,Idaho,ID,Pacific Standard Time (PST),North-West,Marcelo Silva,Mohammad Rahman,"4,721,774.00","Saturday, January 11, 2014",2014,Jan,Winter
+USA,Alaska,AK,Alaska Standard Time (AKST),South-West,Isabella Rossi,Tariq Khan,"4,313,127.00","Sunday, August 2, 2020",2020,Aug,Summer
+USA,North Carolina,NC,Eastern Standard Time (EST),North-West,Ahmed Hassan,Sophia Li,"18,898,938.00","Wednesday, August 26, 2015",2015,Aug,Summer
+USA,Delaware,DE,Eastern Standard Time (EST),North,Priya Patel,Mohammad Rahman,"1,598,451.00","Friday, March 18, 2011",2011,Mar,Spring
+USA,Oklahoma,OK,Central Standard Time (CST),East,David Kim,Mei Chen,"3,705,276.00","Saturday, May 16, 2020",2020,May,Spring
+USA,Kansas,KS,Central Standard Time (CST),East,Yuki Tanaka,Mohammad Rahman,"11,190,517.00","Thursday, November 21, 2013",2013,Nov,Autumn
+USA,Louisiana,LA,Central Standard Time (CST),South-East,Mohammed Khan,Mei Chen,"11,325,928.00","Sunday, September 25, 2016",2016,Sep,Autumn
+USA,Vermont,VT,Eastern Standard Time (EST),South,Nguyen Minh,Tariq Khan,"3,590,574.00","Wednesday, November 8, 2017",2017,Nov,Autumn
+USA,Maine,ME,Eastern Standard Time (EST),South-West,Isabella Rossi,Tariq Khan,"6,677,318.00","Friday, January 1, 2010",2010,Jan,Winter
+USA,Texas,TX,Central Standard Time (CST),North-East,Yuri Petrov,Mei Chen,"16,355,962.00","Saturday, September 20, 2014",2014,Sep,Autumn
+USA,Wyoming,WY,Mountain Standard Time (MST),East,Priya Patel,Tariq Khan,"5,015,068.00","Monday, October 14, 2019",2019,Oct,Autumn
+USA,Guam,GU,Chamorro Standard Time (ChST),West,Maria Garcia,Sophia Li,"1,103,498.00","Saturday, November 28, 2015",2015,Nov,Autumn
+USA,Oregon,OR,Pacific Standard Time (PST),North-West,Yuki Tanaka,Mohammad Rahman,"7,725,365.00","Thursday, October 24, 2019",2019,Oct,Autumn
+USA,California,CA,Pacific Standard Time (PST),East,Liu Wei,Tariq Khan,"6,581,320.00","Monday, May 19, 2014",2014,May,Spring
+USA,Alaska,AK,Alaska Standard Time (AKST),North-West,Jamal Al-Farsi,Sophia Li,"2,178,168.00","Sunday, May 19, 2019",2019,May,Spring
+USA,Alabama,AL,Central Standard Time (CST),South-East,Carlos Rodriguez,Elena Costa,"15,572,050.00","Sunday, September 28, 2014",2014,Sep,Autumn
+USA,South Carolina,SC,Eastern Standard Time (EST),North-West,Ingrid Svensson,Tariq Khan,"16,037,148.00","Wednesday, October 26, 2016",2016,Oct,Autumn
+USA,Tennessee,TN,Eastern Standard Time (EST),South-East,Anna Nowak,Elena Costa,"1,792,592.00","Sunday, November 30, 2014",2014,Nov,Autumn
+USA,Iowa,IA,Central Standard Time (CST),South-West,Aisha Abubakar,Sophia Li,"12,980,288.00","Monday, April 16, 2018",2018,Apr,Spring
+USA,New Mexico,NM,Mountain Standard Time (MST),North-East,David Kim,Mei Chen,"22,585,224.00","Thursday, August 23, 2018",2018,Aug,Summer
+USA,Montana,MT,Pacific Standard Time (PST),South-West,Liu Wei,Elena Costa,"7,828,276.00","Saturday, May 15, 2010",2010,May,Spring
+USA,Montana,MT,Pacific Standard Time (PST),South-East,Maria Garcia,Sophia Li,"1,722,691.00","Wednesday, June 30, 2010",2010,Jun,Summer
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),North-West,Leila Abadi,Tariq Khan,"13,804,622.00","Tuesday, January 1, 2019",2019,Jan,Winter
+USA,South Carolina,SC,Eastern Standard Time (EST),South-West,Yuki Tanaka,Tariq Khan,"20,140,036.00","Monday, January 22, 2018",2018,Jan,Winter
+USA,Rhode Island,RI,Eastern Standard Time (EST),South-East,Ingrid Svensson,Sophia Li,"9,133,402.00","Monday, November 23, 2015",2015,Nov,Autumn
+USA,Tennessee,TN,Eastern Standard Time (EST),South,Leila Abadi,Mei Chen,"853,791.00","Friday, March 23, 2012",2012,Mar,Spring
+USA,California,CA,Pacific Standard Time (PST),North-East,Miguel Fernandez,Elena Costa,"2,680,968.00","Thursday, June 27, 2013",2013,Jun,Summer
+USA,Massachusetts,MA,Eastern Standard Time (EST),South-West,Anna Nowak,Mei Chen,"18,693,223.00","Wednesday, October 3, 2018",2018,Oct,Autumn
+USA,South Dakota,SD,Central Standard Time (CST),East,Liu Wei,Elena Costa,"7,570,798.00","Wednesday, September 19, 2012",2012,Sep,Autumn
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),North,Leila Abadi,Tariq Khan,"3,627,514.00","Sunday, February 2, 2020",2020,Feb,Winter
+USA,Indiana,IN,Eastern Standard Time (EST),South-West,Marcelo Silva,Sophia Li,"18,567,203.00","Wednesday, December 5, 2018",2018,Dec,Winter
+USA,New Mexico,NM,Mountain Standard Time (MST),South-East,Priya Patel,Mei Chen,"1,654,755.00","Saturday, May 4, 2019",2019,May,Spring
+USA,Arkansas,AR,Central Standard Time (CST),South-East,Maria Garcia,Mei Chen,"8,227,564.00","Saturday, December 31, 2011",2011,Dec,Winter
+USA,Virginia,VA,Eastern Standard Time (EST),North,Fatima Mohamed,Mohammad Rahman,"1,443,778.00","Sunday, June 2, 2019",2019,Jun,Summer
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),South-West,Leila Abadi,Sophia Li,"18,172,946.00","Tuesday, December 15, 2015",2015,Dec,Winter
+USA,Massachusetts,MA,Eastern Standard Time (EST),South,Isabella Rossi,Sophia Li,"18,989,613.00","Saturday, November 26, 2016",2016,Nov,Autumn
+USA,Oregon,OR,Pacific Standard Time (PST),South,Marcelo Silva,Tariq Khan,"12,828,006.00","Sunday, August 7, 2016",2016,Aug,Summer
+USA,West Virginia,WV,Eastern Standard Time (EST),North-East,Fatima Mohamed,Mohammad Rahman,"16,904,032.00","Friday, April 22, 2011",2011,Apr,Spring
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),North-West,Mohammed Khan,Sophia Li,"1,883,733.00","Saturday, March 14, 2015",2015,Mar,Spring
+USA,Kentucky,KY,Eastern Standard Time (EST),North-East,Carlos Rodriguez,Tariq Khan,"4,815,450.00","Saturday, September 22, 2018",2018,Sep,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),West,Marcelo Silva,Sophia Li,"9,650,230.00","Saturday, February 22, 2020",2020,Feb,Winter
+USA,Vermont,VT,Eastern Standard Time (EST),North,Carlos Rodriguez,Sophia Li,"1,350,388.00","Sunday, March 6, 2016",2016,Mar,Spring
+USA,North Dakota,ND,Central Standard Time (CST),North-East,Maria Garcia,Tariq Khan,"11,648,844.00","Friday, October 20, 2017",2017,Oct,Autumn
+USA,New Hampshire,NH,Eastern Standard Time (EST),North,Ahmed Hassan,Mei Chen,"2,724,643.00","Sunday, September 20, 2020",2020,Sep,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),North,Anna Nowak,Mohammad Rahman,"10,685,132.00","Friday, March 29, 2013",2013,Mar,Spring
+USA,Colorado,CO,Central Standard Time (CST),South-West,Miguel Fernandez,Elena Costa,"5,560,607.00","Thursday, November 5, 2020",2020,Nov,Autumn
+USA,Vermont,VT,Eastern Standard Time (EST),South,Anna Nowak,Sophia Li,"10,911,752.00","Wednesday, March 26, 2014",2014,Mar,Spring
+USA,Nevada,NV,Pacific Standard Time (PST),North-East,Mohammed Khan,Mohammad Rahman,"1,966,039.00","Saturday, October 17, 2020",2020,Oct,Autumn
+USA,New Mexico,NM,Mountain Standard Time (MST),East,Priya Patel,Mei Chen,"20,812,859.00","Monday, January 27, 2014",2014,Jan,Winter
+USA,Kansas,KS,Central Standard Time (CST),East,Maria Garcia,Tariq Khan,"8,376,054.00","Friday, January 25, 2019",2019,Jan,Winter
+USA,Georgia,GA,Eastern Standard Time (EST),North-East,Anna Nowak,Tariq Khan,"8,494,857.00","Friday, April 22, 2011",2011,Apr,Spring
+USA,New York,NY,Eastern Standard Time (EST),North-West,Maria Garcia,Mei Chen,"6,974,355.00","Friday, October 28, 2011",2011,Oct,Autumn
+USA,Arizona,AZ,Mountain Standard Time (MST),North-West,Jamal Al-Farsi,Elena Costa,"16,047,857.00","Sunday, September 8, 2019",2019,Sep,Autumn
+USA,New Jersey,NJ,Eastern Standard Time (EST),South,Fatima Mohamed,Tariq Khan,"16,700,935.00","Saturday, November 17, 2018",2018,Nov,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),South-East,Priya Patel,Tariq Khan,"12,674,184.00","Sunday, March 15, 2015",2015,Mar,Spring
+USA,Maine,ME,Eastern Standard Time (EST),South,Aisha Abubakar,Elena Costa,"1,615,364.00","Saturday, September 3, 2016",2016,Sep,Autumn
+USA,Guam,GU,Chamorro Standard Time (ChST),South-West,Jamal Al-Farsi,Mohammad Rahman,"13,666,426.00","Saturday, July 9, 2011",2011,Jul,Summer
+USA,Florida,FL,Eastern Standard Time (EST),West,Nguyen Minh,Mohammad Rahman,"2,171,292.00","Friday, August 7, 2020",2020,Aug,Summer
+USA,Vermont,VT,Eastern Standard Time (EST),East,Maria Garcia,Sophia Li,"12,757,145.00","Friday, July 11, 2014",2014,Jul,Summer
+USA,Utah,UT,Mountain Standard Time (MST),North-West,Mohammed Khan,Elena Costa,"6,376,070.00","Saturday, May 7, 2016",2016,May,Spring
+USA,Wyoming,WY,Mountain Standard Time (MST),North-West,Jamal Al-Farsi,Sophia Li,"1,081,709.00","Wednesday, April 21, 2010",2010,Apr,Spring
+USA,Kentucky,KY,Eastern Standard Time (EST),East,Juan Lopez,Tariq Khan,"2,297,756.00","Monday, November 28, 2011",2011,Nov,Autumn
+USA,Oregon,OR,Pacific Standard Time (PST),South-West,Mohammed Khan,Elena Costa,"2,630,484.00","Tuesday, October 20, 2015",2015,Oct,Autumn
+USA,Nebraska,NE,Central Standard Time (CST),South,Jamal Al-Farsi,Mohammad Rahman,"10,829,433.00","Friday, October 31, 2014",2014,Oct,Autumn
+USA,Alaska,AK,Alaska Standard Time (AKST),South,Miguel Fernandez,Tariq Khan,"5,287,143.00","Saturday, November 2, 2019",2019,Nov,Autumn
+USA,North Dakota,ND,Central Standard Time (CST),North-West,Maria Garcia,Elena Costa,"8,555,490.00","Saturday, October 17, 2015",2015,Oct,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),South-West,Jamal Al-Farsi,Elena Costa,"1,139,623.00","Tuesday, May 13, 2014",2014,May,Spring
+USA,Guam,GU,Chamorro Standard Time (ChST),South,Isabella Rossi,Mohammad Rahman,"14,567,387.00","Tuesday, May 27, 2014",2014,May,Spring
+USA,Kansas,KS,Central Standard Time (CST),North-East,Maria Garcia,Sophia Li,"5,577,778.00","Saturday, September 28, 2013",2013,Sep,Autumn
+USA,Nebraska,NE,Central Standard Time (CST),South-West,Ingrid Svensson,Mohammad Rahman,"1,803,804.00","Tuesday, October 14, 2014",2014,Oct,Autumn
+USA,Wyoming,WY,Mountain Standard Time (MST),South-West,David Kim,Tariq Khan,"14,600,145.00","Tuesday, November 19, 2019",2019,Nov,Autumn
+USA,Montana,MT,Pacific Standard Time (PST),South,Miguel Fernandez,Mohammad Rahman,"2,699,060.00","Saturday, February 20, 2010",2010,Feb,Winter
+USA,North Dakota,ND,Central Standard Time (CST),South-West,Yuki Tanaka,Sophia Li,"1,305,406.00","Wednesday, March 27, 2013",2013,Mar,Spring
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),East,Marcelo Silva,Elena Costa,"4,759,460.00","Sunday, November 29, 2015",2015,Nov,Autumn
+USA,Oklahoma,OK,Central Standard Time (CST),North-East,Yuri Petrov,Mohammad Rahman,"14,540,316.00","Monday, December 30, 2013",2013,Dec,Winter
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),North-East,Jamal Al-Farsi,Tariq Khan,"2,162,200.00","Friday, October 13, 2017",2017,Oct,Autumn
+USA,California,CA,Pacific Standard Time (PST),North,Isabella Rossi,Sophia Li,"5,587,271.00","Thursday, August 14, 2014",2014,Aug,Summer
+USA,American Samoa,AS,Chamorro Standard Time (ChST),West,Juan Lopez,Elena Costa,"4,059,220.00","Friday, December 12, 2014",2014,Dec,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),South,Carlos Rodriguez,Sophia Li,"11,623,967.00","Sunday, February 2, 2020",2020,Feb,Winter
+USA,Maryland,MD,Eastern Standard Time (EST),South,Ingrid Svensson,Tariq Khan,"7,889,330.00","Sunday, December 4, 2011",2011,Dec,Winter
+USA,Wyoming,WY,Mountain Standard Time (MST),South,Yuri Petrov,Mohammad Rahman,"12,174,954.00","Saturday, February 6, 2010",2010,Feb,Winter
+USA,Arizona,AZ,Mountain Standard Time (MST),South,Yuki Tanaka,Mohammad Rahman,"919,633.00","Sunday, March 18, 2018",2018,Mar,Spring
+USA,Pennsylvania,PA,Eastern Standard Time (EST),South,Ahmed Hassan,Mohammad Rahman,"1,374,431.00","Wednesday, December 26, 2012",2012,Dec,Winter
+USA,Nevada,NV,Pacific Standard Time (PST),South,Juan Lopez,Sophia Li,"882,522.00","Monday, March 28, 2016",2016,Mar,Spring
+USA,North Carolina,NC,Eastern Standard Time (EST),West,Carlos Rodriguez,Sophia Li,"1,752,184.00","Saturday, October 19, 2013",2013,Oct,Autumn
+USA,Indiana,IN,Eastern Standard Time (EST),West,Priya Patel,Elena Costa,"107,603.00","Wednesday, October 26, 2011",2011,Oct,Autumn
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),North,Marcelo Silva,Sophia Li,"7,434,796.00","Friday, April 27, 2012",2012,Apr,Spring
+USA,Arkansas,AR,Central Standard Time (CST),South-West,Fatima Mohamed,Elena Costa,"10,425,462.00","Wednesday, February 27, 2019",2019,Feb,Winter
+USA,Iowa,IA,Central Standard Time (CST),North-East,Miguel Fernandez,Mohammad Rahman,"17,995,979.00","Monday, October 12, 2015",2015,Oct,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),North-East,Yuri Petrov,Elena Costa,"2,528,161.00","Tuesday, February 28, 2012",2012,Feb,Winter
+USA,Idaho,ID,Pacific Standard Time (PST),East,Maria Garcia,Tariq Khan,"11,032,175.00","Thursday, March 17, 2011",2011,Mar,Spring
+USA,Nevada,NV,Pacific Standard Time (PST),West,Nguyen Minh,Sophia Li,"14,819,748.00","Tuesday, March 29, 2011",2011,Mar,Spring
+USA,Colorado,CO,Central Standard Time (CST),North-West,Liu Wei,Elena Costa,"3,363,198.00","Friday, December 12, 2014",2014,Dec,Winter
+USA,Connecticut,CT,Eastern Standard Time (EST),North-East,Isabella Rossi,Mohammad Rahman,"6,495,001.00","Friday, November 22, 2013",2013,Nov,Autumn
+USA,Ohio,OH,Eastern Standard Time (EST),South,Yuri Petrov,Mohammad Rahman,"4,321,936.00","Friday, October 30, 2020",2020,Oct,Autumn
+USA,Washington,WA,Pacific Standard Time (PST),East,Ahmed Hassan,Mohammad Rahman,"21,175,270.00","Saturday, February 16, 2019",2019,Feb,Winter
+USA,Michigan,MI,Eastern Standard Time (EST),North-West,Anna Nowak,Mei Chen,"10,769,444.00","Sunday, August 12, 2012",2012,Aug,Summer
+USA,Wisconsin,WI,Eastern Standard Time (EST),South-West,Leila Abadi,Sophia Li,"765,444.00","Tuesday, August 20, 2013",2013,Aug,Summer
+USA,Mississippi,MS,Central Standard Time (CST),South-East,Miguel Fernandez,Mei Chen,"5,844,215.00","Sunday, September 27, 2020",2020,Sep,Autumn
+USA,American Samoa,AS,Chamorro Standard Time (ChST),North-West,Marcelo Silva,Elena Costa,"662,287.00","Monday, September 12, 2016",2016,Sep,Autumn
+USA,Alaska,AK,Alaska Standard Time (AKST),North-West,Mohammed Khan,Tariq Khan,"19,728,426.00","Friday, July 16, 2010",2010,Jul,Summer
+USA,North Dakota,ND,Central Standard Time (CST),West,Yuki Tanaka,Sophia Li,"14,973,837.00","Sunday, January 3, 2016",2016,Jan,Winter
+USA,Minnesota,MN,Central Standard Time (CST),North-West,Ahmed Hassan,Tariq Khan,"11,738,335.00","Sunday, May 26, 2019",2019,May,Spring
+USA,New Mexico,NM,Mountain Standard Time (MST),North,Priya Patel,Tariq Khan,"3,581,964.00","Thursday, December 10, 2020",2020,Dec,Winter
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),South-East,Carlos Rodriguez,Mohammad Rahman,"1,902,771.00","Wednesday, May 29, 2019",2019,May,Spring
+USA,Iowa,IA,Central Standard Time (CST),North,Marcelo Silva,Elena Costa,"9,000,466.00","Wednesday, May 19, 2010",2010,May,Spring
+USA,Alaska,AK,Alaska Standard Time (AKST),North-West,Marcelo Silva,Mohammad Rahman,"3,838,577.00","Thursday, October 4, 2012",2012,Oct,Autumn
+USA,New York,NY,Eastern Standard Time (EST),East,Miguel Fernandez,Tariq Khan,"268,761.00","Wednesday, March 28, 2018",2018,Mar,Spring
+USA,Northern Mariana Islands,MP,Chamorro Standard Time (ChST),South-West,Jamal Al-Farsi,Mohammad Rahman,"3,189,826.00","Tuesday, October 17, 2017",2017,Oct,Autumn
+USA,Washington,WA,Pacific Standard Time (PST),South-East,Aisha Abubakar,Tariq Khan,"2,696,779.00","Saturday, June 16, 2012",2012,Jun,Summer
+USA,New Mexico,NM,Mountain Standard Time (MST),North-West,Priya Patel,Tariq Khan,"4,714,151.00","Monday, July 7, 2014",2014,Jul,Summer
+USA,Washington,WA,Pacific Standard Time (PST),South-West,Ingrid Svensson,Sophia Li,"16,981,550.00","Sunday, May 7, 2017",2017,May,Spring
+USA,Kansas,KS,Central Standard Time (CST),West,Maria Garcia,Tariq Khan,"7,778,215.00","Wednesday, May 29, 2013",2013,May,Spring
+USA,South Carolina,SC,Eastern Standard Time (EST),North,David Kim,Mohammad Rahman,"4,713,628.00","Tuesday, October 22, 2019",2019,Oct,Autumn
+USA,District of Columbia,DC,Eastern Standard Time (EST),South,Marcelo Silva,Tariq Khan,"597,549.00","Monday, May 14, 2012",2012,May,Spring
+USA,Connecticut,CT,Eastern Standard Time (EST),North,Leila Abadi,Elena Costa,"4,670,178.00","Thursday, May 9, 2013",2013,May,Spring
+USA,American Samoa,AS,Chamorro Standard Time (ChST),East,Jamal Al-Farsi,Mohammad Rahman,"15,594,645.00","Tuesday, June 12, 2012",2012,Jun,Summer
+USA,Wisconsin,WI,Eastern Standard Time (EST),South-West,Maria Garcia,Tariq Khan,"5,816,669.00","Saturday, March 1, 2014",2014,Mar,Spring
+USA,Colorado,CO,Central Standard Time (CST),North,Maria Garcia,Mohammad Rahman,"4,143,833.00","Friday, March 7, 2014",2014,Mar,Spring
+USA,Michigan,MI,Eastern Standard Time (EST),North-West,Liu Wei,Mohammad Rahman,"2,952,244.00","Saturday, November 2, 2019",2019,Nov,Autumn
+USA,Massachusetts,MA,Eastern Standard Time (EST),North,Yuki Tanaka,Tariq Khan,"4,848,432.00","Thursday, September 1, 2016",2016,Sep,Autumn
+USA,Oklahoma,OK,Central Standard Time (CST),East,Marcelo Silva,Sophia Li,"17,121,817.00","Tuesday, November 10, 2015",2015,Nov,Autumn
+USA,West Virginia,WV,Eastern Standard Time (EST),North,Priya Patel,Mei Chen,"13,822,273.00","Thursday, January 23, 2020",2020,Jan,Winter
+USA,American Samoa,AS,Chamorro Standard Time (ChST),North-East,Mohammed Khan,Elena Costa,"4,280,069.00","Sunday, May 19, 2019",2019,May,Spring
+USA,Puerto Rico,PR,Chamorro Standard Time (ChST),South-West,Priya Patel,Elena Costa,"11,427,439.00","Thursday, June 3, 2010",2010,Jun,Summer
+USA,Illinois,IL,Eastern Standard Time (EST),South-East,Miguel Fernandez,Elena Costa,"7,990,780.00","Friday, February 10, 2017",2017,Feb,Winter
+USA,Connecticut,CT,Eastern Standard Time (EST),North,David Kim,Elena Costa,"2,704,196.00","Thursday, February 27, 2020",2020,Feb,Winter
+USA,Missouri,MO,Central Standard Time (CST),South-West,Juan Lopez,Mei Chen,"16,975,404.00","Friday, December 20, 2019",2019,Dec,Winter
+USA,Vermont,VT,Eastern Standard Time (EST),West,Carlos Rodriguez,Tariq Khan,"7,775,953.00","Monday, December 24, 2012",2012,Dec,Winter
+USA,North Carolina,NC,Eastern Standard Time (EST),North,Ingrid Svensson,Mohammad Rahman,"8,537,320.00","Saturday, April 27, 2019",2019,Apr,Spring
+USA,Louisiana,LA,Central Standard Time (CST),North-East,Mohammed Khan,Sophia Li,"2,457,057.00","Thursday, June 19, 2014",2014,Jun,Summer
+USA,District of Columbia,DC,Eastern Standard Time (EST),North-East,Ahmed Hassan,Mohammad Rahman,"6,807,340.00","Monday, June 30, 2014",2014,Jun,Summer
+USA,Maryland,MD,Eastern Standard Time (EST),East,Carlos Rodriguez,Mei Chen,"648,454.00","Thursday, July 14, 2016",2016,Jul,Summer
+USA,Kentucky,KY,Eastern Standard Time (EST),West,Juan Lopez,Mohammad Rahman,"8,328,105.00","Saturday, August 6, 2016",2016,Aug,Summer
+USA,Nevada,NV,Pacific Standard Time (PST),South-West,Carlos Rodriguez,Tariq Khan,"8,286,213.00","Friday, December 7, 2012",2012,Dec,Winter
+USA,Tennessee,TN,Eastern Standard Time (EST),North-West,Fatima Mohamed,Sophia Li,"10,105,425.00","Friday, December 1, 2017",2017,Dec,Winter
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),North-East,Juan Lopez,Mohammad Rahman,"8,882,174.00","Tuesday, March 21, 2017",2017,Mar,Spring
+USA,Vermont,VT,Eastern Standard Time (EST),South,David Kim,Mei Chen,"3,989,034.00","Saturday, August 23, 2014",2014,Aug,Summer
+USA,New Jersey,NJ,Eastern Standard Time (EST),North-West,Jamal Al-Farsi,Elena Costa,"14,712,985.00","Thursday, May 26, 2016",2016,May,Spring
+USA,Delaware,DE,Eastern Standard Time (EST),South-East,Leila Abadi,Sophia Li,"2,752,995.00","Saturday, October 10, 2020",2020,Oct,Autumn
+USA,New York,NY,Eastern Standard Time (EST),West,Leila Abadi,Mei Chen,"14,165,246.00","Monday, May 23, 2011",2011,May,Spring
+USA,New York,NY,Eastern Standard Time (EST),East,Ingrid Svensson,Mei Chen,"7,740,884.00","Friday, November 22, 2019",2019,Nov,Autumn
+USA,Hawaii,HI,Hawaii-Aleutian Standard Time (HAST),South-West,Aisha Abubakar,Mei Chen,"11,924,503.00","Thursday, October 18, 2012",2012,Oct,Autumn
+USA,Pennsylvania,PA,Eastern Standard Time (EST),West,Ahmed Hassan,Sophia Li,"11,615,281.00","Monday, April 27, 2020",2020,Apr,Spring
+USA,Virgin Islands,VI,Chamorro Standard Time (ChST),North-East,Ahmed Hassan,Tariq Khan,"14,551,967.00","Thursday, July 29, 2010",2010,Jul,Summer
+USA,Alaska,AK,Alaska Standard Time (AKST),West,Leila Abadi,Tariq Khan,"4,441,030.00","Monday, September 21, 2020",2020,Sep,Autumn
+USA,Illinois,IL,Eastern Standard Time (EST),South-East,Maria Garcia,Elena Costa,"1,026,913.00","Sunday, October 28, 2018",2018,Oct,Autumn
+USA,Nebraska,NE,Central Standard Time (CST),East,David Kim,Sophia Li,"6,368,619.00","Thursday, June 29, 2017",2017,Jun,Summer
+USA,Utah,UT,Mountain Standard Time (MST),North-West,Mohammed Khan,Sophia Li,"9,525,835.00","Friday, April 3, 2015",2015,Apr,Spring
+USA,Hawaii,HI,Hawaii-Aleutian Standard Time (HAST),North-West,Anna Nowak,Elena Costa,"1,225,093.00","Tuesday, October 30, 2018",2018,Oct,Autumn
+USA,Maine,ME,Eastern Standard Time (EST),West,Yuri Petrov,Sophia Li,"3,400,356.00","Saturday, June 2, 2012",2012,Jun,Summer
+USA,Guam,GU,Chamorro Standard Time (ChST),South-East,Yuri Petrov,Tariq Khan,"7,713,508.00","Friday, October 2, 2020",2020,Oct,Autumn
+USA,South Carolina,SC,Eastern Standard Time (EST),North-West,Jamal Al-Farsi,Sophia Li,"16,803,339.00","Friday, October 19, 2012",2012,Oct,Autumn
+USA,Colorado,CO,Central Standard Time (CST),South,Nguyen Minh,Elena Costa,"20,694,941.00","Thursday, January 1, 2015",2015,Jan,Winter
+USA,Hawaii,HI,Hawaii-Aleutian Standard Time (HAST),North-West,Yuki Tanaka,Mohammad Rahman,"2,890,800.00","Monday, September 7, 2015",2015,Sep,Autumn
+USA,Oklahoma,OK,Central Standard Time (CST),South-East,Mohammed Khan,Mei Chen,"666,663.00","Tuesday, November 8, 2016",2016,Nov,Autumn
+USA,Utah,UT,Mountain Standard Time (MST),North,Carlos Rodriguez,Tariq Khan,"760,146.00","Wednesday, May 8, 2013",2013,May,Spring
+USA,Iowa,IA,Central Standard Time (CST),North,Carlos Rodriguez,Tariq Khan,"10,646,944.00","Saturday, February 25, 2012",2012,Feb,Winter
+USA,Idaho,ID,Pacific Standard Time (PST),South-East,Jamal Al-Farsi,Mohammad Rahman,"4,395,203.00","Tuesday, August 16, 2011",2011,Aug,Summer
+USA,New Mexico,NM,Mountain Standard Time (MST),North-East,Ingrid Svensson,Elena Costa,"9,048,573.00","Tuesday, February 21, 2017",2017,Feb,Winter
+USA,Georgia,GA,Eastern Standard Time (EST),South-West,Miguel Fernandez,Sophia Li,"5,594,733.00","Thursday, November 12, 2020",2020,Nov,Autumn
+USA,Delaware,DE,Eastern Standard Time (EST),North-West,Nguyen Minh,Tariq Khan,"11,173,567.00","Friday, December 11, 2015",2015,Dec,Winter
+USA,Utah,UT,Mountain Standard Time (MST),West,David Kim,Sophia Li,"16,932,071.00","Saturday, June 5, 2010",2010,Jun,Summer
+USA,Hawaii,HI,Hawaii-Aleutian Standard Time (HAST),West,Ahmed Hassan,Mohammad Rahman,"1,426,834.00","Wednesday, October 25, 2017",2017,Oct,Autumn
+USA,Virginia,VA,Eastern Standard Time (EST),West,Ahmed Hassan,Sophia Li,"22,645,753.00","Monday, November 5, 2012",2012,Nov,Autumn
+USA,Oregon,OR,Pacific Standard Time (PST),East,Ahmed Hassan,Tariq Khan,"11,200,783.00","Saturday, September 28, 2013",2013,Sep,Autumn
+USA,New Hampshire,NH,Eastern Standard Time (EST),South-West,Leila Abadi,Tariq Khan,"8,982,653.00","Thursday, October 21, 2010",2010,Oct,Autumn
+USA,Connecticut,CT,Eastern Standard Time (EST),North-West,Jamal Al-Farsi,Mohammad Rahman,"182,488.00","Monday, May 4, 2020",2020,May,Spring
+USA,Iowa,IA,Central Standard Time (CST),South-East,Anna Nowak,Elena Costa,"4,136,622.00","Monday, September 7, 2015",2015,Sep,Autumn
+USA,Indiana,IN,Eastern Standard Time (EST),East,Ahmed Hassan,Mei Chen,"10,268,071.00","Thursday, September 28, 2017",2017,Sep,Autumn
+USA,Michigan,MI,Eastern Standard Time (EST),West,Ingrid Svensson,Mohammad Rahman,"6,756,954.00","Monday, May 20, 2013",2013,May,Spring
+USA,Florida,FL,Eastern Standard Time (EST),North,Priya Patel,Tariq Khan,"510,476.00","Friday, August 1, 2014",2014,Aug,Summer
+USA,Maine,ME,Eastern Standard Time (EST),South,David Kim,Tariq Khan,"4,911,162.00","Saturday, September 8, 2018",2018,Sep,Autumn
+USA,New Mexico,NM,Mountain Standard Time (MST),North,Juan Lopez,Mohammad Rahman,"4,505,138.00","Saturday, October 3, 2015",2015,Oct,Autumn
+USA,Nebraska,NE,Central Standard Time (CST),North-West,Mohammed Khan,Mohammad Rahman,"8,956,812.00","Wednesday, March 18, 2020",2020,Mar,Spring
+USA,Arizona,AZ,Mountain Standard Time (MST),South-West,Aisha Abubakar,Tariq Khan,"1,677,476.00","Saturday, August 11, 2018",2018,Aug,Summer
+USA,Ohio,OH,Eastern Standard Time (EST),North-West,Fatima Mohamed,Tariq Khan,"9,081,425.00","Friday, April 12, 2019",2019,Apr,Spring
+USA,New Hampshire,NH,Eastern Standard Time (EST),East,Ahmed Hassan,Sophia Li,"6,655,633.00","Tuesday, December 10, 2013",2013,Dec,Winter
+USA,Oklahoma,OK,Central Standard Time (CST),North-East,Nguyen Minh,Tariq Khan,"580,532.00","Monday, April 27, 2015",2015,Apr,Spring
+USA,Minnesota,MN,Central Standard Time (CST),North,Ingrid Svensson,Mohammad Rahman,"6,618,793.00","Friday, October 1, 2010",2010,Oct,Autumn
+USA,Guam,GU,Chamorro Standard Time (ChST),West,Nguyen Minh,Mohammad Rahman,"2,728,443.00","Sunday, February 20, 2011",2011,Feb,Winter
+USA,Oklahoma,OK,Central Standard Time (CST),East,Nguyen Minh,Mohammad Rahman,"11,891,421.00","Tuesday, July 14, 2020",2020,Jul,Summer
+USA,Idaho,ID,Pacific Standard Time (PST),South-East,Liu Wei,Mohammad Rahman,"19,382,871.00","Saturday, July 26, 2014",2014,Jul,Summer
+USA,Virginia,VA,Eastern Standard Time (EST),North-East,Maria Garcia,Elena Costa,"3,391,302.00","Wednesday, May 8, 2019",2019,May,Spring
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),South,Anna Nowak,Mei Chen,"9,394,606.00","Saturday, March 2, 2019",2019,Mar,Spring
+USA,Maryland,MD,Eastern Standard Time (EST),South-West,Aisha Abubakar,Mei Chen,"3,907,477.00","Friday, January 14, 2011",2011,Jan,Winter
+USA,Connecticut,CT,Eastern Standard Time (EST),West,Anna Nowak,Mei Chen,"20,588,244.00","Tuesday, October 20, 2020",2020,Oct,Autumn
+USA,Vermont,VT,Eastern Standard Time (EST),South,Maria Garcia,Mohammad Rahman,"7,283,970.00","Sunday, April 26, 2015",2015,Apr,Spring
+USA,Vermont,VT,Eastern Standard Time (EST),West,Priya Patel,Tariq Khan,"777,523.00","Saturday, January 27, 2018",2018,Jan,Winter
+USA,Wisconsin,WI,Eastern Standard Time (EST),East,Liu Wei,Sophia Li,"11,204,021.00","Wednesday, March 14, 2018",2018,Mar,Spring
+USA,Montana,MT,Pacific Standard Time (PST),South-West,Yuki Tanaka,Mohammad Rahman,"978,506.00","Tuesday, May 8, 2012",2012,May,Spring
+USA,Rhode Island,RI,Eastern Standard Time (EST),North,Fatima Mohamed,Elena Costa,"1,265,185.00","Thursday, April 7, 2011",2011,Apr,Spring
+USA,California,CA,Pacific Standard Time (PST),South,Aisha Abubakar,Sophia Li,"4,790,052.00","Friday, June 4, 2010",2010,Jun,Summer
+USA,Kentucky,KY,Eastern Standard Time (EST),West,Jamal Al-Farsi,Mei Chen,"2,352,785.00","Wednesday, February 18, 2015",2015,Feb,Winter
+USA,Colorado,CO,Central Standard Time (CST),South-West,Maria Garcia,Elena Costa,"11,091,184.00","Wednesday, July 13, 2011",2011,Jul,Summer
+USA,Indiana,IN,Eastern Standard Time (EST),North-East,Juan Lopez,Mohammad Rahman,"2,580,310.00","Thursday, August 26, 2010",2010,Aug,Summer
+USA,Montana,MT,Pacific Standard Time (PST),West,Yuki Tanaka,Mei Chen,"5,494,690.00","Sunday, August 28, 2016",2016,Aug,Summer
+USA,Colorado,CO,Central Standard Time (CST),South-West,Jamal Al-Farsi,Elena Costa,"1,188,098.00","Sunday, November 11, 2018",2018,Nov,Autumn
+USA,Kansas,KS,Central Standard Time (CST),East,Anna Nowak,Mohammad Rahman,"3,102,846.00","Saturday, March 9, 2019",2019,Mar,Spring
+USA,Idaho,ID,Pacific Standard Time (PST),East,Jamal Al-Farsi,Tariq Khan,"2,286,525.00","Monday, July 2, 2012",2012,Jul,Summer
+USA,Connecticut,CT,Eastern Standard Time (EST),North-East,Marcelo Silva,Mei Chen,"4,988,982.00","Sunday, July 21, 2013",2013,Jul,Summer
+USA,New Hampshire,NH,Eastern Standard Time (EST),North,Ahmed Hassan,Mohammad Rahman,"10,218,499.00","Thursday, May 2, 2013",2013,May,Spring
+USA,Wisconsin,WI,Eastern Standard Time (EST),South,Yuki Tanaka,Mei Chen,"6,954,839.00","Saturday, October 27, 2018",2018,Oct,Autumn
+USA,South Carolina,SC,Eastern Standard Time (EST),South-East,Isabella Rossi,Elena Costa,"17,073,136.00","Sunday, January 26, 2020",2020,Jan,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),North-East,Isabella Rossi,Mei Chen,"10,306,192.00","Monday, November 16, 2015",2015,Nov,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),East,Nguyen Minh,Mei Chen,"765,696.00","Thursday, September 27, 2012",2012,Sep,Autumn
+USA,Wisconsin,WI,Eastern Standard Time (EST),South,Leila Abadi,Mei Chen,"1,606,161.00","Friday, November 13, 2015",2015,Nov,Autumn
+USA,Kentucky,KY,Eastern Standard Time (EST),West,Mohammed Khan,Tariq Khan,"1,643,689.00","Wednesday, December 18, 2019",2019,Dec,Winter
+USA,American Samoa,AS,Chamorro Standard Time (ChST),North-West,David Kim,Mei Chen,"5,537,629.00","Thursday, December 31, 2015",2015,Dec,Winter
+USA,Georgia,GA,Eastern Standard Time (EST),South,Marcelo Silva,Sophia Li,"10,624,622.00","Wednesday, May 25, 2016",2016,May,Spring
+USA,Maine,ME,Eastern Standard Time (EST),West,Maria Garcia,Tariq Khan,"1,413,328.00","Tuesday, November 7, 2017",2017,Nov,Autumn
+USA,California,CA,Pacific Standard Time (PST),South-West,Yuri Petrov,Tariq Khan,"9,672,379.00","Thursday, September 25, 2014",2014,Sep,Autumn
+USA,Illinois,IL,Eastern Standard Time (EST),North-West,Miguel Fernandez,Sophia Li,"1,293,469.00","Thursday, December 3, 2020",2020,Dec,Winter
+USA,Ohio,OH,Eastern Standard Time (EST),North,Maria Garcia,Tariq Khan,"10,748,415.00","Tuesday, May 26, 2020",2020,May,Spring
+USA,Maine,ME,Eastern Standard Time (EST),South,Nguyen Minh,Elena Costa,"14,388,719.00","Thursday, March 6, 2014",2014,Mar,Spring
+USA,Kentucky,KY,Eastern Standard Time (EST),North-West,Isabella Rossi,Mei Chen,"7,786,029.00","Wednesday, August 22, 2012",2012,Aug,Summer
+USA,Washington,WA,Pacific Standard Time (PST),North,Yuki Tanaka,Mohammad Rahman,"2,087,485.00","Sunday, May 26, 2013",2013,May,Spring
+USA,North Dakota,ND,Central Standard Time (CST),South-East,Ahmed Hassan,Mohammad Rahman,"5,902,823.00","Monday, March 19, 2012",2012,Mar,Spring
+USA,Iowa,IA,Central Standard Time (CST),East,Priya Patel,Mohammad Rahman,"18,254,608.00","Wednesday, July 21, 2010",2010,Jul,Summer
+USA,Minnesota,MN,Central Standard Time (CST),West,Nguyen Minh,Sophia Li,"7,552,642.00","Sunday, October 7, 2012",2012,Oct,Autumn
+USA,California,CA,Pacific Standard Time (PST),South,Miguel Fernandez,Tariq Khan,"2,956,579.00","Sunday, July 16, 2017",2017,Jul,Summer
+USA,Connecticut,CT,Eastern Standard Time (EST),South-East,Miguel Fernandez,Elena Costa,"7,653,264.00","Tuesday, October 14, 2014",2014,Oct,Autumn
+USA,Trust Territories,TT,Chamorro Standard Time (ChST),North-East,Juan Lopez,Sophia Li,"6,795,026.00","Friday, June 18, 2010",2010,Jun,Summer
+USA,Georgia,GA,Eastern Standard Time (EST),South,Carlos Rodriguez,Mohammad Rahman,"2,257,485.00","Saturday, February 15, 2014",2014,Feb,Winter
+USA,Kentucky,KY,Eastern Standard Time (EST),North-East,Miguel Fernandez,Tariq Khan,"4,278,509.00","Tuesday, August 21, 2012",2012,Aug,Summer
+USA,Texas,TX,Central Standard Time (CST),North-East,Ahmed Hassan,Mohammad Rahman,"16,354,636.00","Thursday, June 23, 2016",2016,Jun,Summer
+USA,Kentucky,KY,Eastern Standard Time (EST),North-West,Ingrid Svensson,Mohammad Rahman,"5,287,630.00","Sunday, June 13, 2010",2010,Jun,Summer
