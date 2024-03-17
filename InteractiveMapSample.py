@@ -50,6 +50,8 @@ def generate_map():
     while not os.path.exists(OutputHtmlFileName):
         time.sleep(1)  # Check every second
     
+    print('*************************** The OutputHtmlFileName file exists :' + OutputHtmlFileName)
+
     # Render the map in the HTML template
     return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
 
