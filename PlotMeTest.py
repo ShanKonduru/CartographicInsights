@@ -264,6 +264,15 @@ sales_data = {
     ],
 }
 
+# Convert DataFrame to dictionary
+sales_data = {
+    'State': sales_data_df['State'].to_list(),
+    'SalesPerson': sales_data_df['SalesPerson'].to_list(),
+    'SalesValue': sales_data_df['SalesValue'].to_list(),
+    'Region': sales_data_df['Region'].to_list(),
+}
+
+print(sales_data)
 
 # Instantiate SalesMap class and generate the map
 sales_map = PlotMe("ne_110m_admin_1_states_provinces.shp", sales_data)
