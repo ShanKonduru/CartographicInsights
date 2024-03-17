@@ -2,6 +2,8 @@ from flask import Flask, render_template, request
 from Utilities.CustomLogger import CustomLogger  # Import your custom logger
 from PlotMe import PlotMe  # Import the PlotMe class from your code
 import pandas as pd
+import os
+import time
 
 app = Flask(__name__)
 
@@ -43,6 +45,10 @@ def generate_map():
 
     OutputHtmlFileName = f'templates/map_{year}_{state}.html'  # Define the output HTML file name
     plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
+
+    # Check if the file exists
+    while not os.path.exists(OutputHtmlFileName):
+        time.sleep(1)  # Check every second
     
     # Render the map in the HTML template
     return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
