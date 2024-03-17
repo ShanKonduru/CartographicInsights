@@ -96,10 +96,16 @@ class PlotMe:
             ).add_to(self.marker_cluster)
 
     def generate_filtered_sales_map(self, OutputHtmlFileName,  **kwargs):
+        print('*************************** Inside generate_filtered_sales_map')
+        print('*************************** Before merge_sales_data')
         self.merge_sales_data()
+        print('*************************** Before create_map')
         self.create_map()
+        print('*************************** Before create_marker_cluster')
         self.create_marker_cluster()
+        print('*************************** Before add_markers_filtered')
         self.add_markers_filtered(**kwargs)
+        print('*************************** Saving Output HTML file' + OutputHtmlFileName)
         self.usa_map.save(OutputHtmlFileName)
 
     def generate_total_sales_map(self, OutputHtmlFileName):
