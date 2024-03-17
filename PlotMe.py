@@ -7,10 +7,26 @@ from  Utilities.CustomLogger import CustomLogger
 
 
 class PlotMe:
-    def __init__(self, shapefile_path, sales_data_df, sales_data, logger):
+    def __init__(self, shapefile_path, sales_data_df, logger):
+        # Convert DataFrame to dictionary
+        self.sales_data = {
+            'State': sales_data_df['State'].to_list(),
+            'SalesPerson': sales_data_df['SalesPerson'].to_list(),
+            'SalesValue': sales_data_df['SalesValue'].to_list(),
+            'Region': sales_data_df['Region'].to_list(),
+            'Country' : sales_data_df['Country'].to_list(),
+            'StateName' : sales_data_df['StateName'].to_list(),
+            'SalesManager' : sales_data_df['SalesManager'].to_list(),
+            'DateOfSale' : sales_data_df['DateOfSale'].to_list(),
+            'YearOfSale' : sales_data_df['YearOfSale'].to_list(),
+            'MonthOfSale' : sales_data_df['MonthOfSale'].to_list(),
+            'Season' : sales_data_df['Season'].to_list(),
+            'TimeZone' : sales_data_df['TimeZone'].to_list()
+        }
+        logger.debug(self.sales_data)
         self.sales_data_df = sales_data_df
         self.shapefile_path = shapefile_path
-        self.sales_data = sales_data
+        self.sales_data = self.sales_data
         self.gdf = gpd.read_file(shapefile_path)
         self.merged_data = None
         self.usa_map = None

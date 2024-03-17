@@ -1,2 +1,2 @@
-*.html
-app.log
+OutputHTML/*.html
+Logs/app.log
