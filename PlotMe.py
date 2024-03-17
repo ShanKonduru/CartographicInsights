@@ -79,7 +79,7 @@ class PlotMe:
                 icon=folium.Icon(color=self.get_color(sales_value))
             ).add_to(self.marker_cluster)
 
-    def generate_filtered_sales_map(self,OutputHtmlFileName,  **kwargs):
+    def generate_filtered_sales_map(self, OutputHtmlFileName,  **kwargs):
         self.merge_sales_data()
         self.create_map()
         self.create_marker_cluster()
