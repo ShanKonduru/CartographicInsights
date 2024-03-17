@@ -910,6 +910,16 @@ doc = ["myst-parser", "sphinx", "sphinx-book-theme"]
 test = ["coverage", "pytest", "pytest-cov"]
 
 [[package]]
+name = "logging"
+version = "0.4.9.6"
+description = "A logging module for Python"
+optional = false
+python-versions = "*"
+files = [
+    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
+]
+
+[[package]]
 name = "markdown"
 version = "3.6"
 description = "Python implementation of John Gruber's Markdown."
@@ -1900,4 +1910,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "3636b47d5da5a67f03e452d173398505904bc1e2ec522ae8424fbb959d6f90b9"
+content-hash = "b6d0d1d2eedca3754fa73af51908674e3316ef5a5871a668613300dddeccdf4a"
