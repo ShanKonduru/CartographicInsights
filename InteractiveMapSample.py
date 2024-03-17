@@ -45,7 +45,7 @@ def generate_map():
     plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
     
     # Render the map in the HTML template
-    return render_template("map_template.html", map_file=OutputHtmlFileName)
+    return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
 
 if __name__ == '__main__':
     app.run(debug=True)
