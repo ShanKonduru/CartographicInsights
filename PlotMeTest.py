@@ -265,20 +265,11 @@ sales_data = {
 }
 
 
-sales_data = {
-
-    'State': ['New York', 'California', 'Texas', 'New York', 'California', 'Texas', 'New York', 'California', 'Texas', 'New York', 'California', 'Texas'],
-    'SalesPerson': ['John', 'Alice', 'Bob', 'John', 'Alice', 'Bob', 'John', 'Alice', 'Bob', 'John', 'Alice', 'Bob'],
-    'SalesValue': ['10000', '20000', '13000', '10000', '20000', '13000', '10000', '20000', '13000', '10000', '20000', '13000'],
-    'Region': ['East', 'West', 'North-East', 'East', 'West', 'North-East', 'East', 'West', 'North-East', 'East', 'West', 'North-East']
-
-}
-
-
 # Instantiate SalesMap class and generate the map
 sales_map = PlotMe("ne_110m_admin_1_states_provinces.shp", sales_data)
 
-# to Generate MAP for all sales folks
-# sales_map.generate_total_sales_map()
+# to Generate MAP for total sales
+sales_map.generate_total_sales_map()
 
-sales_map.generate_sales_map(State="New York", Region="East")
+# to Generate MAP for specific Filter
+# sales_map.generate_sales_map(State="New York", Region="East")
