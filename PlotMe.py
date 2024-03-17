@@ -3,7 +3,7 @@ import folium
 from folium.plugins import MarkerCluster
 import pandas as pd
 import numpy as np
-from CustomLogger import CustomLogger
+from  Utilities.CustomLogger import CustomLogger
 
 
 class PlotMe:
@@ -79,18 +79,18 @@ class PlotMe:
                 icon=folium.Icon(color=self.get_color(sales_value))
             ).add_to(self.marker_cluster)
 
-    def generate_filtered_sales_map(self, **kwargs):
+    def generate_filtered_sales_map(self,OutputHtmlFileName,  **kwargs):
         self.merge_sales_data()
         self.create_map()
         self.create_marker_cluster()
         self.add_markers_filtered(**kwargs)
-        self.usa_map.save('Filtered_usa_sales_map.html')
+        self.usa_map.save(OutputHtmlFileName)
 
-    def generate_total_sales_map(self):
+    def generate_total_sales_map(self, OutputHtmlFileName):
         self.merge_sales_data()
         self.create_map()
         self.create_marker_cluster()
         sales_persons = self.merged_data['SalesPerson'].unique()
         for sales_person_name in sales_persons:
             self.add_markers(sales_person_name)
-        self.usa_map.save('total_usa_sales_map.html')
+        self.usa_map.save(OutputHtmlFileName)

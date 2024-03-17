@@ -1,12 +1,12 @@
 import pandas as pd
 from PlotMe import PlotMe
-from CustomLogger import CustomLogger
+from  Utilities.CustomLogger import CustomLogger
 
 # Create an instance of CustomLogger with both console and file logging
 logger = CustomLogger(debug_mode=True, log_file="app.log")
 
 # Read sales data from CSV file
-sales_data_df = pd.read_csv("GeographicDataAnalysis.csv")
+sales_data_df = pd.read_csv("Dataset/GeographicDataAnalysis.csv")
 logger.debug(sales_data_df.head())
 logger.debug(sales_data_df.columns)
 
@@ -29,7 +29,7 @@ sales_data = {
 logger.debug(sales_data)
 
 # Instantiate SalesMap class and generate the map
-sales_map = PlotMe("ne_110m_admin_1_states_provinces.shp", sales_data_df, sales_data, logger)
+sales_map = PlotMe("MapData/ne_110m_admin_1_states_provinces.shp", sales_data_df, sales_data, logger)
 
 # to Generate MAP for total sales
 # sales_map.generate_total_sales_map()
@@ -44,5 +44,5 @@ sales_map = PlotMe("ne_110m_admin_1_states_provinces.shp", sales_data_df, sales_
 # logger.info("Generated MAP for specific Filters Spring Season")
 
 # to Generate MAP for specific Filter - Timezone based
-sales_map.generate_filtered_sales_map(TimeZone='Eastern Standard Time (EST)', YearOfSale=2015 )
+sales_map.generate_filtered_sales_map("outputHTML/FilterTimeZoneYearOfSales.html", TimeZone='Eastern Standard Time (EST)', YearOfSale=2015 )
 logger.info("Generated MAP for specific Filters Timezone")
