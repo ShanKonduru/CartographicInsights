@@ -43,14 +43,18 @@ def generate_map():
     if not year or not state:
         return "Year and state parameters are required."
 
-    OutputHtmlFileName = f'templates/map_{year}_{state}.html'  # Define the output HTML file name
+    OutputHtmlFileName = f'map_{year}_{state}.html'  # Define the output HTML file name
+
+    if(os.path.exists('templates/'+OutputHtmlFileName)):
+        os.remove('templates/'+OutputHtmlFileName)
+
     plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
 
     # Check if the file exists
-    while not os.path.exists(OutputHtmlFileName):
+    while not os.path.exists('templates/'+OutputHtmlFileName):
         time.sleep(1)  # Check every second
     
-    print('*************************** The OutputHtmlFileName file exists :' + OutputHtmlFileName)
+    print('*************************** The OutputHtmlFileName file exists :' + 'templates/' + OutputHtmlFileName)
 
     # Render the map in the HTML template
     return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
