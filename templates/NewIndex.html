@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewIndex</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <input type="file" id="csvFile" accept=".csv" style="display: none;">
+    <button id="selectCsvBtn">Select CSV File</button>
+    <input type="text" id="selectedFilePath" readonly><br><br>
+    <div id="checkboxes"></div>
+    <br>
+    <div id="dropdowns"></div>
+    <br>
+    <button id="generateMapBtn" disabled>Generate Map with Filters</button>
+
+    <script>
+        $(document).ready(function () {
+            $("#selectCsvBtn").on('click', function () {
+                $("#csvFile").trigger('click');
+            });
+
+            $("#csvFile").on('change', function () {
+                var selectedFile = $(this)[0].files[0];
+                $("#selectedFilePath").val(selectedFile.name + " (" + selectedFile.path + ")");
+            });
+
+            $("#csvFile").on('change', function () {
+                var file = this.files[0];
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    var csv = e.target.result;
+                    var rows = csv.split("\n");
+                    var columns = rows[0].split(",");
+                    var checkboxesHTML = "";
+                    columns.forEach(function (column) {
+                        checkboxesHTML += '<input type="checkbox" class="columnCheckbox" value="' + column + '">' + column + '<br>';
+                    });
+                    $("#checkboxes").html(checkboxesHTML);
+                    $(".columnCheckbox").on('change', function () {
+                        $("#dropdowns").empty();
+                        var selectedColumns = [];
+                        $(".columnCheckbox:checked").each(function () {
+                            selectedColumns.push($(this).val());
+                        });
+                        selectedColumns.forEach(function (selectedColumn) {
+                            var uniqueValues = [];
+                            for (var i = 1; i < rows.length; i++) {
+                                var rowData = parseCSVRow(rows[i], columns.length);
+                                var value = rowData[columns.indexOf(selectedColumn)];
+                                if (!uniqueValues.includes(value)) {
+                                    uniqueValues.push(value);
+                                }
+                            }
+                            var dropdownHTML = '<select class="dropdown" id="' + selectedColumn + 'Dropdown">';
+                            uniqueValues.forEach(function (value) {
+                                dropdownHTML += '<option value="' + value + '">' + value + '</option>';
+                            });
+                            dropdownHTML += '</select><br>';
+                            $("#dropdowns").append(dropdownHTML);
+                        });
+                        $("#generateMapBtn").prop("disabled", false);
+                    });
+                };
+                reader.readAsText(file);
+            });
+
+            $("#generateMapBtn").on('click', function () {
+                var filterParams = [];
+                $(".dropdown").each(function () {
+                    var dropdownId = $(this).attr("id");
+                    var selectedValue = $(this).val();
+                    filterParams.push(dropdownId + "=" + selectedValue);
+                });
+            
+                var queryString = filterParams.join("&").replace('Dropdown', '');
+            
+                // Construct the URL with the query string
+                var url = "/generate_filtered_map?" + queryString;
+            
+                // Navigate to the new URL
+                window.location.href = url;
+            });
+            
+            
+            function parseCSVRow(row, columnCount) {
+                var result = [];
+                var insideQuote = false;
+                var currentField = '';
+                for (var i = 0; i < row.length; i++) {
+                    if (row[i] === '"') {
+                        insideQuote = !insideQuote;
+                    } else if (row[i] === ',' && !insideQuote) {
+                        result.push(currentField.trim());
+                        currentField = '';
+                    } else {
+                        currentField += row[i];
+                    }
+                }
+                result.push(currentField.trim());
+                // Ensure correct number of columns even if some are missing
+                while (result.length < columnCount) {
+                    result.push('');
+                }
+                return result;
+            }
+        });
+    </script>
+</body>
+</html>

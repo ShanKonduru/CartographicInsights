@@ -1,2 +1,4 @@
 OutputHTML/*.html
 Logs/app.log
+templates/output_*.html
+templates/map_*.html
