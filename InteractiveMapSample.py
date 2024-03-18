@@ -48,15 +48,18 @@ def generate_map():
     if(os.path.exists(OutputHtmlFileName)):
         os.remove(OutputHtmlFileName)
 
+    print('***************************  Begin generate_filtered_sales_map')
     plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
+    print('***************************  End generate_filtered_sales_map')
 
+    print('*************************** Looking for OutputHtmlFileName file exists :' + OutputHtmlFileName)
     # Check if the file exists
     while not os.path.exists(OutputHtmlFileName):
         time.sleep(1)  # Check every second
-    
     print('*************************** The OutputHtmlFileName file exists :' + OutputHtmlFileName)
 
     # Render the map in the HTML template
+    print('*************************** render_template')
     return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
 
 if __name__ == '__main__':

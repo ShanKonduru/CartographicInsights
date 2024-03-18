@@ -107,6 +107,7 @@ class PlotMe:
         self.add_markers_filtered(**kwargs)
         print('*************************** Saving Output HTML file :' + 'templates/'+ OutputHtmlFileName)
         self.usa_map.save('templates/' + OutputHtmlFileName)
+        print('*************************** Saved Output HTML file :' + 'templates/'+ OutputHtmlFileName)
 
     def generate_total_sales_map(self, OutputHtmlFileName):
         self.merge_sales_data()
