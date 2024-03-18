@@ -32,8 +32,8 @@
                 var reader = new FileReader();
                 reader.onload = function (e) {
                     var csv = e.target.result;
-                    var rows = csv.split("\n");
-                    var columns = rows[0].split(",");
+                    var rows = csv.split(/\r?\n/); // Split rows by newline, accounting for both Windows and Unix line endings
+                    var columns = rows[0].split(","); // Extract column names
                     var checkboxesHTML = "";
                     columns.forEach(function (column) {
                         checkboxesHTML += '<input type="checkbox" class="columnCheckbox" value="' + column + '">' + column + '<br>';
@@ -66,24 +66,6 @@
                 };
                 reader.readAsText(file);
             });
-
-            $("#generateMapBtn").on('click', function () {
-                var filterParams = [];
-                $(".dropdown").each(function () {
-                    var dropdownId = $(this).attr("id");
-                    var selectedValue = $(this).val();
-                    filterParams.push(dropdownId + "=" + selectedValue);
-                });
-            
-                var queryString = filterParams.join("&").replace('Dropdown', '');
-            
-                // Construct the URL with the query string
-                var url = "/generate_filtered_map?" + queryString;
-            
-                // Navigate to the new URL
-                window.location.href = url;
-            });
-            
             
             function parseCSVRow(row, columnCount) {
                 var result = [];
@@ -106,6 +88,23 @@
                 }
                 return result;
             }
+            
+            $("#generateMapBtn").on('click', function () {
+                var filterParams = [];
+                $(".dropdown").each(function () {
+                    var dropdownId = $(this).attr("id");
+                    var selectedValue = $(this).val();
+                    filterParams.push(dropdownId + "=" + selectedValue);
+                });
+            
+                var queryString = filterParams.join("&").replace('Dropdown', '');
+            
+                // Construct the URL with the query string
+                var url = "/generate_filtered_map?" + queryString;
+            
+                // Navigate to the new URL
+                window.location.href = url;
+            });            
         });
     </script>
 </body>
