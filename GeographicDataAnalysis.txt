@@ -1,0 +1,186 @@
+Country Name Generation
+-----------------------
+	=CHOOSE(RANDBETWEEN(1,4), "USA", "CANADA", "INDIA", "UK")
+
+Month Name Generation based on G2 Cell
+--------------------------------------
+	=CHOOSE(=MONTH(G2), "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+
+Season Generation:
+------------------
+=IF(OR(I2="Jan", I2="Feb", I2="Dec"), "Winter", IF(OR(I2="Mar", I2="Apr", I2="May"), "Spring", IF(OR(I2="Jun", I2="Jul", I2="Aug"), "Summer", IF(OR(I2="Sep", I2="Oct", I2="Nov"), "Autumn", ""))))
+
+
+Region Direction Generation:
+--------------------
+=CHOOSE(RANDBETWEEN(1,8), "East", "West", "North", "South", "North-East", "South-East", "South-West", "North-West")
+
+Sales Persons Name:
+------------------
+=CHOOSE(RANDBETWEEN(1,20), "Mohammed Khan","Maria Garcia","Liu Wei","Priya Patel","Jamal Al-Farsi","Anna Nowak","Carlos Rodriguez","Yuri Petrov","Fatima Mohamed","Ahmed Hassan","Nguyen Minh","Isabella Rossi","Juan Lopez","Yuki Tanaka","Leila Abadi","David Kim","Aisha Abubakar","Marcelo Silva","Ingrid Svensson","Miguel Fernandez")
+
+
+USA State Generation:
+-------------------
+=CHOOSE(RANDBETWEEN(1,57), "AL", "AK", "AZ", "AR", "AS", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "GU", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "MP", "OH", "OK", "OR", "PA", "PR", "RI", "SC", "SD", "TN", "TX", "TT", "UT", "VT", "VA", "VI", "WA", "WV", "WI", "WY")
+
+Sales Manager Name:
+-------------------
+=CHOOSE(RANDBETWEEN(1,5), "Sophia Li","Mohammad Rahman","Elena Costa","Tariq Khan","Mei Chen")
+
+Sale Amount:
+-----------
+=RANDBETWEEN(1, 25)*RANDBETWEEN(11000, 1000000)+RANDBETWEEN(11000, 1000000)
+
+Date of Sale:
+------------
+=RANDBETWEEN(date(2010, 1, 1), Date(2020, 12, 31))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>State: <strong>Utah</strong><br>Season: <strong>Spring</strong>
+
+Index(['featurecla', 'scalerank', 'adm1_code', 'diss_me', 'iso_3166_2',
+       'wikipedia', 'iso_a2', 'adm0_sr', 'name', 'name_alt',
+       ...
+       'SalesPerson', 'SalesValue', 'Region', 'Country', 'StateName',
+       'SalesManager', 'DateOfSale', 'YearOfSale', 'MonthOfSale', 'Season'],
+      dtype='object', length=133)
+             featurecla  scalerank adm1_code  diss_me  ...                 DateOfSale YearOfSale MonthOfSale  Season
+113  Admin-1 scale rank          2  USA-3526     3526  ...   Thursday, April 29, 2010       2010         Apr  Spring
+115  Admin-1 scale rank          2  USA-3526     3526  ...  Wednesday, March 27, 2013       2013         Mar  Spring
+118  Admin-1 scale rank          2  USA-3526     3526  ...      Saturday, May 7, 2016       2016         May  Spring
+119  Admin-1 scale rank          2  USA-3526     3526  ...      Friday, April 3, 2015       2015         Apr  Spring
+120  Admin-1 scale rank          2  USA-3526     3526  ...     Wednesday, May 8, 2013       2013         May  Spring
+
+[5 rows x 133 columns]
+
+
+
+
+
+=IFERROR(
+    IF(
+        OR(
+            ISNUMBER(SEARCH("American Samoa", B2)),
+            ISNUMBER(SEARCH("Guam", B2)),
+            ISNUMBER(SEARCH("Northern Mariana Islands", B2)),
+            ISNUMBER(SEARCH("Puerto Rico", B2)),
+            ISNUMBER(SEARCH("Virgin Islands", B2)),
+            ISNUMBER(SEARCH("Trust Territories", B2))
+        ),
+        "Chamorro Standard Time (ChST)",
+        IF(
+            OR(
+                ISNUMBER(SEARCH("Hawaii", B2))
+            ),
+            "Hawaii-Aleutian Standard Time (HAST)",
+            IF(
+                OR(
+                    ISNUMBER(SEARCH("Alaska", B2))
+                ),
+                "Alaska Standard Time (AKST)",
+                IF(
+                    OR(
+                        ISNUMBER(SEARCH("Pacific", B2)),
+                        ISNUMBER(SEARCH("Washington", B2)),
+                        ISNUMBER(SEARCH("Oregon", B2)),
+                        ISNUMBER(SEARCH("California", B2)),
+                        ISNUMBER(SEARCH("Nevada", B2)),
+                        ISNUMBER(SEARCH("Idaho", B2)),
+                        ISNUMBER(SEARCH("Montana", B2))
+                    ),
+                    "Pacific Standard Time (PST)",
+                    IF(
+                        OR(
+                            ISNUMBER(SEARCH("Arizona", B2)),
+                            ISNUMBER(SEARCH("Arizona", B2)),
+                            ISNUMBER(SEARCH("Utah", B2)),
+                            ISNUMBER(SEARCH("New Mexico", B2)),
+                            ISNUMBER(SEARCH("Wyoming", B2))
+                        ),
+                        "Mountain Standard Time (MST)",
+                        IF(
+                            OR(
+                                ISNUMBER(SEARCH("Central", B2)),
+                                ISNUMBER(SEARCH("Texas", B2)),
+                                ISNUMBER(SEARCH("North Dakota", B2)),
+                                ISNUMBER(SEARCH("South Dakota", B2)),
+                                ISNUMBER(SEARCH("Nebraska", B2)),
+                                ISNUMBER(SEARCH("Kansas", B2)),
+                                ISNUMBER(SEARCH("Oklahoma", B2)),
+                                ISNUMBER(SEARCH("Arkansas", B2)),
+                                ISNUMBER(SEARCH("Iowa", B2)),
+                                ISNUMBER(SEARCH("Mississippi", B2)),
+                                ISNUMBER(SEARCH("Alabama", B2)),
+                                ISNUMBER(SEARCH("Colorado", B2)),
+                                ISNUMBER(SEARCH("Missouri", B2)),
+                                ISNUMBER(SEARCH("Louisiana", B2)),
+                                ISNUMBER(SEARCH("Minnesota", B2))
+
+                            ),
+                            "Central Standard Time (CST)",
+                            IF(
+                                OR(
+                                    ISNUMBER(SEARCH("Eastern", B2)),
+                                    ISNUMBER(SEARCH("Wisconsin", B2)),
+                                    ISNUMBER(SEARCH("Illinois", B2)),
+                                    ISNUMBER(SEARCH("Michigan", B2)),
+                                    ISNUMBER(SEARCH("Indiana", B2)),
+                                    ISNUMBER(SEARCH("Ohio", B2)),
+                                    ISNUMBER(SEARCH("Kentucky", B2)),
+                                    ISNUMBER(SEARCH("West Virginia", B2)),
+                                    ISNUMBER(SEARCH("Virginia", B2)),
+                                    ISNUMBER(SEARCH("North Carolina", B2)),
+                                    ISNUMBER(SEARCH("Tennessee", B2)),
+                                    ISNUMBER(SEARCH("South Carolina", B2)),
+                                    ISNUMBER(SEARCH("Georgia", B2)),
+                                    ISNUMBER(SEARCH("Florida", B2)),
+                                    ISNUMBER(SEARCH("Maryland", B2)),
+                                    ISNUMBER(SEARCH("Delaware", B2)),
+                                    ISNUMBER(SEARCH("Pennsylvania", B2)),
+                                    ISNUMBER(SEARCH("New Jersey", B2)),
+                                    ISNUMBER(SEARCH("New York", B2)),
+                                    ISNUMBER(SEARCH("Connecticut", B2)),
+                                    ISNUMBER(SEARCH("Rhode Island", B2)),
+                                    ISNUMBER(SEARCH("Massachusetts", B2)),
+                                    ISNUMBER(SEARCH("Vermont", B2)),
+                                    ISNUMBER(SEARCH("New Hampshire", B2)),
+                                    ISNUMBER(SEARCH("Maine", B2)),
+                                    ISNUMBER(SEARCH("District of Columbia", B2))
+                                ),
+                                "Eastern Standard Time (EST)",
+                                "Unknown"
+                            )
+                        )
+                    )
+                )
+            )
+        )
+    ),
+    "Unknown"
+)
+
+
+http://127.0.0.1:5000/
+http://127.0.0.1:5050/generate_map
+
+
+
+form 26as
+form 16
+20-21
+21-22
+
