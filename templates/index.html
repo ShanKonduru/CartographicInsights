@@ -89,6 +89,8 @@
         </select><br><br>
         <input type="submit" value="Generate Map">
     </form>
+    <!-- Add the "Generate Total Sales Map" button -->
+    <button id="generateTotalSalesMap">Generate Total Sales Map</button>
     <script>
         // Function to handle form submission
         document.getElementById("mapForm").addEventListener("submit", function(event) {
@@ -101,6 +103,11 @@
             // Redirect user to generate_map endpoint with selected parameters
             window.location.href = "/generate_map?year=" + year + "&state=" + state;
             });
+        // Function to handle click event on "Generate Total Sales Map" button
+        document.getElementById("generateTotalSalesMap").addEventListener("click", function() {
+            // Redirect user to the "/totalsales" Flask route
+            window.location.href = "/totalsales";
+        });
     </script>
 </body>
 

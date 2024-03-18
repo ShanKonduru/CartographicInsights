@@ -97,14 +97,21 @@ class PlotMe:
 
     def generate_filtered_sales_map(self, OutputHtmlFileName,  **kwargs):
         print('*************************** Inside generate_filtered_sales_map')
+        
         print('*************************** Before merge_sales_data')
         self.merge_sales_data()
+        
         print('*************************** Before create_map')
         self.create_map()
+        
         print('*************************** Before create_marker_cluster')
         self.create_marker_cluster()
+        
         print('*************************** Before add_markers_filtered')
+        for key, value in kwargs.items():
+            print("*************************** " + key + " : " + str(value))
         self.add_markers_filtered(**kwargs)
+        
         print('*************************** Saving Output HTML file :' + 'templates/'+ OutputHtmlFileName)
         self.usa_map.save('templates/' + OutputHtmlFileName)
         print('*************************** Saved Output HTML file :' + 'templates/'+ OutputHtmlFileName)
