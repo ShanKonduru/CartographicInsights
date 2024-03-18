@@ -174,3 +174,9 @@ Index(['featurecla', 'scalerank', 'adm1_code', 'diss_me', 'iso_3166_2',
 )
 
 
+
+http://127.0.0.1:5000/
+
+http://127.0.0.1:5000/generate_map?year=2014&state=California
+
+http://127.0.0.1:5000/totalsales

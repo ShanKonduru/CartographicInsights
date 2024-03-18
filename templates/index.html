@@ -9,6 +9,8 @@
 
 <body>
     <h1>Map Generator</h1>
+    <br>
+    <br>
     <form id="mapForm" action="/generate_map" method="get">
         <label for="year">Select Year:</label>
         <select id="year" name="year">
@@ -89,8 +91,38 @@
         </select><br><br>
         <input type="submit" value="Generate Map">
     </form>
+    <br>
+    <h1>Generated Total Sales Map</h1>
+    <br>
     <!-- Add the "Generate Total Sales Map" button -->
     <button id="generateTotalSalesMap">Generate Total Sales Map</button>
+    <br>
+    <br>
+    <h1>Generated Sales Map Based on TimeZone and Sales Manager</h1>
+    <br>
+    <br>
+    <form id="TimeZoneMapForm" action="/generate_timezone_map" method="get">
+        <label for="TimeZone">Select TimeZone:</label>
+        <select id="TimeZone" name="TimeZone">
+            <option value="Chamorro Standard Time (ChST)">"Chamorro Standard Time (ChST)"</option>
+            <option value="Central Standard Time (CST)">"Central Standard Time (CST)"</option>
+            <option value="Eastern Standard Time (EST)">"Eastern Standard Time (EST)"</option>
+            <option value="Mountain Standard Time (MST)">"Mountain Standard Time (MST)"</option>
+            <option value="Pacific Standard Time (PST)">"Pacific Standard Time (PST)"</option>
+            <option value="Alaska Standard Time (AKST)">"Alaska Standard Time (AKST)"</option>
+            <option value="Hawaii-Aleutian Standard Time (HAST)">"Hawaii-Aleutian Standard Time (HAST)"</option>
+        </select><br><br>
+        <label for="SalesManager">Select Sales Manager Name:</label>
+        <select id="SalesManager" name="SalesManager">
+            <option value='Mohammad Rahman'>'Mohammad Rahman'</option>
+            <option value='Mei Chen'>'Mei Chen'</option>
+            <option value='Sophia Li'>'Sophia Li'</option>
+            <option value='Elena Costa'>'Elena Costa'</option>
+            <option value='Tariq Khan'>'Tariq Khan'</option>
+        </select><br><br>
+        <input type="submit" value="Generate Map TimeZone and Sales Manager">
+    </form>
+    <br>
     <script>
         // Function to handle form submission
         document.getElementById("mapForm").addEventListener("submit", function(event) {
@@ -108,6 +140,17 @@
             // Redirect user to the "/totalsales" Flask route
             window.location.href = "/totalsales";
         });
+        // Function to handle form submission
+        document.getElementById("TimeZoneMapForm").addEventListener("submit", function(event) {
+            event.preventDefault(); 
+            
+            // Get selected year and state values
+            var timeZone = document.getElementById("TimeZone").value;
+            var salesManager = document.getElementById("SalesManager").value;
+
+            // Redirect user to generate_map endpoint with selected parameters
+            window.location.href = "/generate_timezone_map?Timezone=" + timeZone + "&SalesManager=" + salesManager;
+            });
     </script>
 </body>
 

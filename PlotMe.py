@@ -121,6 +121,8 @@ class PlotMe:
         self.create_map()
         self.create_marker_cluster()
         sales_persons = self.merged_data['SalesPerson'].unique()
+        
         for sales_person_name in sales_persons:
             self.add_markers(sales_person_name)
-        self.usa_map.save(OutputHtmlFileName)
+        
+        self.usa_map.save('templates/' + OutputHtmlFileName)

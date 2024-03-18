@@ -40,19 +40,17 @@ def generate_total_sales_map():
     if(os.path.exists(OutputHtmlFileName)):
         os.remove(OutputHtmlFileName)
 
-    print('***************************  Begin generate_filtered_sales_map')
+    print('***************************  Begin generate_total_sales_map')
     plotter.generate_total_sales_map(OutputHtmlFileName)
-    print('***************************  End generate_filtered_sales_map')
+    print('***************************  End generate_total_sales_map')
 
     print('*************************** Looking for OutputHtmlFileName file exists :' + OutputHtmlFileName)
-    # Check if the file exists
-    # while not os.path.exists(OutputHtmlFileName):
     time.sleep(2)  # Check every second
     print('*************************** The OutputHtmlFileName file exists :' + OutputHtmlFileName)
 
     # Render the map in the HTML template
     print('*************************** render_template')
-    return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
+    return render_template("map_template.html", map_file=OutputHtmlFileName, state='All states', year='all years')
 
 @app.route('/generate_map', methods=['GET'])
 def generate_map():
@@ -81,8 +79,8 @@ def generate_map():
         os.remove(OutputHtmlFileName)
 
     print('***************************  Begin generate_filtered_sales_map')
-    # plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
-    plotter.generate_filtered_sales_map(OutputHtmlFileName,State="Utah", Season="Spring")
+    plotter.generate_filtered_sales_map(OutputHtmlFileName, YearOfSale=year, State=state)
+    # plotter.generate_filtered_sales_map(OutputHtmlFileName,State="Utah", Season="Spring")
     print('***************************  End generate_filtered_sales_map')
 
     print('*************************** Looking for OutputHtmlFileName file exists :' + OutputHtmlFileName)
@@ -94,6 +92,48 @@ def generate_map():
     # Render the map in the HTML template
     print('*************************** render_template')
     return render_template("map_template.html", map_file=OutputHtmlFileName, state=state, year=year)
+
+@app.route('/generate_timezone_map', methods=['GET'])
+def generate_timezone_map():
+    # Retrieve form data
+    # Read sales data from CSV file
+    sales_data_df = pd.read_csv("Dataset/GeographicDataAnalysis.csv")
+
+    shapefile_path = 'MapData/ne_110m_admin_1_states_provinces.shp'  # Provide the path to your shapefile
+    sales_data_df = sales_data_df  # You need to load your sales data DataFrame here
+
+    # Create an instance of CustomLogger with both console and file logging
+    logger = CustomLogger(debug_mode=True, log_file="Logs/app.log")
+
+    plotter = PlotMe(shapefile_path, sales_data_df, logger)
+    
+    # Extract the year and state parameters from the URL query string
+    timeZone = request.args.get('timeZone')
+    salesManager = request.args.get('salesManager')
+
+    if not timeZone or not salesManager:
+        return "'timeZone' and 'salesManager' parameters are required."
+
+    OutputHtmlFileName = f'map_{timeZone}_{salesManager}.html'  # Define the output HTML file name
+
+    if(os.path.exists(OutputHtmlFileName)):
+        os.remove(OutputHtmlFileName)
+
+    print('***************************  Begin generate_filtered_sales_map')
+    plotter.generate_filtered_sales_map(OutputHtmlFileName, TimeZone=timeZone, SalesManager=salesManager)
+    # plotter.generate_filtered_sales_map(OutputHtmlFileName,State="Utah", Season="Spring")
+    print('***************************  End generate_filtered_sales_map')
+
+    print('*************************** Looking for OutputHtmlFileName file exists :' + OutputHtmlFileName)
+    # Check if the file exists
+    # while not os.path.exists(OutputHtmlFileName):
+    time.sleep(2)  # Check every second
+    print('*************************** The OutputHtmlFileName file exists :' + OutputHtmlFileName)
+
+    # Render the map in the HTML template
+    print('*************************** render_template')
+    return render_template("map_template.html", map_file=OutputHtmlFileName, state='ALL', year='ALL')
+
 
 if __name__ == '__main__':
     app.run(debug=True)
