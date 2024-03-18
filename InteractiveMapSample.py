@@ -108,8 +108,8 @@ def generate_timezone_map():
     plotter = PlotMe(shapefile_path, sales_data_df, logger)
     
     # Extract the year and state parameters from the URL query string
-    timeZone = request.args.get('timeZone')
-    salesManager = request.args.get('salesManager')
+    timeZone = request.args.get('Timezone')
+    salesManager = request.args.get('SalesManager')
 
     if not timeZone or not salesManager:
         return "'timeZone' and 'salesManager' parameters are required."
